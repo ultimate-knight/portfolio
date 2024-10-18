@@ -1,0 +1,13174 @@
+
+html{
+    scroll-behavior: smooth;
+    color: black;
+    overflow-x: hidden;
+    -webkit-scroll-behavior: smooth;
+    will-change: transform;
+    touch-action: auto;
+    height: 200%;
+    /* max-width: 1440px; */
+   
+}
+
+   
+
+body{
+    background-color: black;
+    width: 100%;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    height: 200%;
+    max-width: 1440px;
+}
+
+
+#bhakti{
+    font-size: 56px;
+    position: relative;
+    left: 340px;
+    top:210px;
+    color: white;
+}
+
+
+#tana{
+    position: relative;
+    left:-110px;
+}
+
+#finira{
+    position: relative;
+    top:-30px;
+}
+
+#barona{
+    position: relative;
+    left:-40px;
+}
+
+#valio{
+    position: relative;
+    left:30px;
+}
+
+#yerula{
+    position: relative;
+    font-size: 18px;
+    left:20px;
+    top:20px;
+}
+
+#garula{
+    position: relative;
+    font-size: 18px;
+    top:20px;
+}
+
+
+
+#content{
+    height: 820px;
+    width: 1460px;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8), rgba(255, 255, 255, 0.8));
+    box-shadow: 20px, 12px, 10px, 10px, rgb(43, 90, 200);
+    opacity: 50%;
+    backdrop-filter: blur(100px);
+    padding-top: 100px;
+    margin-left: -20px;
+    margin-top: 0px;
+    margin-right:0px;
+}
+
+
+h2{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+    font-weight: 26;
+    text-decoration: underline;
+    position: relative;
+    left: -40px; 
+    
+   
+}
+
+
+
+.about {
+    position: relative;
+    right:10px;
+    width: 1460px;
+    /* overflow-x: hidden; */
+    font-family: 'Gill Sans', 'Gill Sans MT', "Calibri", 'Trebuchet MS', "sans-serif";
+    height: 500px;
+    background-color: rgb(30, 30, 30);
+    /* overflow-y: hidden; */
+    border: 1px solid black;
+    /* padding-right: 10px; */
+   
+    
+}
+
+#myinfo{
+    height: 2200px;
+    width: 1430px;
+    background-color: rgb(250, 250, 250);
+    padding-top: 20px;
+    min-width: 400px;
+    margin-bottom: 0px;
+    padding-bottom: 500px;
+   
+}
+
+
+
+.getme {
+    width: 1430px;
+    height: 700px;
+    background-color: rgb(30, 30, 30);
+    position: relative;
+    right: 10px;
+    padding-right: 20px;
+    border: 1px solid black;
+   
+}
+
+
+
+
+
+#footer {
+    width: 1430px;
+    height: 100px;
+    background-color: rgb(0, 0, 0);
+    padding-top: 10px;
+    border: 1px solid black;
+    min-width: 400px;
+   
+}
+
+p{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+    word-spacing: 5.5px;
+   
+}
+
+
+#fontgame {
+    color: white;
+    position: relative;
+    left: 430px; 
+    top: -33px;
+    font-size: 33px;
+   
+}
+
+
+h4{
+    color: white;
+    position: relative;
+    left: 485px; 
+    top: -75px;
+    font-size: 14px;
+   
+}
+
+
+.interests{
+    position: relative;
+    bottom: 113px;
+    /* right: 70px; */
+    left: 10px;
+   
+}
+
+
+.paragraph{
+    position: relative;
+    left: 10px;
+    bottom: 50px;
+   
+}
+
+
+#ribbon {
+    height: 300px;
+    width: 180px;
+    border: 2px solid black;
+    position: relative;
+    bottom: 480px;
+    left: 160px;
+    
+   
+}
+
+
+#insta {
+    color: white;
+    position: relative;
+    left: 750px;
+    top: 190px;
+    cursor: pointer;
+   
+}
+
+
+#github{
+    color: white;
+    font-size: 40px;
+    position: relative;
+    left: 680px;
+    top: 189px;
+    cursor: pointer;
+   
+}
+
+
+#linkedin{
+    color: white;
+    font-size: 40px;
+    position: relative;
+    top: 189px;
+    left: 580px;
+    cursor: pointer;
+   
+}
+
+
+
+#resume {
+    color:white;
+    background-color: black;
+    border: none;
+    font-size: 17px;
+    border: 1px solid orange;
+    padding: 45px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+    cursor: pointer;
+    position: relative;
+    bottom: -260px;
+    left: 460px;
+    ;
+   
+}
+
+
+#contact{
+    color:white;
+    background-color: black;
+    border: none;
+    font-size: 17px;
+    border: 1px solid orange;
+    padding: 45px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+    cursor: pointer;
+    position: relative;
+    bottom: -260px;
+    left: 415px;
+    ;
+   
+
+}
+
+#konekt{
+    position: relative;
+    left: -14px;
+    ;
+   
+}
+
+#rembutton{
+    position: relative;
+    right: 23px;
+    ;
+   
+}
+
+
+#download {
+    font-size: 15px;
+    color: white;
+    position: relative;
+    right: 12px;
+    ;
+   
+    
+}
+
+#resume:hover{
+    background-color: darkgray;
+    transform: rotate(1.5deg);
+    ;
+   
+}
+
+
+#linkedin:hover {
+    background-color: black;
+    ;
+   
+}
+
+#contact:hover{
+    background-color: darkgray;
+    transform: rotate(1.5deg);
+    ;
+   
+}
+
+
+#scroll{
+    color: black;
+    background-color: white;
+    font-size: 30px;
+    border: 2px solid white;
+    border-radius: 50%;
+    padding: 12px;
+    position: relative;
+    top: 620px;
+    left: 430px;
+    cursor: pointer;
+    /* overflow-y: hidden; */
+    ;
+   
+} 
+#education{
+    font-weight: 400;
+    position: relative;
+    top: 100px;
+    left: 200px;
+    ;
+   
+    
+}
+
+
+#border{
+    width: 110px;
+    height:2px;
+    background-color: orangered;
+    position: relative;
+    left: 200px;
+    bottom: -85px;
+    ;
+   
+}
+
+
+
+#bachelors{
+    position: relative;
+    font-size: 18px;
+    top: 28px;
+    left: 394px;
+    ;
+   
+}
+
+
+#paragraph{
+    color: black;
+    position: relative;
+    right: 230px;
+    top: 20px;
+    text-align: center;
+    ;
+   
+}
+
+
+.college{
+    position: relative;
+    left: 76px;
+    ;
+   
+}
+
+
+.Affiliated{
+    position: relative;
+    left:27px;
+    ;
+   
+}
+
+
+#project{
+    color: black;
+    position: relative;
+    left: -390px;
+    font-size: 18px;
+    top: 40px;
+    border: none;
+    text-decoration: none;
+    ;
+   
+}
+
+#border1{
+    width: 247px;
+    height:2px;
+    background-color: orangered;
+    position: relative;
+    left: 197px;
+    bottom: -30px;
+    ;
+   
+
+}
+
+#Machine{
+    color: black;
+    font-size: 19px;
+    position: relative;
+    left: 202px;
+    ;
+   
+}
+
+#truproject{
+    color: black;
+    position: relative;
+    right: 340px;
+   
+}
+
+
+#learning{
+    color: black;
+    ;
+   
+}
+
+#food{
+    color: black;
+    position: relative;
+    left: 210px;
+    bottom: 122px;
+    ;
+   
+}
+
+#develop{
+    color: black;
+    position: relative;
+    right: 254px;
+    bottom: 120px;
+    text-align: left;
+    ;
+   
+}
+
+#weather{
+    color: black;
+    position: relative;
+    left: 210px;
+    bottom: 90px;
+    ;
+   
+}
+
+
+#feather{
+    color:black;
+    text-align: left;
+    position: relative;
+    right: 262px;
+    bottom: 90px;
+    ;
+   
+}
+
+#currency{
+    color: black;
+    position: relative;
+    left: 210px;
+    bottom: 157px;
+    ;
+   
+}
+
+#cebas{
+    color: black;
+    text-align: left;
+    position: relative;
+    right: 245px;
+    bottom: 150px;
+    ;
+   
+}
+
+
+#fitness{
+    color: black;
+    position: relative;
+    left: 210px;
+    bottom: 160px;
+    ;
+   
+}
+
+#react-fitness{
+    color: black;
+    text-align: left;
+    position: relative;
+    left: -191px;
+    bottom: 150px;
+   
+}
+
+#fullstack{
+    color: black;
+    position: relative;
+    left: 210px;
+    bottom: 170px;
+
+    ;
+   
+}
+
+
+#fullstack-tech{
+    color: black;
+    text-align: left;
+    position: relative;
+    left: -220px;
+    bottom: 170px;
+    ;
+   
+}
+
+
+#skill{
+    color: black;
+    position: relative;
+    top: 50px;
+    left: 210px;
+    ;
+   
+}
+
+
+#border2{
+    width: 45px;
+    height:2px;
+    background-color: orangered;
+    position: relative;
+    left: 210px;
+    bottom: -36px;
+    ;
+   
+}
+
+#frontend{
+    color: black;
+    position: relative;
+    left: 20px;
+    
+}
+
+
+
+
+/* skillbar */
+
+#wit{
+    height: 17px;
+    width: 400px;
+    position: relative;
+    left: 20px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    ;
+   
+    
+}
+
+#wit1{
+    height: 17px;
+    width: 300px;
+    background-color: orangered;
+    border-radius: 30px;
+    ;
+   
+}
+
+
+#bit{
+    height: 17px;
+    width: 400px;
+    position: relative;
+    left: 20px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    position: relative;
+    bottom: 50px;
+    ;
+   
+}
+
+#bit1{
+    height: 17px;
+    background-color: orangered;
+    width: 300px;
+    border-radius: 30px;
+    ;
+   
+}
+
+#cit{
+    height: 17px;
+    width: 400px;
+    position: relative;
+    left: 20px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    position: relative;
+    top:-98px;
+    ;
+   
+}
+
+#cit1{
+    height: 17px;
+    background-color: orangered;
+    width: 280px;
+    border-radius: 30px;
+    ;
+   
+
+}
+
+#dit{
+    height: 17px;
+    width: 400px;
+    position: relative;
+    left: 20px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    position: relative;
+    top: -147px;
+    ;
+   
+
+}
+
+#dit1{
+    height: 17px;
+    background-color: orangered;
+    width: 260px;
+    border-radius: 30px;
+    ;
+   
+
+}
+
+
+
+/* All skillbar headings */
+#hyper{
+    color: black;
+    position: relative;
+    left: 22px;
+    top:10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    ;
+   
+}
+
+
+#styling{
+    color: black;
+    position: relative;
+    left: 22px;
+    top: -40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    ;
+   
+
+}
+
+
+#java{
+    color: black;
+    position: relative;
+    left: 22px;
+    top: -90px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    ;
+   
+}
+
+#roct{
+    color: black;
+    position: relative;
+    left: 22px;
+    top:-140px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    ;
+   
+
+}
+
+
+
+/*crackend development skillbars*/
+
+
+
+#ait{
+    height: 17px;
+    width: 400px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    position: relative;
+    left:900px;
+    bottom: 460px;
+    ;
+   
+}
+
+#ait2{
+    height: 17px;
+    width: 400px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    position: relative;
+    left:900px;
+    bottom: 511px;
+
+}
+
+
+#ait3{
+    height: 17px;
+    width: 400px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    position: relative;
+    left:900px;
+    bottom: 562px;
+}
+
+#ait4{
+    height: 17px;
+    width: 400px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    position: relative;
+    left:900px;
+    bottom: 612px;
+}
+
+#ait1{
+    height: 17px;
+    background-color: orangered;
+    width: 280px;
+    border-radius: 30px;
+    ;
+   
+
+}
+
+
+#py{
+    color: black;
+    position: relative;
+    top: -845px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 900px;
+    
+   
+}
+
+#node{
+    color: black;
+    position: relative;
+    top: -823px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 900px;
+    ;
+   
+
+}
+
+
+#sql{
+    color: black;
+    top: -803px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 900px;
+    ;
+   
+}
+
+#postgre{
+    color: black;
+    top: -780px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 900px;
+    ;
+   
+}
+
+
+
+
+
+
+
+/*form*/
+
+#msg{
+    position: relative;
+    top: 50px;
+    left: 20px;
+    font-size: 17px;
+    padding: 15px;
+    border-radius: 30px;
+    color: white;
+    background-color: black;
+    border: none;
+    border: 1px solid orangered;
+    cursor: pointer;
+    ;
+   
+}
+
+#msg:hover{
+    background-color: grey;
+    ;
+   
+
+}
+
+#crackend{
+    position: relative;
+    left: 900px;
+    bottom: 500px;
+}
+
+#textarea{
+    position: relative;
+    top: 51px;
+    left: 20px;
+    padding: 90px;
+    padding-right: 300px;
+    background-color: rgb(80, 80, 80);
+   
+}
+
+#textarea::placeholder{
+    position: relative;
+
+    bottom: 50px;
+    right: 50px;
+    font-size: 16px;
+    ;
+   
+}
+
+#email{
+
+    position: relative;
+    top: 50px;
+    left: 20px;
+    background-color: rgb(80, 80, 80);
+    padding: 10px;
+    padding-right: 400px;
+    border-radius: 10px;
+    border: none;
+    ;
+   
+
+}
+
+
+#txt{
+    position: relative;
+    top: 50px;
+    left: 20px;
+    background-color: rgb(80, 80, 80);
+    padding: 10px;
+    padding-right: 400px;
+    border-radius: 10px;
+    border: none;
+    ;
+   
+}
+
+#envelope{
+    font-size: 50px;
+    color: white;
+    position: relative;
+    top: 100px;
+    left: 20px
+    ;
+   
+}
+
+
+#houch{
+
+    position: relative;
+    left:-550px;
+    top:30px;
+    font-size: 30px;
+    ;
+   
+}
+
+
+
+
+/*footer*/
+#call{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 160px;
+    top:100px;
+    ;
+   
+}
+
+#gail{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 650px;
+    top:27px;
+    ;
+   
+
+}
+
+
+#yui{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 1100px;
+    bottom:43px;
+    ;
+   
+
+}
+
+#code{
+    position: relative;
+    top: 60px;
+    left: -460px;
+    ;
+   
+}
+
+#encypt{
+    position: relative;
+    bottom: 10px;
+    left:42px;
+    ;
+   
+}
+
+#hub{
+    position: relative;
+    left: 525px;
+    bottom:80px;
+    ;
+   
+}
+
+#who{
+    color: black;
+    font-size: 30px;
+    border-radius: 50%;
+    background-color: white;
+    padding: 15px;
+    position: relative;
+    left: 615px;
+    cursor: pointer;
+   
+
+}
+
+
+
+
+/*After editing*/
+
+
+#rist{
+    position: relative;
+    left: 180px;
+    bottom:55px;
+    ;
+   
+}
+
+
+#reckon{
+    position: relative;
+    bottom: 90px;
+    left: 210px;
+    ;
+   
+}
+
+
+#hona{
+    position: relative;
+    left: 205px;
+    bottom:40px;
+   
+}
+
+
+#t1{
+    position: relative;
+    bottom: 130px;
+    left: 210px;
+
+    ;
+   
+}
+
+
+#t2{
+    position: relative;
+    left: 210px;
+    bottom: 120px;
+    ;
+   
+
+}
+
+#t3{
+    position: relative;
+    left: 210px;
+    bottom: 200px;
+    ;
+   
+}
+
+#t4{
+    position: relative;
+    left: 210px;
+    bottom: 200px;
+    ;
+   
+}
+
+
+#t6{
+    position: relative;
+    left: 210px;
+    bottom: 180px;
+    ;
+   
+}
+
+#krum{
+    position: relative;
+    bottom: 50px;
+}
+
+#lanko{
+    position: relative;
+    bottom: 100px;
+}
+
+#banko{
+    position: relative;
+    bottom:150px;
+}
+
+@media(max-width:1354px){
+
+#yui{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 1000px;
+    bottom:43px;
+    ;
+   
+
+}
+
+
+
+#hub{
+    position: relative;
+    left: 425px;
+    bottom:80px;
+    ;
+   
+}
+
+#who{
+    color: black;
+    font-size: 30px;
+    border-radius: 50%;
+    background-color: white;
+    padding: 15px;
+    position: relative;
+    left: 600px;
+    cursor: pointer;
+   
+
+}
+
+
+
+
+
+}
+
+
+
+@media(max-width:1332px) and (min-width:1155px){
+    #bhakti{
+        font-size: 56px;
+        position: relative;
+        left: 300px;
+    }
+
+
+    body{
+        max-width: 1332px;
+        min-width: 1155px;
+    }
+
+#github{
+    color: white;
+    font-size: 40px;
+    position: relative;
+    left: 640px;
+    top: 189px;
+    cursor: pointer;
+   
+}
+
+
+#linkedin{
+    color: white;
+    font-size: 40px;
+    position: relative;
+    top: 189px;
+    left: 540px;
+    cursor: pointer;
+   
+}
+
+
+
+#resume {
+    color:white;
+    background-color: black;
+    border: none;
+    font-size: 17px;
+    border: 1px solid orange;
+    padding: 45px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+    cursor: pointer;
+    position: relative;
+    bottom: -260px;
+    left: 420px;
+    ;
+   
+}
+
+
+#contact{
+    color:white;
+    background-color: black;
+    border: none;
+    font-size: 17px;
+    border: 1px solid orange;
+    padding: 45px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+    cursor: pointer;
+    position: relative;
+    bottom: -260px;
+    left: 375px;
+    ;
+   
+
+}
+
+
+
+#scroll{
+    color: black;
+    background-color: white;
+    font-size: 30px;
+    border: 2px solid white;
+    border-radius: 50%;
+    padding: 12px;
+    position: relative;
+    top: 606px;
+    left: 390px;
+    cursor: pointer;
+    /* overflow-y: hidden; */
+    ;
+   
+}
+
+}
+
+
+@media(max-width:1296px){
+
+    #bhakti{
+        position: relative;
+        left: 270px;
+    }
+
+
+    body{
+        max-width: 1296px;
+    }
+
+
+    #github{
+        position: relative;
+        left: 600px;
+
+        
+
+    }
+
+    #linkedin{
+        position: relative;
+        left: 500px;
+
+    }
+
+    #resume{
+        position: relative;
+        left: 380px;
+
+    }
+
+    #contact{
+        position: relative;
+        left: 330px;
+
+    }
+    
+#ait{
+    height: 17px;
+    width: 400px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    position: relative;
+    left:600px;
+    bottom: 460px;
+    ;
+   
+}
+
+#ait2{
+    height: 17px;
+    width: 400px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    position: relative;
+    left:600px;
+    bottom: 511px;
+
+}
+
+
+#ait3{
+    height: 17px;
+    width: 400px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    position: relative;
+    left:600px;
+    bottom: 562px;
+}
+
+#ait4{
+    height: 17px;
+    width: 400px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    position: relative;
+    left:600px;
+    bottom: 612px;
+}
+
+#ait1{
+    height: 17px;
+    background-color: orangered;
+    width: 280px;
+    border-radius: 30px;
+    ;
+   
+
+}
+
+
+#py{
+    color: black;
+    position: relative;
+    top: -845px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 600px;
+    
+   
+}
+
+#node{
+    color: black;
+    position: relative;
+    top: -823px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 600px;
+    ;
+   
+
+}
+
+
+#sql{
+    color: black;
+    top: -803px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 600px;
+    ;
+   
+}
+
+#postgre{
+    color: black;
+    top: -780px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 600px;
+    ;
+   
+}
+
+
+#crackend{
+    position: relative;
+    left: 600px;
+    bottom: 475px;
+}
+
+
+#yui{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 900px;
+    bottom:43px;
+    ;
+   
+
+}
+
+
+
+#hub{
+    position: relative;
+    left: 325px;
+    bottom:80px;
+    ;
+   
+}
+
+
+#gail{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 500px;
+    top:27px;
+    ;
+   
+
+}
+
+
+
+#encypt{
+    position: relative;
+    bottom: 10px;
+    left:-110px;
+    ;
+   
+}
+
+
+@media(width:1280px) and (height:800px){
+
+
+    
+    
+    body{
+        overflow-x: hidden;
+        margin: 0px;         
+        padding-right: 0px;
+        overflow-x: hidden;
+        width: 1310px;
+        width: 1280px;
+        margin-right: 0px;
+
+    }
+
+
+    
+    #content{
+        height: 814px;
+        width: 110%;
+        background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8), rgba(255, 255, 255, 0.8));
+        box-shadow: 20px, 12px, 10px, 10px, rgb(43, 90, 200);
+        opacity: 50%;
+        position: relative;
+        left: 10px;
+        backdrop-filter: blur(100px);
+        padding-top: 100px;
+        margin-left: -20px;
+        margin-top: 0px;
+        margin-right:0px;
+    }
+    
+
+    #bhakti{
+        position: relative;
+        left: 289px;
+        font-size: 50px;
+    }
+
+    #scroll{
+        position: relative;
+        left: 340px;
+        top: 620px;
+    }
+
+    #github{
+        position: relative;
+        left: 580px;
+
+        
+
+    }
+
+    #linkedin{
+        position: relative;
+        left: 480px;
+
+    }
+
+    #resume{
+        position: relative;
+        left: 370px;
+
+    }
+
+    #contact{
+        position: relative;
+        left: 320px;
+
+    }
+
+    #mandola{
+        position: relative;
+        left: -120px;
+    }
+    
+}
+
+
+
+
+
+@media(max-width:1230px){
+
+
+    body{
+        max-width: 1230px;
+    }
+
+
+    #bhakti{
+        position: relative;
+        left: 260px;
+    }
+
+    #github{
+        position: relative;
+        left: 600px;
+
+        
+
+    }
+
+    #linkedin{
+        position: relative;
+        left: 500px;
+
+    }
+
+    #resume{
+        position: relative;
+        left: 380px;
+
+    }
+
+    #contact{
+        position: relative;
+        left: 330px;
+
+    }
+    
+
+}
+
+
+@media(max-width:1184px) and (min-width:913px) {
+
+    body{
+        max-width: 1184px;
+        min-width: 913px;
+    }
+    #bhakti{
+        font-size: 56px;
+        position: relative;
+        left: 200px;
+
+    }
+
+    #mandola{
+        position: relative;
+        left: -180px;
+    }
+
+
+
+
+#github{
+    color: white;
+    font-size: 40px;
+    position: relative;
+    left: 550px;
+    top: 189px;
+    cursor: pointer;
+   
+}
+
+
+#linkedin{
+    color: white;
+    font-size: 40px;
+    position: relative;
+    top: 189px;
+    left: 450px;
+    cursor: pointer;
+   
+}
+
+
+#scroll{
+    color: black;
+    background-color: white;
+    font-size: 30px;
+    border: 2px solid white;
+    border-radius: 50%;
+    padding: 12px;
+    position: relative;
+    top: 606px;
+    left: 310px;
+    cursor: pointer;
+    /* overflow-y: hidden; */
+    ;
+   
+}
+
+
+
+
+#resume {
+    color:white;
+    background-color: black;
+    border: none;
+    font-size: 17px;
+    border: 1px solid orange;
+    padding: 45px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+    cursor: pointer;
+    position: relative;
+    bottom: -260px;
+    left: 330px;
+    ;
+   
+}
+
+
+#contact{
+    color:white;
+    background-color: black;
+    border: none;
+    font-size: 17px;
+    border: 1px solid orange;
+    padding: 45px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+    cursor: pointer;
+    position: relative;
+    bottom: -260px;
+    left: 275px;
+    ;
+   
+
+}
+
+#call{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 160px;
+    top:90px;
+    ;
+   
+}
+
+#gail{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 510px;
+    top:21px;
+    ;
+   
+
+}
+
+
+#yui{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 800px;
+    bottom:43px;
+    ;
+   
+
+}
+
+#code{
+    position: relative;
+    top: 60px;
+    left: -460px;
+    font-size: 13px;
+    ;
+   
+}
+
+#encypt{
+    position: relative;
+    bottom: 10px;
+    left:-112px;
+    font-size: 13px;
+    ;
+   
+}
+
+#hub{
+    position: relative;
+    left: 205px;
+    bottom:75px;
+    font-size: 13px;
+    ;
+   
+}
+
+#who{
+    color: black;
+    font-size: 30px;
+    border-radius: 50%;
+    background-color: white;
+    padding: 15px;
+    position: relative;
+    left: 520px;
+    cursor: pointer;
+   
+
+}
+
+
+
+}
+
+
+@media(max-width:1092px) {
+
+    body{
+        max-width: 1092px;
+    }
+    #bhakti{
+        font-size: 50px;
+        position: relative;
+        left: 200px;
+
+    }
+
+
+#scroll{
+    color: black;
+    background-color: white;
+    font-size: 30px;
+    border: 2px solid white;
+    border-radius: 50%;
+    padding: 12px;
+    position: relative;
+    top: 626px;
+    left: 270px;
+    cursor: pointer;
+    /* overflow-y: hidden; */
+    ;
+   
+}
+
+
+#github{
+    color: white;
+    font-size: 40px;
+    position: relative;
+    left: 510px;
+    top: 189px;
+    cursor: pointer;
+   
+}
+
+
+#linkedin{
+    color: white;
+    font-size: 40px;
+    position: relative;
+    top: 189px;
+    left: 400px;
+    cursor: pointer;
+   
+}
+
+#who{
+    position: relative;
+    left: 470px;
+}
+
+
+
+#resume {
+    color:white;
+    background-color: black;
+    border: none;
+    font-size: 17px;
+    border: 1px solid orange;
+    padding: 45px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+    cursor: pointer;
+    position: relative;
+    bottom: -260px;
+    left: 280px;
+    ;
+   
+}
+
+
+#contact{
+    color:white;
+    background-color: black;
+    border: none;
+    font-size: 17px;
+    border: 1px solid orange;
+    padding: 45px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+    cursor: pointer;
+    position: relative;
+    bottom: -260px;
+    left: 225px;
+    ;
+   
+
+}
+
+}
+
+
+@media(max-width:1065px) and (min-width:913px){
+
+    body{
+        max-width: 1065px;
+        min-width: 913px;
+    }
+   
+
+.paragraph{
+    position: relative;
+    left: -100px;
+    bottom: 50px;
+    font-size: 15px;
+}
+
+
+#ribbon {
+    height: 300px;
+    width: 180px;
+    border: 2px solid black;
+    position: relative;
+    bottom: 430px;
+    left: 90px;
+    
+   
+}
+
+
+
+h2{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+    font-weight: 26;
+    text-decoration: underline;
+    position: relative;
+    left: -180px; 
+    
+   
+}
+
+
+
+#scroll{
+    color: black;
+    background-color: white;
+    font-size: 30px;
+    border: 2px solid white;
+    border-radius: 50%;
+    padding: 12px;
+    position: relative;
+    top: 626px;
+    left: 260px;
+    cursor: pointer;
+    /* overflow-y: hidden; */
+    ;
+   
+}
+
+
+#rola{
+    position: relative;
+    left: -110px;
+
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(width:1024px) and (height:1366px){
+    body{
+        width: 1024px;
+    }
+
+
+#bhakti{
+    font-size: 40px;
+    position: relative;
+    left: 250px;
+    top:455px;
+    overflow-x: hidden;
+   
+}
+
+
+#content{
+    height: 1264px;
+    width: 150%;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8), rgba(255, 255, 255, 0.8));
+    box-shadow: 20px, 12px, 10px, 10px, rgb(43, 90, 200);
+    opacity: 50%;
+    backdrop-filter: blur(100px);
+    padding-top: 100px;
+    margin-left: -20px;
+    margin-top: 0px;
+    margin-right:0px;
+}
+
+
+
+#resume {
+    color:white;
+    background-color: black;
+    border: none;
+    font-size: 17px;
+    border: 1px solid orange;
+    padding: 45px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+    cursor: pointer;
+    position: relative;
+    bottom: -480px;
+    left: 250px;
+    ;
+   
+}
+
+
+#contact{
+    color:white;
+    background-color: black;
+    border: none;
+    font-size: 17px;
+    border: 1px solid orange;
+    padding: 45px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 30px;
+    border-radius: 30px;
+    cursor: pointer;
+    position: relative;
+    bottom: -480px;
+    left: 195px;
+    ;
+   
+
+}
+
+
+#mandola{
+    position: relative;
+    left: -270px;
+}
+
+
+
+
+
+
+
+#github{
+    color: white;
+    font-size: 40px;
+    position: relative;
+    left: 490px;
+    top: 433px;
+    cursor: pointer;
+   
+}
+
+
+#linkedin{
+    color: white;
+    font-size: 40px;
+    position: relative;
+    top: 433px;
+    left: 395px;
+    cursor: pointer;
+   
+}
+
+
+
+#scroll{
+    color: black;
+    background-color: white;
+    font-size: 30px;
+    border: 2px solid white;
+    border-radius: 50%;
+    padding: 12px;
+    position: relative;
+    top: 1095px;
+    left: 240px;
+    cursor: pointer;
+    /* overflow-y: hidden; */
+    ;
+   
+}
+
+
+
+#ribbon {
+    height: 300px;
+    width: 160px;
+    border: 2px solid black;
+    position: relative;
+    bottom: 450px;
+    left: 10px;
+    
+   
+}
+
+
+.paragraph{
+    position: relative;
+    left: -200px;
+    bottom: 50px;
+    font-size: 16px;
+   
+}
+
+
+
+#fontgame {
+    color: white;
+    position: relative;
+    left: 200px; 
+    top: -33px;
+    font-size: 33px;
+   
+}
+
+
+
+
+.interests{
+    position: relative;
+    bottom: 113px;
+    /* right: 70px; */
+    left: -235px;
+   
+}
+
+
+#hinter{
+    position: relative;
+    left: 250px;
+}
+
+
+#wit{
+    width: 300px;
+}
+
+#wit1{
+    width: 200px;
+}
+
+
+#bit{
+    width: 300px;
+}
+
+#bit1{
+    width: 200px;
+}
+
+#cit{
+    width: 300px;
+}
+
+#cit1{
+    width: 180px;
+}
+
+
+#dit{
+    width: 300px;
+}
+
+#dit1{
+    width: 160px;
+}
+
+#ait{
+    width: 300px;
+    position: relative;
+    left: 500px;
+}
+
+
+#ait1{
+    width: 200px;
+
+}
+
+#ait2{
+    width: 300px;
+    position: relative;
+    left: 500px;
+}
+
+
+#ait3{
+    width: 300px;
+    position: relative;
+    left: 500px;
+}
+
+
+#ait4{
+    width: 300px;
+    position: relative;
+    left: 500px;
+}
+
+
+
+#py{
+    color: black;
+    position: relative;
+    top: -845px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 500px;
+    
+   
+}
+
+#node{
+    color: black;
+    position: relative;
+    top: -823px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 500px;
+    ;
+   
+
+}
+
+
+#sql{
+    color: black;
+    top: -803px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 500px;
+    ;
+   
+}
+
+#rola{
+    position: relative;
+    left: 30px;
+}
+
+
+#konekt{
+    position: relative;
+    left: -2px;
+    ;
+   
+}
+
+#postgre{
+    color: black;
+    top: -780px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 500px;
+    ;
+   
+}
+
+
+
+
+#footer {
+    width: 1430px;
+    height: 800px;
+    background-color: rgb(0, 0, 0);
+    padding-top: 10px;
+    border: 1px solid black;
+    min-width: 400px;
+   
+}
+
+
+
+#who{
+    color: black;
+    font-size: 30px;
+    border-radius: 50%;
+    background-color: white;
+    padding: 15px;
+    position: relative;
+    left: 390px;
+    cursor: pointer;
+   
+
+}
+
+
+
+
+#gail{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 320px;
+    top:27px;
+    ;
+   
+
+}
+
+
+#encypt{
+    position: relative;
+    bottom: 10px;
+    left:-285px;
+    ;
+   
+}
+
+
+#yui{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 550px;
+    bottom:43px;
+    ;
+   
+
+}
+
+
+
+#hub{
+    position: relative;
+    left: -20px;
+    bottom:80px;
+    ;
+   
+}
+
+
+#crackend{
+    position: relative;
+    left: 500px;
+    bottom: 470px;
+}
+
+
+
+
+
+
+
+
+
+}
+
+
+
+@media(width:1024px) and (height:600px){
+
+    body{
+        width: 1024px;
+    }
+
+
+    #bhakti{
+        font-size: 40px;
+        position: relative;
+        left: 240px;
+        top:240px;
+        overflow-x: hidden;
+       
+    }
+    
+    
+    #content{
+        height: 814px;
+        width: 150%;
+        background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8), rgba(255, 255, 255, 0.8));
+        box-shadow: 20px, 12px, 10px, 10px, rgb(43, 90, 200);
+        opacity: 50%;
+        backdrop-filter: blur(100px);
+        padding-top: 100px;
+        margin-left: -20px;
+        margin-top: 0px;
+        margin-right:0px;
+    }
+    
+    
+    
+    #resume {
+        color:white;
+        background-color: black;
+        border: none;
+        font-size: 17px;
+        border: 1px solid orange;
+        padding: 45px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-right: 15px;
+        border-radius: 30px;
+        cursor: pointer;
+        position: relative;
+        bottom: -270px;
+        left: 270px;
+        ;
+       
+    }
+    
+    
+    #contact{
+        color:white;
+        background-color: black;
+        border: none;
+        font-size: 17px;
+        border: 1px solid orange;
+        padding: 45px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-right: 30px;
+        border-radius: 30px;
+        cursor: pointer;
+        position: relative;
+        bottom: -270px;
+        left: 215px;
+        ;
+       
+    
+    }
+    
+    
+    #mandola{
+        position: relative;
+        left: -270px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    #github{
+        color: white;
+        font-size: 40px;
+        position: relative;
+        left: 490px;
+        top: 223px;
+        cursor: pointer;
+       
+    }
+    
+    
+    #linkedin{
+        color: white;
+        font-size: 40px;
+        position: relative;
+        top: 223px;
+        left: 395px;
+        cursor: pointer;
+       
+    }
+    
+    
+    
+    #scroll{
+        color: black;
+        background-color: white;
+        font-size: 30px;
+        border: 2px solid white;
+        border-radius: 50%;
+        padding: 12px;
+        position: relative;
+        top: 653px;
+        left: 240px;
+        cursor: pointer;
+        /* overflow-y: hidden; */
+        ;
+       
+    }
+    
+    
+    
+    #ribbon {
+        height: 300px;
+        width: 160px;
+        border: 2px solid black;
+        position: relative;
+        bottom: 450px;
+        left: 10px;
+        
+       
+    }
+    
+    
+    .paragraph{
+        position: relative;
+        left: -200px;
+        bottom: 50px;
+        font-size: 16px;
+       
+    }
+    
+    
+    
+    #fontgame {
+        color: white;
+        position: relative;
+        left: 200px; 
+        top: -33px;
+        font-size: 33px;
+       
+    }
+    
+    
+    
+    
+    .interests{
+        position: relative;
+        bottom: 113px;
+        /* right: 70px; */
+        left: -235px;
+       
+    }
+    
+    
+    #hinter{
+        position: relative;
+        left: 250px;
+    }
+    
+    
+    #wit{
+        width: 300px;
+    }
+    
+    #wit1{
+        width: 200px;
+    }
+    
+    
+    #bit{
+        width: 300px;
+    }
+    
+    #bit1{
+        width: 200px;
+    }
+    
+    #cit{
+        width: 300px;
+    }
+    
+    #cit1{
+        width: 180px;
+    }
+    
+    
+    #dit{
+        width: 300px;
+    }
+    
+    #dit1{
+        width: 160px;
+    }
+    
+    #ait{
+        width: 300px;
+        position: relative;
+        left: 500px;
+    }
+    
+    
+    #ait1{
+        width: 200px;
+    
+    }
+    
+    #ait2{
+        width: 300px;
+        position: relative;
+        left: 500px;
+    }
+    
+    
+    #ait3{
+        width: 300px;
+        position: relative;
+        left: 500px;
+    }
+    
+    
+    #ait4{
+        width: 300px;
+        position: relative;
+        left: 500px;
+    }
+    
+    
+    
+    #py{
+        color: black;
+        position: relative;
+        top: -845px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        left: 500px;
+        
+       
+    }
+    
+    #node{
+        color: black;
+        position: relative;
+        top: -823px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        left: 500px;
+        ;
+       
+    
+    }
+    
+    
+    #sql{
+        color: black;
+        top: -803px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        left: 500px;
+        ;
+       
+    }
+    
+    #rola{
+        position: relative;
+        left: 30px;
+    }
+    
+    
+    #konekt{
+        position: relative;
+        left: -2px;
+        ;
+       
+    }
+    
+    #postgre{
+        color: black;
+        top: -780px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        left: 500px;
+        ;
+       
+    }
+    
+    
+    
+    
+    #footer {
+        width: 1430px;
+        height: 300px;
+        background-color: rgb(0, 0, 0);
+        padding-top: 10px;
+        border: 1px solid black;
+        min-width: 400px;
+       
+    }
+    
+    
+    
+    #who{
+        color: black;
+        font-size: 30px;
+        border-radius: 50%;
+        background-color: white;
+        padding: 15px;
+        position: relative;
+        left: 420px;
+        cursor: pointer;
+       
+    
+    }
+
+    #call{
+        position: relative;
+        left: 160px;
+    }
+
+    #code{
+        position: relative;
+        left: -480px;
+
+    }
+    
+    
+    
+    
+    #gail{
+        color: white;
+        font-size: 20px;
+        position: relative;
+        left: 420px;
+        top:21px;
+        ;
+       
+    
+    }
+    
+    
+    #encypt{
+        position: relative;
+        bottom: 10px;
+        left:-205px;
+        ;
+       
+    }
+    
+    
+    #yui{
+        color: white;
+        font-size: 20px;
+        position: relative;
+        left: 720px;
+        bottom:43px;
+        ;
+       
+    
+    }
+    
+    
+    
+    #hub{
+        position: relative;
+        left: 120px;
+        bottom:75px;
+        ;
+       
+    }
+    
+    
+    
+    #crackend{
+        position: relative;
+        left: 500px;
+        bottom: 470px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    }
+    
+    
+
+
+
+    @media(max-width:1010px) and (min-width:913px){
+
+        body{
+            max-width: 1010px;
+            min-width: 913px;
+        }
+        #bhakti{
+            font-size: 46px;
+            position: relative;
+            left: 200px;
+    
+        }
+
+
+
+
+#github{
+    color: white;
+    font-size: 40px;
+    position: relative;
+    left: 480px;
+    top: 189px;
+    cursor: pointer;
+   
+}
+
+
+#linkedin{
+    color: white;
+    font-size: 40px;
+    position: relative;
+    top: 189px;
+    left: 380px;
+    cursor: pointer;
+   
+}
+
+
+#scroll{
+    color: black;
+    background-color: white;
+    font-size: 30px;
+    border: 2px solid white;
+    border-radius: 50%;
+    padding: 12px;
+    position: relative;
+    top: 636px;
+    left: 250px;
+    cursor: pointer;
+    /* overflow-y: hidden; */
+    ;
+   
+}
+
+#crackend{
+    position: relative;
+    left: 500px;
+}
+
+
+
+
+#resume {
+    color:white;
+    background-color: black;
+    border: none;
+    font-size: 17px;
+    border: 1px solid orange;
+    padding: 45px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+    cursor: pointer;
+    position: relative;
+    bottom: -260px;
+    left: 260px;
+    ;
+   
+}
+
+
+#contact{
+    color:white;
+    background-color: black;
+    border: none;
+    font-size: 17px;
+    border: 1px solid orange;
+    padding: 45px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+    cursor: pointer;
+    position: relative;
+    bottom: -260px;
+    left: 210px;
+    ;
+   
+
+}
+
+#call{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 160px;
+    top:90px;
+    ;
+   
+}
+
+#gail{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 410px;
+    top:21px;
+    ;
+   
+
+}
+
+
+#yui{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 670px;
+    bottom:43px;
+    ;
+   
+
+}
+
+#code{
+    position: relative;
+    top: 60px;
+    left: -460px;
+    font-size: 13px;
+    ;
+   
+}
+
+#encypt{
+    position: relative;
+    bottom: 10px;
+    left:-212px;
+    font-size: 13px;
+    ;
+   
+}
+
+#hub{
+    position: relative;
+    left: 75px;
+    bottom:75px;
+    font-size: 13px;
+    ;
+   
+}
+
+#who{
+    color: black;
+    font-size: 30px;
+    border-radius: 50%;
+    background-color: white;
+    padding: 15px;
+    position: relative;
+    left: 430px;
+    cursor: pointer;
+   
+
+}
+
+
+#wit{
+    width: 300px;
+}
+
+#wit1{
+    width: 200px;
+}
+
+
+#bit{
+    width: 300px;
+}
+
+#bit1{
+    width: 200px;
+}
+
+#cit{
+    width: 300px;
+}
+
+#cit1{
+    width: 180px;
+}
+
+
+#dit{
+    width: 300px;
+}
+
+#dit1{
+    width: 160px;
+}
+
+#ait{
+    width: 300px;
+    position: relative;
+    left: 500px;
+}
+
+
+#ait1{
+    width: 200px;
+
+}
+
+#ait2{
+    width: 300px;
+    position: relative;
+    left: 500px;
+}
+
+
+#ait3{
+    width: 300px;
+    position: relative;
+    left: 500px;
+}
+
+
+#ait4{
+    width: 300px;
+    position: relative;
+    left: 500px;
+}
+
+
+
+#py{
+    color: black;
+    position: relative;
+    top: -845px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 500px;
+    
+   
+}
+
+#node{
+    color: black;
+    position: relative;
+    top: -823px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 500px;
+    ;
+   
+
+}
+
+
+#sql{
+    color: black;
+    top: -803px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 500px;
+    ;
+   
+}
+
+#postgre{
+    color: black;
+    top: -780px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 500px;
+    ;
+   
+}
+
+
+
+
+
+    }
+
+
+
+
+    
+ @media(max-width:938px) and (min-width:913px){
+    body{
+        max-width: 938px;
+        min-width: 913px;
+    }
+
+    #bhakti{
+        font-size: 46px;
+        position: relative;
+        left: 176px;
+
+    }
+
+
+.paragraph{
+    position: relative;
+    left: -160px;
+    bottom: 50px;
+    font-size: 15px;
+}
+
+
+#ribbon {
+    height: 300px;
+    width: 180px;
+    border: 2px solid black;
+    position: relative;
+    bottom: 430px;
+    left: 40px;
+    
+   
+}
+
+#mandola{
+    position: relative;
+    left: -250px;
+}
+
+
+#github{
+    color: white;
+    font-size: 40px;
+    position: relative;
+    left: 460px;
+    top: 189px;
+    cursor: pointer;
+   
+}
+
+
+#linkedin{
+    color: white;
+    font-size: 40px;
+    position: relative;
+    top: 189px;
+    left: 360px;
+    cursor: pointer;
+   
+}
+
+
+#scroll{
+    color: black;
+    background-color: white;
+    font-size: 30px;
+    border: 2px solid white;
+    border-radius: 50%;
+    padding: 12px;
+    position: relative;
+    top: 636px;
+    left: 200px;
+    cursor: pointer;
+    /* overflow-y: hidden; */
+    ;
+   
+}
+
+#crackend{
+    position: relative;
+    left: 500px;
+}
+
+
+
+
+#resume {
+    color:white;
+    background-color: black;
+    border: none;
+    font-size: 17px;
+    border: 1px solid orange;
+    padding: 45px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+    cursor: pointer;
+    position: relative;
+    bottom: -260px;
+    left: 230px;
+    ;
+   
+}
+
+
+#contact{
+    color:white;
+    background-color: black;
+    border: none;
+    font-size: 17px;
+    border: 1px solid orange;
+    padding: 45px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+    cursor: pointer;
+    position: relative;
+    bottom: -260px;
+    left: 180px;
+    ;
+   
+
+}
+
+
+
+    }
+    
+    
+
+
+
+
+
+
+
+
+@media(max-width:912px) and (min-width:857px){
+
+    body{
+        max-width: 912px;
+        min-width: 857px;
+    }
+
+    #bhakti{
+        font-size: 40px;
+        position: relative;
+        left: 205px;
+        top:320px;
+        padding: 0px;
+        margin: 0px;
+    }
+    
+    
+    #content{
+        height: 905px;
+        width: 1460px;
+        /* background-image: url("https://images.unsplash.com/photo-1472506558072-1fe530d75951?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTh8fHxlbnwwfHx8fHw%3D"); */
+        background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8), rgba(255, 255, 255, 0.8));
+    
+        box-shadow: 20px, 12px, 10px, 10px, rgb(43, 90, 200);
+        opacity: 50%;
+        backdrop-filter: blur(100px);
+        padding-top: 100px;
+        margin-left: -20px;
+        margin-top: 0px;
+        margin-right:0px;
+        /* overflow-x: hidden; */
+        /* overflow-y: hidden; */
+    }
+    
+    
+    
+    #resume {
+        color:white;
+        background-color: black;
+        border: none;
+        font-size: 17px;
+        border: 1px solid orange;
+        padding: 45px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-right: 15px;
+        border-radius: 30px;
+        cursor: pointer;
+        position: relative;
+        bottom: -380px;
+        left: 220px;
+        ;
+       
+    }
+    
+    
+    #contact{
+        color:white;
+        background-color: black;
+        border: none;
+        font-size: 17px;
+        border: 1px solid orange;
+        padding: 45px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-right: 30px;
+        border-radius: 30px;
+        cursor: pointer;
+        position: relative;
+        bottom: -380px;
+        left: 170px;
+        ;
+       
+    
+    }
+    
+    
+    #mandola{
+        position: relative;
+        left: -310px;
+    }
+    
+    
+    
+    
+    #github{
+        color: white;
+        font-size: 40px;
+        position: relative;
+        left: 470px;
+        top: 329px;
+        cursor: pointer;
+       
+    }
+    
+    
+    #linkedin{
+        color: white;
+        font-size: 40px;
+        position: relative;
+        top: 329px;
+        left: 370px;
+        cursor: pointer;
+       
+    }
+    
+    
+    
+    #scroll{
+        color: black;
+        background-color: white;
+        font-size: 30px;
+        border: 2px solid white;
+        border-radius: 50%;
+        padding: 12px;
+        position: relative;
+        top: 797px;
+        left: 200px;
+        cursor: pointer;
+        /* overflow-y: hidden; */
+        ;
+       
+    }
+    
+    
+    
+    #ribbon {
+        height: 300px;
+        width: 160px;
+        border: 2px solid black;
+        position: relative;
+        bottom: 450px;
+        left: 10px;
+        
+       
+    }
+    
+    
+    .paragraph{
+        position: relative;
+        left: -200px;
+        bottom: 50px;
+        font-size: 16px;
+       
+    }
+    
+    
+    
+    #fontgame {
+        color: white;
+        position: relative;
+        left: 200px; 
+        top: -33px;
+        font-size: 33px;
+       
+    }
+    
+    
+    
+    
+    .interests{
+        position: relative;
+        bottom: 113px;
+        /* right: 70px; */
+        left: -235px;
+       
+    }
+    
+    
+    #hinter{
+        position: relative;
+        left: 250px;
+    }
+    
+    
+    #wit{
+        width: 300px;
+    }
+    
+    #wit1{
+        width: 200px;
+    }
+    
+    
+    #bit{
+        width: 300px;
+    }
+    
+    #bit1{
+        width: 200px;
+    }
+    
+    #cit{
+        width: 300px;
+    }
+    
+    #cit1{
+        width: 180px;
+    }
+    
+    
+    #dit{
+        width: 300px;
+    }
+    
+    #dit1{
+        width: 160px;
+    }
+    
+    #ait{
+        width: 300px;
+        position: relative;
+        left: 500px;
+    }
+    
+    
+    #ait1{
+        width: 200px;
+    
+    }
+    
+    #ait2{
+        width: 300px;
+        position: relative;
+        left: 500px;
+    }
+    
+    
+    #ait3{
+        width: 300px;
+        position: relative;
+        left: 500px;
+    }
+    
+    
+    #ait4{
+        width: 300px;
+        position: relative;
+        left: 500px;
+    }
+    
+    
+    
+    #py{
+        color: black;
+        position: relative;
+        top: -845px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        left: 500px;
+        
+       
+    }
+    
+    #node{
+        color: black;
+        position: relative;
+        top: -823px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        left: 500px;
+        ;
+       
+    
+    }
+    
+    
+    #sql{
+        color: black;
+        top: -803px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        left: 500px;
+        ;
+       
+    }
+    
+    #postgre{
+        color: black;
+        top: -780px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        left: 500px;
+        ;
+       
+    }
+    
+    
+    
+    
+    #footer {
+        width: 1430px;
+        height: 200px;
+        background-color: rgb(0, 0, 0);
+        padding-top: 10px;
+        border: 1px solid black;
+        min-width: 400px;
+       
+    }
+    
+    
+    
+    #who{
+        color: black;
+        font-size: 30px;
+        border-radius: 50%;
+        background-color: white;
+        padding: 15px;
+        position: relative;
+        left: 380px;
+        cursor: pointer;
+       
+    
+    }
+    
+    
+    
+    
+    #gail{
+        color: white;
+        font-size: 20px;
+        position: relative;
+        left: 320px;
+        top:27px;
+        ;
+       
+    
+    }
+    
+    
+    #encypt{
+        position: relative;
+        bottom: 10px;
+        left:-285px;
+        ;
+       
+    }
+
+
+
+#konekt{
+    position: relative;
+    left: -2px;
+    ;
+   
+}
+    
+    
+    #yui{
+        color: white;
+        font-size: 20px;
+        position: relative;
+        left: 550px;
+        bottom:43px;
+        ;
+       
+    
+    }
+    
+    
+    
+    #hub{
+        position: relative;
+        left: -20px;
+        bottom:80px;
+        ;
+       
+    }
+    
+    
+    #crackend{
+        position: relative;
+        left: 500px;
+        bottom: 470px;
+    }
+    
+    
+    
+
+}
+
+
+@media only screen and (width: 912px) and (height: 1368px){
+    
+    body{
+        overflow-x: hidden;
+        margin: 0px;         
+        padding-right: 0px;
+        overflow-x: hidden;
+        width: 910px;
+
+    }
+
+    #bhakti{
+        font-size: 40px;
+        position: relative;
+        left: 190px;
+        top:495px;
+        padding: 0px;
+        margin: 0px;
+    }
+    
+    
+    #content{
+        height: 23.2%;
+        width: 1460px;
+        /* background-image: url("https://images.unsplash.com/photo-1472506558072-1fe530d75951?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTh8fHxlbnwwfHx8fHw%3D"); */
+        background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8), rgba(255, 255, 255, 0.8));
+    
+        box-shadow: 20px, 12px, 10px, 10px, rgb(43, 90, 200);
+        opacity: 50%;
+        backdrop-filter: blur(100px);
+        padding-top: 100px;
+        margin-left: -20px;
+        margin-top: 0px;
+        margin-right:0px;
+        /* overflow-y: hidden; */
+    }
+    
+    
+    
+    #resume {
+        color:white;
+        background-color: black;
+        border: none;
+        font-size: 17px;
+        border: 1px solid orange;
+        padding: 45px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-right: 15px;
+        border-radius: 30px;
+        cursor: pointer;
+        position: relative;
+        bottom: -540px;
+        left: 225px;
+        ;
+       
+    }
+    
+    
+    #contact{
+        color:white;
+        background-color: black;
+        border: none;
+        font-size: 17px;
+        border: 1px solid orange;
+        padding: 45px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-right: 30px;
+        border-radius: 30px;
+        cursor: pointer;
+        position: relative;
+        bottom: -540px;
+        left: 170px;
+        ;
+       
+    
+    }
+    
+    
+    #mandola{
+        position: relative;
+        left: -320px;
+    }
+    
+    
+    
+    
+    #github{
+        color: white;
+        font-size: 40px;
+        position: relative;
+        left: 445px;
+        top: 495px;
+        cursor: pointer;
+       
+    }
+    
+    
+    #linkedin{
+        color: white;
+        font-size: 40px;
+        position: relative;
+        top: 495px;
+        left: 350px;
+        cursor: pointer;
+       
+    }
+    
+    
+    
+    #scroll{
+        color: black;
+        background-color: white;
+        font-size: 30px;
+        border: 2px solid white;
+        border-radius: 50%;
+        padding: 12px;
+        position: relative;
+        top: 1160px;
+        left: 180px;
+        cursor: pointer;
+        /* overflow-y: hidden; */
+        ;
+       
+    }
+    
+    
+    
+    #ribbon {
+        height: 300px;
+        width: 160px;
+        border: 2px solid black;
+        position: relative;
+        bottom: 450px;
+        left: 10px;
+        
+       
+    }
+    
+    
+    .paragraph{
+        position: relative;
+        left: -200px;
+        bottom: 50px;
+        font-size: 15px;
+       
+    }
+    
+    
+    
+    #fontgame {
+        color: white;
+        position: relative;
+        left: 200px; 
+        top: -33px;
+        font-size: 33px;
+       
+    }
+    
+    
+    
+    
+    .interests{
+        position: relative;
+        bottom: 113px;
+        /* right: 70px; */
+        left: -235px;
+       
+    }
+    
+    
+    #hinter{
+        position: relative;
+        left: 250px;
+    }
+    
+    
+    #wit{
+        width: 300px;
+    }
+    
+    #wit1{
+        width: 200px;
+    }
+    
+    
+    #bit{
+        width: 300px;
+    }
+    
+    #bit1{
+        width: 200px;
+    }
+    
+    #cit{
+        width: 300px;
+    }
+    
+    #cit1{
+        width: 180px;
+    }
+    
+    
+    #dit{
+        width: 300px;
+    }
+    
+    #dit1{
+        width: 160px;
+    }
+    
+    #ait{
+        width: 300px;
+        position: relative;
+        left: 500px;
+    }
+    
+    
+    #ait1{
+        width: 200px;
+    
+    }
+    
+    #ait2{
+        width: 300px;
+        position: relative;
+        left: 500px;
+    }
+    
+    
+    #ait3{
+        width: 300px;
+        position: relative;
+        left: 500px;
+    }
+    
+    
+    #ait4{
+        width: 300px;
+        position: relative;
+        left: 500px;
+    }
+    
+    
+    
+    #py{
+        color: black;
+        position: relative;
+        top: -845px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        left: 500px;
+        
+       
+    }
+    
+    #node{
+        color: black;
+        position: relative;
+        top: -823px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        left: 500px;
+        ;
+       
+    
+    }
+    
+    
+    #sql{
+        color: black;
+        top: -803px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        left: 500px;
+        ;
+       
+    }
+    
+    #postgre{
+        color: black;
+        top: -780px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        left: 500px;
+        ;
+       
+    }
+    
+    
+    
+    
+    #footer {
+        width: 1430px;
+        height: 900px;
+        background-color: rgb(0, 0, 0);
+        padding-top: 10px;
+        border: 1px solid black;
+        min-width: 400px;
+       
+    }
+    
+    
+    
+    #who{
+        color: black;
+        font-size: 30px;
+        border-radius: 50%;
+        background-color: white;
+        padding: 15px;
+        position: relative;
+        left: 380px;
+        cursor: pointer;
+       
+    
+    }
+    
+    
+    
+    
+    #gail{
+        color: white;
+        font-size: 20px;
+        position: relative;
+        left: 320px;
+        top:27px;
+        ;
+       
+    
+    }
+    
+    
+    #encypt{
+        position: relative;
+        bottom: 10px;
+        left:-285px;
+        ;
+       
+    }
+
+
+
+#konekt{
+    position: relative;
+    left: -2px;
+    ;
+   
+}
+    
+    
+    #yui{
+        color: white;
+        font-size: 20px;
+        position: relative;
+        left: 550px;
+        bottom:43px;
+        ;
+       
+    
+    }
+    
+    
+    
+    #hub{
+        position: relative;
+        left: -20px;
+        bottom:80px;
+        ;
+       
+    }
+    
+    
+    #crackend{
+        position: relative;
+        left: 500px;
+        bottom: 470px;
+    }
+    
+    
+  
+
+}
+
+
+
+
+@media(max-width:856px) and (min-width:784px){
+
+    body{
+        max-width: 856px;
+        min-width: 784px;
+    }
+
+#bhakti{
+    font-size: 35px;
+    position: relative;
+    left: 205px;
+    top:300px;
+}
+
+
+#content{
+    height: 905px;
+    width: 1460px;
+    /* background-image: url("https://images.unsplash.com/photo-1472506558072-1fe530d75951?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTh8fHxlbnwwfHx8fHw%3D"); */
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8), rgba(255, 255, 255, 0.8));
+
+    box-shadow: 20px, 12px, 10px, 10px, rgb(43, 90, 200);
+    opacity: 50%;
+    backdrop-filter: blur(100px);
+    padding-top: 100px;
+    margin-left: -20px;
+    margin-top: 0px;
+    margin-right:0px;
+    /* overflow-x: hidden; */
+    /* overflow-y: hidden; */
+}
+
+
+
+.interests{
+    position: relative;
+    bottom: 113px;
+    /* right: 70px; */
+    left: 10px;
+   
+}
+
+
+.paragraph{
+    position: relative;
+    left: -290px;
+    bottom: 50px;
+    font-size: 13px;
+   
+}
+
+
+#crackend{
+    position: relative;
+    left: 500px;
+    bottom: 470px;
+}
+
+
+#ribbon {
+    height: 180px;
+    width: 100px;
+    border: 2px solid black;
+    position: relative;
+    bottom: 370px;
+    left: 10px;
+    
+   
+}
+
+
+#who{
+    color: black;
+    font-size: 30px;
+    border-radius: 50%;
+    background-color: white;
+    padding: 15px;
+    position: relative;
+    left: 370px;
+    cursor: pointer;
+   
+
+}
+
+
+
+
+
+#resume {
+    color:white;
+    background-color: black;
+    border: none;
+    font-size: 17px;
+    border: 1px solid orange;
+    padding: 45px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+    cursor: pointer;
+    position: relative;
+    bottom: -340px;
+    left: 195px;
+    ;
+   
+}
+
+
+#contact{
+    color:white;
+    background-color: black;
+    border: none;
+    font-size: 17px;
+    border: 1px solid orange;
+    padding: 45px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 30px;
+    border-radius: 30px;
+    cursor: pointer;
+    position: relative;
+    bottom: -340px;
+    left: 140px;
+    ;
+   
+
+}
+
+
+
+#footer {
+    width: 1430px;
+    height: 600px;
+    background-color: rgb(0, 0, 0);
+    padding-top: 10px;
+    border: 1px solid black;
+    min-width: 400px;
+   
+}
+
+
+
+#github{
+    color: white;
+    font-size: 40px;
+    position: relative;
+    left: 425px;
+    top: 279px;
+    cursor: pointer;
+   
+}
+
+
+#linkedin{
+    color: white;
+    font-size: 40px;
+    position: relative;
+    top: 279px;
+    left: 330px;
+    cursor: pointer;
+   
+}
+
+
+#scroll{
+    color: black;
+    background-color: white;
+    font-size: 30px;
+    border: 2px solid white;
+    border-radius: 50%;
+    padding: 12px;
+    position: relative;
+    top: 750px;
+    left: 170px;
+    cursor: pointer;
+    /* overflow-y: hidden; */
+    ;
+   
+}
+
+
+
+#fontgame {
+    color: white;
+    position: relative;
+    left: 200px; 
+    top: -33px;
+    font-size: 33px;
+   
+}
+
+
+
+
+.interests{
+    position: relative;
+    bottom: 113px;
+    /* right: 70px; */
+    left: -235px;
+   
+}
+
+
+#hinter{
+    position: relative;
+    left: 250px;
+}
+
+
+#mandola{
+    position: relative;
+    left: -330px;
+}
+
+
+#react-fitness{
+    position: relative;
+    left: -225px;
+    font-size: 14px;
+    
+}
+
+
+#fullstack-tech{
+    position: relative;
+    left: -245px;
+    font-size: 14px;
+}
+
+
+
+#develop{
+    color: black;
+    position: relative;
+    right: 280px;
+    bottom: 120px;
+    font-size: 14px;
+    text-align: left;
+    ;
+   
+}
+
+
+#feather{
+    position: relative;
+    right: 285px;
+    font-size: 14px;
+}
+
+
+#cebas{
+    position: relative;
+    right: 275px;
+    font-size: 14px;
+}
+
+
+#hona{
+    font-size: 14px;
+}
+
+
+#rist{
+    font-size: 14px;
+}
+
+
+#wit{
+    width: 300px;
+}
+
+#wit1{
+    width: 200px;
+}
+
+
+#bit{
+    width: 300px;
+}
+
+#bit1{
+    width: 200px;
+}
+
+#cit{
+    width: 300px;
+}
+
+#cit1{
+    width: 180px;
+}
+
+
+#dit{
+    width: 300px;
+}
+
+#dit1{
+    width: 160px;
+}
+
+#ait{
+    width: 300px;
+    position: relative;
+    left: 500px;
+}
+
+
+#ait1{
+    width: 200px;
+
+}
+
+#ait2{
+    width: 300px;
+    position: relative;
+    left: 500px;
+}
+
+
+#ait3{
+    width: 300px;
+    position: relative;
+    left: 500px;
+}
+
+
+#ait4{
+    width: 300px;
+    position: relative;
+    left: 500px;
+}
+
+
+
+#konekt{
+    position: relative;
+    left: -2px;
+    ;
+   
+}
+
+
+
+#py{
+    color: black;
+    position: relative;
+    top: -845px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 500px;
+    
+   
+}
+
+#node{
+    color: black;
+    position: relative;
+    top: -823px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 500px;
+    ;
+   
+
+}
+
+
+#sql{
+    color: black;
+    top: -803px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 500px;
+    ;
+   
+}
+
+#postgre{
+    color: black;
+    top: -780px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 500px;
+    ;
+   
+}
+
+
+#gail{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 320px;
+    top:27px;
+    ;
+   
+
+}
+
+
+#encypt{
+    position: relative;
+    bottom: 10px;
+    left:-285px;
+    ;
+   
+}
+
+
+#yui{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 550px;
+    bottom:43px;
+    ;
+   
+
+}
+
+
+
+#hub{
+    position: relative;
+    left: -20px;
+    bottom:80px;
+    ;
+   
+}
+
+
+}
+
+
+
+@media(max-width:853px) and (height:1280px){
+
+    body{
+        max-width: 853px;
+    }
+
+    #bhakti{
+        font-size: 56px;
+        position: relative;
+        left: 175px;
+        top:435px;
+        font-size: 40px;
+    }
+    
+    
+    #content{
+        height: 23.1%;
+        width: 1460px;
+        /* background-image: url("https://images.unsplash.com/photo-1472506558072-1fe530d75951?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTh8fHxlbnwwfHx8fHw%3D"); */
+        background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8), rgba(255, 255, 255, 0.8));
+    
+        box-shadow: 20px, 12px, 10px, 10px, rgb(43, 90, 200);
+        opacity: 50%;
+        backdrop-filter: blur(100px);
+        padding-top: 100px;
+        margin-left: -20px;
+        margin-top: 0px;
+        margin-right:0px;
+        /* overflow-x: hidden; */
+        /* overflow-y: hidden; */
+    }
+    
+    
+    
+    .interests{
+        position: relative;
+        bottom: 113px;
+        /* right: 70px; */
+        left: 10px;
+       
+    }
+    
+    
+    .paragraph{
+        position: relative;
+        left: -290px;
+        bottom: 50px;
+        font-size: 13px;
+       
+    }
+    
+    
+    #crackend{
+        position: relative;
+        left: 500px;
+        bottom: 470px;
+    }
+    
+    
+    #ribbon {
+        height: 180px;
+        width: 100px;
+        border: 2px solid black;
+        position: relative;
+        bottom: 370px;
+        left: 10px;
+        
+       
+    }
+    
+    
+    #who{
+        color: black;
+        font-size: 30px;
+        border-radius: 50%;
+        background-color: white;
+        padding: 15px;
+        position: relative;
+        left: 370px;
+        cursor: pointer;
+       
+    
+    }
+    
+    
+    
+    
+    
+    #resume {
+        color:white;
+        background-color: black;
+        border: none;
+        font-size: 17px;
+        border: 1px solid orange;
+        padding: 45px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-right: 15px;
+        border-radius: 30px;
+        cursor: pointer;
+        position: relative;
+        bottom: -455px;
+        left: 195px;
+        ;
+       
+    }
+    
+    
+    #contact{
+        color:white;
+        background-color: black;
+        border: none;
+        font-size: 17px;
+        border: 1px solid orange;
+        padding: 45px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-right: 30px;
+        border-radius: 30px;
+        cursor: pointer;
+        position: relative;
+        bottom: -455px;
+        left: 140px;
+        ;
+       
+    
+    }
+    
+    
+    
+    #footer {
+        width: 1430px;
+        height: 700px;
+        background-color: rgb(0, 0, 0);
+        padding-top: 10px;
+        border: 1px solid black;
+        min-width: 400px;
+       
+    }
+    
+    
+    
+    #github{
+        color: white;
+        font-size: 40px;
+        position: relative;
+        left: 430px;
+        top: 409px;
+        cursor: pointer;
+       
+    }
+    
+    
+    #linkedin{
+        color: white;
+        font-size: 40px;
+        position: relative;
+        top: 409px;
+        left: 335px;
+        cursor: pointer;
+       
+    }
+    
+    
+    #scroll{
+        color: black;
+        background-color: white;
+        font-size: 30px;
+        border: 2px solid white;
+        border-radius: 50%;
+        padding: 12px;
+        position: relative;
+        top: 1020px;
+        left: 160px;
+        cursor: pointer;
+        /* overflow-y: hidden; */
+        ;
+       
+    }
+    
+    
+    
+    #fontgame {
+        color: white;
+        position: relative;
+        left: 200px; 
+        top: -33px;
+        font-size: 33px;
+       
+    }
+    
+    
+    
+    
+    .interests{
+        position: relative;
+        bottom: 113px;
+        /* right: 70px; */
+        left: -235px;
+       
+    }
+    
+    
+    #hinter{
+        position: relative;
+        left: 250px;
+    }
+    
+    
+    #mandola{
+        position: relative;
+        left: -330px;
+    }
+    
+    
+    #react-fitness{
+        position: relative;
+        left: -225px;
+        font-size: 14px;
+        
+    }
+    
+    
+    #fullstack-tech{
+        position: relative;
+        left: -245px;
+        font-size: 14px;
+    }
+
+
+
+#konekt{
+    position: relative;
+    left: -2px;
+    ;
+   
+}
+    
+    
+    
+    #develop{
+        color: black;
+        position: relative;
+        right: 280px;
+        bottom: 120px;
+        font-size: 14px;
+        text-align: left;
+        ;
+       
+    }
+    
+    
+    #feather{
+        position: relative;
+        right: 285px;
+        font-size: 14px;
+    }
+    
+    
+    #cebas{
+        position: relative;
+        right: 275px;
+        font-size: 14px;
+    }
+    
+    
+    #hona{
+        font-size: 14px;
+    }
+    
+    
+    #rist{
+        font-size: 14px;
+    }
+    
+    
+    #wit{
+        width: 300px;
+    }
+    
+    #wit1{
+        width: 200px;
+    }
+    
+    
+    #bit{
+        width: 300px;
+    }
+    
+    #bit1{
+        width: 200px;
+    }
+    
+    #cit{
+        width: 300px;
+    }
+    
+    #cit1{
+        width: 180px;
+    }
+    
+    
+    #dit{
+        width: 300px;
+    }
+    
+    #dit1{
+        width: 160px;
+    }
+    
+    #ait{
+        width: 300px;
+        position: relative;
+        left: 500px;
+    }
+    
+    
+    #ait1{
+        width: 200px;
+    
+    }
+    
+    #ait2{
+        width: 300px;
+        position: relative;
+        left: 500px;
+    }
+    
+    
+    #ait3{
+        width: 300px;
+        position: relative;
+        left: 500px;
+    }
+    
+    
+    #ait4{
+        width: 300px;
+        position: relative;
+        left: 500px;
+    }
+    
+    
+    
+    #py{
+        color: black;
+        position: relative;
+        top: -845px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        left: 500px;
+        
+       
+    }
+    
+    #node{
+        color: black;
+        position: relative;
+        top: -823px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        left: 500px;
+        ;
+       
+    
+    }
+    
+    
+    #sql{
+        color: black;
+        top: -803px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        left: 500px;
+        ;
+       
+    }
+    
+    #postgre{
+        color: black;
+        top: -780px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        left: 500px;
+        ;
+       
+    }
+    
+    
+    #gail{
+        color: white;
+        font-size: 20px;
+        position: relative;
+        left: 320px;
+        top:27px;
+        ;
+       
+    
+    }
+    
+    
+    #encypt{
+        position: relative;
+        bottom: 10px;
+        left:-285px;
+        ;
+       
+    }
+    
+    
+    #yui{
+        color: white;
+        font-size: 20px;
+        position: relative;
+        left: 550px;
+        bottom:43px;
+        ;
+       
+    
+    }
+    
+    
+    
+    #hub{
+        position: relative;
+        left: -20px;
+        bottom:80px;
+        ;
+       
+    }
+    
+    
+    }
+    
+
+
+
+
+@media(width:820px) and (max-height:1180px){
+
+    body{
+        width: 820px;
+    }
+
+#bhakti{
+    position: relative;
+    left: 160px;
+    top:385px;
+    font-size: 40px;
+}
+
+
+#content{
+    height: 25%;
+    width: 1460px;
+    box-sizing: border-box;
+    /* background-image: url("https://images.unsplash.com/photo-1472506558072-1fe530d75951?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTh8fHxlbnwwfHx8fHw%3D"); */
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8), rgba(255, 255, 255, 0.8));
+
+    box-shadow: 20px, 12px, 10px, 10px, rgb(43, 90, 200);
+    opacity: 50%;
+    backdrop-filter: blur(100px);
+    padding-top: 100px;
+    margin-left: -20px;
+    margin-top: 0px;
+    margin-right:0px;
+    /* overflow-x: hidden; */
+    /* overflow-y: hidden; */
+}
+
+
+
+.interests{
+    position: relative;
+    bottom: 113px;
+    /* right: 70px; */
+    left: 10px;
+   
+}
+
+
+.paragraph{
+    position: relative;
+    left: -290px;
+    bottom: 50px;
+    font-size: 13px;
+   
+}
+
+
+#ribbon {
+    height: 180px;
+    width: 100px;
+    border: 2px solid black;
+    position: relative;
+    bottom: 370px;
+    left: 10px;
+    
+   
+}
+
+
+#who{
+    color: black;
+    font-size: 30px;
+    border-radius: 50%;
+    background-color: white;
+    padding: 15px;
+    position: relative;
+    left: 370px;
+    cursor: pointer;
+   
+
+}
+
+
+
+
+
+#resume {
+    color:white;
+    background-color: black;
+    border: none;
+    font-size: 17px;
+    border: 1px solid orange;
+    padding: 45px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+    cursor: pointer;
+    position: relative;
+    bottom: -405px;
+    left: 180px;
+    ;
+   
+}
+
+
+#contact{
+    color:white;
+    background-color: black;
+    border: none;
+    font-size: 17px;
+    border: 1px solid orange;
+    padding: 45px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 30px;
+    border-radius: 30px;
+    cursor: pointer;
+    position: relative;
+    bottom: -405px;
+    left: 130px;
+    ;
+   
+
+}
+
+
+#crackend{
+    position: relative;
+    left: 500px;
+    bottom: 470px;
+}
+
+
+
+
+#footer {
+    width: 1430px;
+    height: 600px;
+    background-color: rgb(0, 0, 0);
+    padding-top: 10px;
+    border: 1px solid black;
+    min-width: 400px;
+   
+}
+
+
+
+#github{
+    color: white;
+    font-size: 40px;
+    position: relative;
+    left: 400px;
+    top: 360px;
+    cursor: pointer;
+   
+}
+
+
+#linkedin{
+    color: white;
+    font-size: 40px;
+    position: relative;
+    top: 360px;
+    left: 300px;
+    cursor: pointer;
+   
+}
+
+
+#scroll{
+    color: black;
+    background-color: white;
+    font-size: 30px;
+    border: 2px solid white;
+    border-radius: 50%;
+    padding: 12px;
+    position: relative;
+    top: 920px;
+    left: 160px;
+    cursor: pointer;
+    /* overflow-y: hidden; */
+    ;
+   
+}
+
+
+
+#fontgame {
+    color: white;
+    position: relative;
+    left: 200px; 
+    top: -33px;
+    font-size: 33px;
+   
+}
+
+
+
+
+.interests{
+    position: relative;
+    bottom: 113px;
+    /* right: 70px; */
+    left: -235px;
+   
+}
+
+
+#hinter{
+    position: relative;
+    left: 250px;
+}
+
+
+#mandola{
+    position: relative;
+    left: -330px;
+}
+
+
+#react-fitness{
+    position: relative;
+    left: -225px;
+    font-size: 14px;
+    
+}
+
+
+#fullstack-tech{
+    position: relative;
+    left: -245px;
+    font-size: 14px;
+}
+
+
+
+#konekt{
+    position: relative;
+    left: -2px;
+    ;
+   
+}
+
+
+
+#develop{
+    color: black;
+    position: relative;
+    right: 280px;
+    bottom: 120px;
+    font-size: 14px;
+    text-align: left;
+    ;
+   
+}
+
+
+#feather{
+    position: relative;
+    right: 285px;
+    font-size: 14px;
+}
+
+
+
+#cebas{
+    position: relative;
+    right: 275px;
+    font-size: 14px;
+}
+
+
+#hona{
+    font-size: 14px;
+}
+
+
+#rist{
+    font-size: 14px;
+}
+
+
+#wit{
+    width: 300px;
+}
+
+#wit1{
+    width: 200px;
+}
+
+
+#bit{
+    width: 300px;
+}
+
+#bit1{
+    width: 200px;
+}
+
+#cit{
+    width: 300px;
+}
+
+#cit1{
+    width: 180px;
+}
+
+
+#dit{
+    width: 300px;
+}
+
+#dit1{
+    width: 160px;
+}
+
+#ait{
+    width: 300px;
+    position: relative;
+    left: 500px;
+}
+
+
+#ait1{
+    width: 200px;
+
+}
+
+#ait2{
+    width: 300px;
+    position: relative;
+    left: 500px;
+}
+
+
+#ait3{
+    width: 300px;
+    position: relative;
+    left: 500px;
+}
+
+
+#ait4{
+    width: 300px;
+    position: relative;
+    left: 500px;
+}
+
+
+
+#py{
+    color: black;
+    position: relative;
+    top: -845px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 500px;
+    
+   
+}
+
+#node{
+    color: black;
+    position: relative;
+    top: -823px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 500px;
+    ;
+   
+
+}
+
+
+#sql{
+    color: black;
+    top: -803px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 500px;
+    ;
+   
+}
+
+#postgre{
+    color: black;
+    top: -780px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 500px;
+    ;
+   
+}
+
+
+#gail{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 320px;
+    top:27px;
+    ;
+   
+
+}
+
+
+#encypt{
+    position: relative;
+    bottom: 10px;
+    left:-285px;
+    ;
+   
+}
+
+
+#yui{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 550px;
+    bottom:43px;
+    ;
+   
+
+}
+
+
+
+#hub{
+    position: relative;
+    left: -20px;
+    bottom:80px;
+    ;
+   
+}
+
+
+
+
+
+
+
+}
+
+@media(max-width:809px) and (min-width:784px){
+
+    body{
+        max-width: 809px;
+        min-width: 784px;
+    }
+
+
+    #wit{
+        width: 400px;
+    }
+    
+    #wit1{
+        width: 350px;
+    }
+    
+    
+    #bit{
+        width: 400px;
+    }
+    
+    #bit1{
+        width: 350px;
+    }
+    
+    #cit{
+        width: 400px;
+    }
+    
+    #cit1{
+        width: 330px;
+    }
+    
+    
+    #dit{
+        width: 400px;
+    }
+    
+    #dit1{
+        width: 320px;
+    }
+    
+
+
+    #ait1{
+        width: 350px;
+    
+    }
+    
+    
+    #ait{
+        width: 400px;
+        position: relative;
+        top: -130px;
+        left: 20px;
+    }
+    
+    
+    #ait2{
+        width: 400px;
+        position: relative;
+        top: -185px;
+        left: 20px;
+    }
+
+    #myinfo{
+        height: 2300px;
+    }
+    
+    
+    #ait3{
+        width: 400px;
+        position: relative;
+        top:-240px;
+        left: 20px;
+    }
+    
+    
+    #ait4{
+        width: 400px;
+        position: relative;
+        top: -295px;
+        left: 20px;
+    }
+    
+    
+    
+    #py{
+        color: black;
+        position: relative;
+        top: -515px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        left: 20px;
+        
+       
+    }
+    
+    #node{
+        color: black;
+        position: relative;
+        top: -497px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        left: 20px;
+        ;
+       
+    
+    }
+    
+    
+    #sql{
+        color: black;
+        top: -479px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        left: 20px;
+        ;
+       
+    }
+    
+    #postgre{
+        color: black;
+        top: -461px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        left: 20px;
+        ;
+       
+    }
+
+
+    #crackend{
+        position: relative;
+        left: 20px;
+        bottom: 140px;
+    }
+
+
+
+#call{
+    color: white;
+    font-size: 16px;
+    position: relative;
+    left: 160px;
+    top:50px;
+    scroll-behavior: smooth;
+   
+}
+
+
+
+
+
+#code{
+    position: relative;
+    top: 15px;
+    left: -460px;
+    ;
+   
+}
+
+
+#encypt{
+    position: relative;
+    bottom: -3px;
+    left:-512px;
+    ;
+   
+}
+
+ 
+#gail{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 90px;
+    top:40px;
+    ;
+   
+
+}
+
+#yui{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 50px;
+    bottom:-25px;
+    ;
+   
+
+}
+
+
+
+#hub{
+    position: relative;
+    left: -515px;
+    bottom:10px;
+    font-size: 16px;
+    ;
+   
+}
+
+    
+    
+
+
+}
+
+
+@media(max-width:783px) and (min-width:708px){
+
+    body{
+        max-width: 783px;
+        min-width: 708px;
+    }
+
+    #bhakti{
+        position: relative;
+        left: 230px;
+        top:300px;
+        font-size: 27px;
+    }
+    
+    
+    #content{
+        height: 905px;
+        width: 1460px;
+        /* background-image: url("https://images.unsplash.com/photo-1472506558072-1fe530d75951?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTh8fHxlbnwwfHx8fHw%3D"); */
+        background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8), rgba(255, 255, 255, 0.8));
+    
+        box-shadow: 20px, 12px, 10px, 10px, rgb(43, 90, 200);
+        opacity: 50%;
+        backdrop-filter: blur(100px);
+        padding-top: 100px;
+        margin-left: -20px;
+        margin-top: 0px;
+        margin-right:0px;
+        /* overflow-x: hidden; */
+        /* overflow-y: hidden; */
+    }
+    
+    
+    
+    .interests{
+        position: relative;
+        bottom: 113px;
+        /* right: 70px; */
+        left: 10px;
+       
+    }
+    
+    
+    .paragraph{
+        position: relative;
+        left: -290px;
+        bottom: 50px;
+        font-size: 13px;
+       
+    }
+    
+    
+    #ribbon {
+        height: 180px;
+        width: 100px;
+        border: 2px solid black;
+        position: relative;
+        bottom: 370px;
+        left: 10px;
+        
+       
+    }
+    
+    
+    #who{
+        color: black;
+        font-size: 30px;
+        border-radius: 50%;
+        background-color: white;
+        padding: 15px;
+        position: relative;
+        left: 370px;
+        cursor: pointer;
+       
+    
+    }
+    
+    
+    
+    
+    
+    #resume {
+        color:white;
+        background-color: black;
+        border: none;
+        font-size: 17px;
+        border: 1px solid orange;
+        padding: 45px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-right: 15px;
+        border-radius: 30px;
+        cursor: pointer;
+        position: relative;
+        bottom: -330px;
+        left: 205px;
+        ;
+       
+    }
+    
+    
+    #contact{
+        color:white;
+        background-color: black;
+        border: none;
+        font-size: 17px;
+        border: 1px solid orange;
+        padding: 45px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-right: 30px;
+        border-radius: 30px;
+        cursor: pointer;
+        position: relative;
+        bottom: -330px;
+        left: 150px;
+        ;
+       
+    
+    }
+    
+    
+    #crackend{
+        position: relative;
+        left: 500px;
+        bottom: 470px;
+    }
+    
+    
+    
+    
+    #footer {
+        width: 1430px;
+        height: 600px;
+        background-color: rgb(0, 0, 0);
+        padding-top: 10px;
+        border: 1px solid black;
+        min-width: 400px;
+       
+    }
+    
+    
+    
+    #github{
+        color: white;
+        font-size: 30px;
+        position: relative;
+        left: 400px;
+        top: 279px;
+        cursor: pointer;
+       
+    }
+    
+    
+    #linkedin{
+        color: white;
+        font-size: 30px;
+        position: relative;
+        top: 279px;
+        left: 330px;
+        cursor: pointer;
+       
+    }
+    
+    
+    #scroll{
+        color: black;
+        background-color: white;
+        font-size: 30px;
+        border: 2px solid white;
+        border-radius: 50%;
+        padding: 12px;
+        position: relative;
+        top: 775px;
+        left: 145px;
+        cursor: pointer;
+        /* overflow-y: hidden; */
+        ;
+       
+    }
+    
+    
+    
+    #fontgame {
+        color: white;
+        position: relative;
+        left: 200px; 
+        top: -33px;
+        font-size: 33px;
+       
+    }
+    
+    
+    
+    
+    .interests{
+        position: relative;
+        bottom: 113px;
+        /* right: 70px; */
+        left: -235px;
+       
+    }
+    
+    
+    #hinter{
+        position: relative;
+        left: 250px;
+    }
+    
+    
+    #mandola{
+        position: relative;
+        left: -330px;
+    }
+    
+    
+    #react-fitness{
+        position: relative;
+        left: -260px;
+        font-size: 12px;
+        
+    }
+    
+    
+    #fullstack-tech{
+        position: relative;
+        left: -280px;
+        font-size: 12px;
+    }
+    
+    
+    
+    #konekt{
+        position: relative;
+        left: -2px;
+        ;
+       
+    }
+    
+    
+    
+    #develop{
+        color: black;
+        position: relative;
+        right: 305px;
+        bottom: 120px;
+        font-size: 12px;
+        text-align: left;
+        ;
+       
+    }
+    
+    
+    #feather{
+        position: relative;
+        right: 310px;
+        font-size: 12px;
+    }
+    
+    
+    
+    #cebas{
+        position: relative;
+        right: 300px;
+        font-size: 12px;
+    }
+    
+    
+    #hona{
+        font-size: 12px;
+    }
+    
+    
+    #rist{
+        font-size: 12px;
+    }
+    
+    #wit{
+        width: 400px;
+    }
+    
+    #wit1{
+        width: 350px;
+    }
+    
+    
+    #bit{
+        width: 400px;
+    }
+    
+    #bit1{
+        width: 350px;
+    }
+    
+    #cit{
+        width: 400px;
+    }
+    
+    #cit1{
+        width: 330px;
+    }
+    
+    
+    #dit{
+        width: 400px;
+    }
+    
+    #dit1{
+        width: 320px;
+    }
+    
+
+
+    #ait1{
+        width: 350px;
+    
+    }
+    
+    
+    #ait{
+        width: 400px;
+        position: relative;
+        top: -130px;
+        left: 20px;
+    }
+    
+    
+    #ait2{
+        width: 400px;
+        position: relative;
+        top: -185px;
+        left: 20px;
+    }
+
+    #myinfo{
+        height: 2300px;
+    }
+    
+    
+    #ait3{
+        width: 400px;
+        position: relative;
+        top:-240px;
+        left: 20px;
+    }
+    
+    
+    #ait4{
+        width: 400px;
+        position: relative;
+        top: -295px;
+        left: 20px;
+    }
+    
+    
+    
+    #py{
+        color: black;
+        position: relative;
+        top: -515px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        left: 20px;
+        
+       
+    }
+    
+    #node{
+        color: black;
+        position: relative;
+        top: -497px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        left: 20px;
+        ;
+       
+    
+    }
+    
+    
+    #sql{
+        color: black;
+        top: -479px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        left: 20px;
+        ;
+       
+    }
+    
+    #postgre{
+        color: black;
+        top: -461px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        left: 20px;
+        ;
+       
+    }
+
+
+    #crackend{
+        position: relative;
+        left: 20px;
+        bottom: 140px;
+    }
+
+
+
+#call{
+    color: white;
+    font-size: 16px;
+    position: relative;
+    left: 160px;
+    top:50px;
+    scroll-behavior: smooth;
+   
+}
+
+
+
+
+
+#code{
+    position: relative;
+    top: 15px;
+    left: -460px;
+    ;
+   
+}
+
+
+#encypt{
+    position: relative;
+    bottom: -3px;
+    left:-512px;
+    ;
+   
+}
+
+ 
+#gail{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 90px;
+    top:40px;
+    ;
+   
+
+}
+
+#yui{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 50px;
+    bottom:-25px;
+    ;
+   
+
+}
+
+
+
+#hub{
+    position: relative;
+    left: -515px;
+    bottom:10px;
+    font-size: 16px;
+    ;
+   
+}
+
+}
+
+
+
+
+
+
+
+@media(width:768px) and (height:1024px){
+
+    body{
+        width: 768px;
+    }
+
+
+#education{
+    font-weight: 400;
+    position: relative;
+    top: 100px;
+    left: 350px;
+    font-size: 32px;
+    ;
+   
+    
+}
+
+
+#border{
+    width: 190px;
+    height:2px;
+    background-color: orangered;
+    position: relative;
+    left: 350px;
+    bottom: -85px;
+    ;
+   
+}
+
+
+
+
+
+#bachelors{
+    position: relative;
+    font-size: 32px;
+    top: -25px;
+    left: 634px;
+    ;
+   
+}
+
+
+#paragraph{
+    color: black;
+    position: relative;
+    right: -50px;
+    font-size: 27px;
+    top: -50px;
+    text-align: center;
+    ;
+   
+}
+
+
+
+
+.college{
+    position: relative;
+    left: 125px;
+    ;
+   
+}
+
+
+
+
+
+#truproject{
+    color: black;
+    position: relative;
+    font-size: 24px;
+    right: 125px;
+   
+}
+
+
+
+
+
+
+.Affiliated{
+    position: relative;
+    left:45px;
+    ;
+   
+}
+
+
+
+
+
+    #valio{
+        position: relative; 
+        left: 40px;
+
+    }
+
+    #yerula{
+        position: relative;
+        left: 20px;
+    }
+    
+
+
+
+
+#project{
+    color: black;
+    position: relative;
+    left: -160px;
+    font-size: 32px;
+    top: 40px;
+    border: none;
+    text-decoration: none;
+    ;
+   
+}
+
+
+#konekt{
+    position: relative;
+    left: -2px;
+    ;
+   
+}
+
+
+
+
+.getme {
+    width: 1430px;
+    height: 900px;
+    background-color: rgb(30, 30, 30);
+    position: relative;
+    right: 10px;
+    padding-right: 20px;
+    border: 1px solid black;
+   
+}
+
+
+
+#Machine{
+    position: relative;
+    left: 340px;
+    font-size: 29px;
+}
+
+
+#food{
+    position: relative;
+    left: 340px;
+    font-size: 29px;
+    
+}
+
+
+
+#footer {
+    width: 1430px;
+    height: 800px;
+    background-color: rgb(0, 0, 0);
+    padding-top: 10px;
+    border: 1px solid black;
+    min-width: 400px;
+   
+}
+
+
+
+
+#border1{
+    width: 440px;
+    height:2px;
+    background-color: orangered;
+    position: relative;
+    left: 338px;
+    bottom: -30px;
+    ;
+   
+
+}
+
+
+
+
+.about {
+    position: relative;
+    right:10px;
+    width: 1460px;
+    /* overflow-x: hidden; */
+    font-family: 'Gill Sans', 'Gill Sans MT', "Calibri", 'Trebuchet MS', "sans-serif";
+    height: 700px;
+    background-color: rgb(30, 30, 30);
+    /* overflow-y: hidden; */
+    border: 1px solid black;
+    /* padding-right: 10px; */
+   
+    
+}
+
+
+
+#myinfo{
+    height: 3300px;
+    width: 1430px;
+    background-color: rgb(250, 250, 250);
+    padding-top: 20px;
+    min-width: 400px;
+    margin-bottom: 0px;
+    
+    padding-bottom: 500px;
+   
+}
+
+
+
+
+#content{
+    height: 48%;
+    width: 1460px;
+     /* background-image: url("https://images.unsplash.com/photo-1472506558072-1fe530d75951?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTh8fHxlbnwwfHx8fHw%3D"); */
+     background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8), rgba(255, 255, 255, 0.8));
+    box-shadow: 20px, 12px, 10px, 10px, rgb(43, 90, 200);
+    opacity: 50%;
+    backdrop-filter: blur(100px);
+    padding-top: 100px;
+    margin-left: -20px;
+    margin-top: 0px;
+    margin-right: 0px;
+    /* overflow-x: hidden; */
+    /* overflow-y: hidden; */
+}
+
+
+
+#bhakti{
+    position: relative;
+    left: 335px;
+    top:750px;
+    font-size: 56px;
+}
+
+#download {
+    font-size: 26px;
+    color: white;
+    position: relative;
+    right: 6px;
+    ;
+   
+    
+}
+
+
+
+
+.paragraph{
+    position: relative;
+    left: -10px;
+    bottom: 50px;
+    font-size: 23px;
+   
+}
+
+
+
+
+#github{
+    color: white;
+    font-size: 60px;
+    position: relative;
+    left: 670px;
+    top: 725px;
+    cursor: pointer;
+   
+}
+
+
+#linkedin{
+    color: white;
+    font-size: 60px;
+    position: relative;
+    top: 725px;
+    left: 520px;
+    cursor: pointer;
+   
+}
+
+
+
+#fontgame {
+    color: white;
+    position: relative;
+    left: 330px; 
+    top: -13px;
+    font-size: 43px;
+   
+}
+
+
+
+
+
+#resume {
+    color:white;
+    background-color: black;
+    border: none;
+    font-size: 24px;
+    border: 1px solid orange;
+    padding: 75px;
+    padding-top: 32px;
+    padding-left: 69px;
+    padding-bottom: 32px;
+    padding-right: 69px;
+    border-radius: 60px;
+    cursor: pointer;
+    position: relative;
+    bottom: -804px;
+    left: 320px;
+    ;
+   
+}
+
+
+#mandola{
+    position: relative;
+    left: -40px;
+    font-size: 50px;
+}
+
+
+#ribbon {
+    height: 350px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative;
+    bottom: 620px;
+    left: 10px;
+    
+   
+}
+
+
+
+#hona{
+    color: black;
+    left: 340px;
+    font-size: 22px;
+}
+
+#develop{
+
+    color: black;
+    left: -30px;
+    font-size: 22px;
+
+}
+
+#t1{
+    color: black;
+    left: 340px;
+    font-size: 24px;
+
+}
+
+
+#rist{
+    color: black;
+    left: 340px;
+    font-size: 22px;
+}
+
+#reckon{
+    color: black;
+    left: 340px;
+    font-size: 24px;
+}
+
+
+#weather{
+    position: relative;
+    left: 340px;
+    font-size: 29px;
+
+}
+
+
+#feather{
+    color: black;
+    left: -50px;
+    font-size: 22px;
+
+}
+
+#t2{
+    color: black;
+    left: 340px;
+    font-size: 24px;
+
+}
+
+#currency{
+    position: relative;
+    left: 340px;
+    font-size: 29px;
+
+}
+
+#cebas{
+    color: black;
+    left: -30px;
+    font-size: 22px;
+
+}
+
+#t6{
+    color: black;
+    left: 340px;
+    font-size: 24px;
+
+}
+
+#fitness{
+    position: relative;
+    left: 340px;
+    font-size: 29px;
+}
+
+#react-fitness{
+    color: black;
+    left: 40px;
+    font-size: 22px;
+
+}
+
+#fullstack{
+    position: relative;
+    left: 340px;
+    font-size: 29px;
+
+}
+
+
+#fullstack-tech{
+    color: black;
+    left: 10px;
+    font-size: 22px;
+
+}
+
+#t4{
+    color: black;
+    left: 340px;
+    font-size: 24px;
+
+}
+
+#t3{
+    color: black;
+    left: 340px;
+    font-size: 24px;
+
+}
+
+
+
+#t1,#t2,#t3,#t4,#t6{
+    color: black;
+}
+
+#contact{
+    color:white;
+    background-color: black;
+    border: none;
+    font-size: 24px;
+    border: 1px solid orange;
+    padding: 75px;
+    padding-top: 32px;
+    padding-left: 45px;
+    padding-bottom: 32px;
+    padding-right: 45px;
+    border-radius: 60px;
+    cursor: pointer;
+    position: relative;
+    bottom: -804px;
+    left: 250px;
+    ;
+   
+
+}
+
+
+
+#scroll{
+    color: black;
+    background-color: white;
+    font-size: 50px;
+    border: 2px solid white;
+    border-radius: 50%;
+    padding: 17px;
+    position: relative;
+    top: 1730px;
+    left: 280px;
+    cursor: pointer;
+    /* overflow-y: hidden; */
+    ;
+
+   
+}
+
+
+.interests{
+    position: relative;
+    bottom: 133px;
+    /* right: 70px; */
+    left: 42px;
+    font-size: 23px;
+   
+}
+
+
+#hinter{
+    position: relative;
+    left: 410px;
+    bottom: 113px;
+    font-size: 23px;
+    
+}
+
+
+
+#wit{
+    height: 17px;
+    width: 400px;
+    position: relative;
+    left: 20px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    ;
+   
+    
+}
+
+#wit1{
+    height: 17px;
+    width: 300px;
+    background-color: orangered;
+    border-radius: 30px;
+    ;
+   
+}
+
+
+#bit{
+    height: 17px;
+    width: 400px;
+    position: relative;
+    left: 20px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    position: relative;
+    bottom: 50px;
+    ;
+   
+}
+
+#bit1{
+    height: 17px;
+    background-color: orangered;
+    width: 300px;
+    border-radius: 30px;
+    ;
+   
+}
+
+#cit{
+    height: 17px;
+    width: 400px;
+    position: relative;
+    left: 20px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    position: relative;
+    top:-98px;
+    ;
+   
+}
+
+#cit1{
+    height: 17px;
+    background-color: orangered;
+    width: 280px;
+    border-radius: 30px;
+    ;
+   
+
+}
+
+#dit{
+    height: 17px;
+    width: 400px;
+    position: relative;
+    left: 20px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    position: relative;
+    top: -147px;
+    ;
+   
+
+}
+
+#dit1{
+    height: 17px;
+    background-color: orangered;
+    width: 260px;
+    border-radius: 30px;
+    ;
+   
+
+}
+
+
+
+/* All skillbar headings */
+#hyper{
+    color: black;
+    position: relative;
+    left: 22px;
+    font-size: 19px;
+    top:10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    ;
+   
+}
+
+
+#styling{
+    color: black;
+    position: relative;
+    left: 22px;
+    font-size: 19px;
+    top: -40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    ;
+   
+
+}
+
+
+#java{
+    color: black;
+    position: relative;
+    left: 22px;
+    font-size: 19px;
+    top: -90px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    ;
+   
+}
+
+#roct{
+    color: black;
+    position: relative;
+    left: 22px;
+    font-size: 19px;
+    top:-140px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    ;
+   
+
+}
+
+
+#crackend{
+    position: relative;
+    left: 100px;
+    bottom: 170px;
+}
+
+
+
+
+
+/*crackend development skillbars*/
+
+
+
+#ait{
+    height: 17px;
+    width: 400px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    position: relative;
+    left: 900px;
+    top:-510px;
+    /* position: relative;
+    left:900px;
+    bottom: 100px; */
+    ;
+   
+}
+
+#ait2{
+    height: 17px;
+    width: 400px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    position: relative;
+    left:900px;
+    top: -541px;
+
+}
+
+
+#ait3{
+    height: 17px;
+    width: 400px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    position: relative;
+    left:900px;
+    top: -582px;
+}
+
+#ait4{
+    height: 17px;
+    width: 400px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    position: relative;
+    left:900px;
+    top: -612px;
+}
+
+#ait1{
+    height: 17px;
+    background-color: orangered;
+    width: 280px;
+    border-radius: 30px;
+    ;
+   
+
+}
+
+
+#py{
+    color: black;
+    position: relative;
+    top: -915px;
+    font-size: 19px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 900px;
+    
+   
+}
+
+#node{
+    color: black;
+    position: relative;
+    top: -883px;
+    font-size: 19px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 900px;
+    ;
+   
+
+}
+
+
+#sql{
+    color: black;
+    top: -863px;
+    font-size: 19px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 900px;
+    ;
+   
+}
+
+#postgre{
+    color: black;
+    top: -830px;
+    font-size: 19px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 900px;
+    ;
+   
+}
+
+
+
+
+
+
+
+#skill{
+    color: black;
+    position: relative;
+    top: 50px;
+    font-size: 25px;
+    left: 210px;
+    ;
+   
+}
+
+
+#crackend{
+    position: relative;
+    bottom: 550px;
+    left: 900px;
+}
+
+#textarea{
+    position: relative;
+    top: 51px;
+    left: 20px;
+    padding: 140px;
+    padding-right: 480px;
+    background-color: rgb(80, 80, 80);
+   
+}
+
+#textarea::placeholder{
+    position: relative;
+
+    bottom: 50px;
+    right: 50px;
+    font-size: 20px;
+    ;
+   
+}
+
+#email{
+
+    position: relative;
+    top: 50px;
+    left: 20px;
+    background-color: rgb(80, 80, 80);
+    padding: 20px;
+    padding-right: 600px;
+    border-radius: 10px;
+    border: none;
+    ;
+   
+
+}
+
+
+#txt{
+    position: relative;
+    top: 50px;
+    left: 20px;
+    background-color: rgb(80, 80, 80);
+    padding: 20px;
+    padding-right: 600px;
+    border-radius: 10px;
+    border: none;
+    ;
+   
+}
+
+#envelope{
+    font-size: 70px;
+    color: white;
+    position: relative;
+    top: 170px;
+    left: 20px
+    ;
+   
+}
+
+
+#houch{
+
+    position: relative;
+    left:-480px;
+    top:70px;
+    font-size: 45px;
+    ;
+   
+}
+
+#msg{
+    position: relative;
+    top: 50px;
+    left: 20px;
+    font-size: 25px;
+    padding: 30px;
+    padding-right: 40px;
+    border-radius: 60px;
+    color: white;
+    background-color: black;
+    border: none;
+    border: 1px solid orangered;
+    cursor: pointer;
+    ;
+   
+}
+
+
+
+#who{
+    color: black;
+    font-size: 50px;
+    border-radius: 50%;
+    background-color: white;
+    padding: 15px;
+    position: relative;
+    left: 620px;
+    cursor: pointer;
+   
+
+}
+
+#call{
+    color: white;
+    font-size: 30px;
+    position: relative;
+    left: 160px;
+    top:90px;
+    ;
+   
+}
+
+#gail{
+    color: white;
+    font-size: 40px;
+    position: relative;
+    left: 530px;
+    top:-27px;
+    ;
+   
+
+}
+
+
+#yui{
+    color: white;
+    font-size: 40px;
+    position: relative;
+    left: 1010px;
+    bottom:140px;
+    ;
+   
+
+}
+
+#code{
+    position: relative;
+    top: 40px;
+    left: -420px;
+    font-size: 25px;
+    ;
+   
+}
+
+#encypt{
+    position: relative;
+    bottom: 85px;
+    left:-12px;
+    font-size: 25px;
+    ;
+   
+}
+
+#hub{
+    position: relative;
+    left: 525px;
+    bottom:200px;
+    font-size: 25px;
+    ;
+   
+}
+}
+
+
+
+@media(max-width:745px) and (min-width:708px){
+
+    body{
+        max-width: 745px;
+        min-width: 708px;
+    }
+    #bhakti{
+        position: relative;
+        left: 207px;
+        top:300px;
+        font-size: 27px;
+    }
+    
+    
+    #content{
+        height: 905px;
+        width: 1460px;
+        /* background-image: url("https://images.unsplash.com/photo-1472506558072-1fe530d75951?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTh8fHxlbnwwfHx8fHw%3D"); */
+        background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8), rgba(255, 255, 255, 0.8));
+    
+        box-shadow: 20px, 12px, 10px, 10px, rgb(43, 90, 200);
+        opacity: 50%;
+        backdrop-filter: blur(100px);
+        padding-top: 100px;
+        margin-left: -20px;
+        margin-top: 0px;
+        margin-right:0px;
+        /* overflow-x: hidden; */
+        /* overflow-y: hidden; */
+    }
+    
+    
+    
+    .interests{
+        position: relative;
+        bottom: 113px;
+        /* right: 70px; */
+        left: 10px;
+       
+    }
+    
+    
+    .paragraph{
+        position: relative;
+        left: -290px;
+        bottom: 50px;
+        font-size: 13px;
+       
+    }
+    
+    
+    #ribbon {
+        height: 180px;
+        width: 100px;
+        border: 2px solid black;
+        position: relative;
+        bottom: 370px;
+        left: 10px;
+        
+       
+    }
+    
+    
+    #who{
+        color: black;
+        font-size: 30px;
+        border-radius: 50%;
+        background-color: white;
+        padding: 15px;
+        position: relative;
+        left: 370px;
+        cursor: pointer;
+       
+    
+    }
+    
+    
+    
+    
+    
+    #resume {
+        color:white;
+        background-color: black;
+        border: none;
+        font-size: 17px;
+        border: 1px solid orange;
+        padding: 45px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-right: 15px;
+        border-radius: 30px;
+        cursor: pointer;
+        position: relative;
+        bottom: -330px;
+        left: 180px;
+        ;
+       
+    }
+    
+    
+    #contact{
+        color:white;
+        background-color: black;
+        border: none;
+        font-size: 17px;
+        border: 1px solid orange;
+        padding: 45px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-right: 30px;
+        border-radius: 30px;
+        cursor: pointer;
+        position: relative;
+        bottom: -330px;
+        left: 125px;
+        ;
+       
+    
+    }
+    
+    
+    #crackend{
+        position: relative;
+        left: 500px;
+        bottom: 470px;
+    }
+    
+    
+    
+    
+    #footer {
+        width: 1430px;
+        height: 600px;
+        background-color: rgb(0, 0, 0);
+        padding-top: 10px;
+        border: 1px solid black;
+        min-width: 400px;
+       
+    }
+    
+    
+    
+    #github{
+        color: white;
+        font-size: 30px;
+        position: relative;
+        left: 385px;
+        top: 279px;
+        cursor: pointer;
+       
+    }
+    
+    
+    #linkedin{
+        color: white;
+        font-size: 30px;
+        position: relative;
+        top: 279px;
+        left: 310px;
+        cursor: pointer;
+       
+    }
+    
+    
+    #scroll{
+        color: black;
+        background-color: white;
+        font-size: 30px;
+        border: 2px solid white;
+        border-radius: 50%;
+        padding: 12px;
+        position: relative;
+        top: 780px;
+        left: 145px;
+        cursor: pointer;
+        /* overflow-y: hidden; */
+        ;
+       
+    }
+    
+    
+    
+    #fontgame {
+        color: white;
+        position: relative;
+        left: 200px; 
+        top: -33px;
+        font-size: 33px;
+       
+    }
+    
+    
+    
+    
+    .interests{
+        position: relative;
+        bottom: 113px;
+        /* right: 70px; */
+        left: -235px;
+       
+    }
+    
+    
+    #hinter{
+        position: relative;
+        left: 250px;
+    }
+    
+    
+    #mandola{
+        position: relative;
+        left: -360px;
+    }
+    
+    
+    #react-fitness{
+        position: relative;
+        left: -260px;
+        font-size: 12px;
+        
+    }
+    
+    
+    #fullstack-tech{
+        position: relative;
+        left: -280px;
+        font-size: 12px;
+    }
+    
+    
+    
+    #konekt{
+        position: relative;
+        left: -2px;
+        ;
+       
+    }
+    
+    
+    
+    #develop{
+        color: black;
+        position: relative;
+        right: 305px;
+        bottom: 120px;
+        font-size: 12px;
+        text-align: left;
+        ;
+       
+    }
+    
+    
+    #feather{
+        position: relative;
+        right: 310px;
+        font-size: 12px;
+    }
+    
+    
+    
+    #cebas{
+        position: relative;
+        right: 300px;
+        font-size: 12px;
+    }
+    
+    
+    #hona{
+        font-size: 12px;
+    }
+    
+    
+    #rist{
+        font-size: 12px;
+    }
+    
+    #wit{
+        width: 400px;
+    }
+    
+    #wit1{
+        width: 350px;
+    }
+    
+    
+    #bit{
+        width: 400px;
+    }
+    
+    #bit1{
+        width: 350px;
+    }
+    
+    #cit{
+        width: 400px;
+    }
+    
+    #cit1{
+        width: 330px;
+    }
+    
+    
+    #dit{
+        width: 400px;
+    }
+    
+    #dit1{
+        width: 320px;
+    }
+    
+
+
+    #ait1{
+        width: 350px;
+    
+    }
+    
+    
+    #ait{
+        width: 400px;
+        position: relative;
+        top: -130px;
+        left: 20px;
+    }
+    
+    
+    #ait2{
+        width: 400px;
+        position: relative;
+        top: -185px;
+        left: 20px;
+    }
+
+    #myinfo{
+        height: 2300px;
+    }
+    
+    
+    #ait3{
+        width: 400px;
+        position: relative;
+        top:-240px;
+        left: 20px;
+    }
+    
+    
+    #ait4{
+        width: 400px;
+        position: relative;
+        top: -295px;
+        left: 20px;
+    }
+    
+    
+    
+    #py{
+        color: black;
+        position: relative;
+        top: -515px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        left: 20px;
+        
+       
+    }
+    
+    #node{
+        color: black;
+        position: relative;
+        top: -497px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        left: 20px;
+        ;
+       
+    
+    }
+    
+    
+    #sql{
+        color: black;
+        top: -479px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        left: 20px;
+        ;
+       
+    }
+    
+    #postgre{
+        color: black;
+        top: -461px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        left: 20px;
+        ;
+       
+    }
+
+
+    #crackend{
+        position: relative;
+        left: 20px;
+        bottom: 140px;
+    }
+
+
+
+#call{
+    color: white;
+    font-size: 16px;
+    position: relative;
+    left: 160px;
+    top:50px;
+    scroll-behavior: smooth;
+   
+}
+
+
+
+
+
+#code{
+    position: relative;
+    top: 15px;
+    left: -460px;
+    ;
+   
+}
+
+
+#encypt{
+    position: relative;
+    bottom: -3px;
+    left:-512px;
+    ;
+   
+}
+
+ 
+#gail{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 90px;
+    top:40px;
+    ;
+   
+
+}
+
+#yui{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 50px;
+    bottom:-25px;
+    ;
+   
+
+}
+
+
+
+#hub{
+    position: relative;
+    left: -515px;
+    bottom:10px;
+    font-size: 16px;
+    ;
+   
+}
+
+
+}
+
+@media(max-width:730px) and (min-width:708px){
+
+    body{
+        max-width: 730px;
+        min-width: 708px;
+    }
+
+    #bhakti{
+        position: relative;
+        left: 212px;
+        top:300px;
+        font-size: 25px;
+    }
+    
+    
+    #content{
+        height: 905px;
+        width: 1460px;
+        /* background-image: url("https://images.unsplash.com/photo-1472506558072-1fe530d75951?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTh8fHxlbnwwfHx8fHw%3D"); */
+        background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8), rgba(255, 255, 255, 0.8));
+    
+        box-shadow: 20px, 12px, 10px, 10px, rgb(43, 90, 200);
+        opacity: 50%;
+        backdrop-filter: blur(100px);
+        padding-top: 100px;
+        margin-left: -20px;
+        margin-top: 0px;
+        margin-right:0px;
+        /* overflow-x: hidden; */
+        /* overflow-y: hidden; */
+    }
+    
+    
+    
+    .interests{
+        position: relative;
+        bottom: 113px;
+        /* right: 70px; */
+        left: 10px;
+       
+    }
+    
+    
+    .paragraph{
+        position: relative;
+        left: -290px;
+        bottom: 50px;
+        font-size: 13px;
+       
+    }
+    
+    
+    #ribbon {
+        height: 180px;
+        width: 100px;
+        border: 2px solid black;
+        position: relative;
+        bottom: 370px;
+        left: 10px;
+        
+       
+    }
+    
+    
+    #who{
+        color: black;
+        font-size: 30px;
+        border-radius: 50%;
+        background-color: white;
+        padding: 15px;
+        position: relative;
+        left: 370px;
+        cursor: pointer;
+       
+    
+    }
+    
+    
+    
+    
+    
+    #resume {
+        color:white;
+        background-color: black;
+        border: none;
+        font-size: 17px;
+        border: 1px solid orange;
+        padding: 45px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-right: 15px;
+        border-radius: 30px;
+        cursor: pointer;
+        position: relative;
+        bottom: -330px;
+        left: 160px;
+        ;
+       
+    }
+    
+    
+    #contact{
+        color:white;
+        background-color: black;
+        border: none;
+        font-size: 17px;
+        border: 1px solid orange;
+        padding: 45px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-right: 30px;
+        border-radius: 30px;
+        cursor: pointer;
+        position: relative;
+        bottom: -330px;
+        left: 105px;
+        ;
+       
+    
+    }
+    
+    
+    #crackend{
+        position: relative;
+        left: 500px;
+        bottom: 470px;
+    }
+    
+    
+    
+    
+    #footer {
+        width: 1430px;
+        height: 600px;
+        background-color: rgb(0, 0, 0);
+        padding-top: 10px;
+        border: 1px solid black;
+        min-width: 400px;
+       
+    }
+    
+    
+    
+    #github{
+        color: white;
+        font-size: 30px;
+        position: relative;
+        left: 375px;
+        top: 279px;
+        cursor: pointer;
+       
+    }
+    
+    
+    #linkedin{
+        color: white;
+        font-size: 30px;
+        position: relative;
+        top: 279px;
+        left: 305px;
+        cursor: pointer;
+       
+    }
+    
+    
+    #scroll{
+        color: black;
+        background-color: white;
+        font-size: 30px;
+        border: 2px solid white;
+        border-radius: 50%;
+        padding: 12px;
+        position: relative;
+        top: 780px;
+        left: 135px;
+        cursor: pointer;
+        /* overflow-y: hidden; */
+        ;
+       
+    }
+    
+    
+    
+    #fontgame {
+        color: white;
+        position: relative;
+        left: 200px; 
+        top: -33px;
+        font-size: 33px;
+       
+    }
+    
+    
+    
+    
+    .interests{
+        position: relative;
+        bottom: 113px;
+        /* right: 70px; */
+        left: -235px;
+       
+    }
+    
+    
+    #hinter{
+        position: relative;
+        left: 250px;
+    }
+    
+    
+    #mandola{
+        position: relative;
+        left: -380px;
+    }
+    
+    
+    #react-fitness{
+        position: relative;
+        left: -260px;
+        font-size: 12px;
+        
+    }
+    
+    
+    #fullstack-tech{
+        position: relative;
+        left: -280px;
+        font-size: 12px;
+    }
+    
+    
+    
+    #konekt{
+        position: relative;
+        left: -2px;
+        ;
+       
+    }
+    
+    
+    
+    #develop{
+        color: black;
+        position: relative;
+        right: 305px;
+        bottom: 120px;
+        font-size: 12px;
+        text-align: left;
+        ;
+       
+    }
+    
+    
+    #feather{
+        position: relative;
+        right: 310px;
+        font-size: 12px;
+    }
+    
+    
+    
+    #cebas{
+        position: relative;
+        right: 300px;
+        font-size: 12px;
+    }
+    
+    
+    #hona{
+        font-size: 12px;
+    }
+    
+    
+    #rist{
+        font-size: 12px;
+    }
+    
+    
+    #wit{
+        width: 400px;
+    }
+    
+    #wit1{
+        width: 350px;
+    }
+    
+    
+    #bit{
+        width: 400px;
+    }
+    
+    #bit1{
+        width: 350px;
+    }
+    
+    #cit{
+        width: 400px;
+    }
+    
+    #cit1{
+        width: 330px;
+    }
+    
+    
+    #dit{
+        width: 400px;
+    }
+    
+    #dit1{
+        width: 320px;
+    }
+    
+
+
+    #ait1{
+        width: 350px;
+    
+    }
+    
+    
+    #ait{
+        width: 400px;
+        position: relative;
+        top: -130px;
+        left: 20px;
+    }
+    
+    
+    #ait2{
+        width: 400px;
+        position: relative;
+        top: -185px;
+        left: 20px;
+    }
+
+    #myinfo{
+        height: 2300px;
+    }
+    
+    
+    #ait3{
+        width: 400px;
+        position: relative;
+        top:-240px;
+        left: 20px;
+    }
+    
+    
+    #ait4{
+        width: 400px;
+        position: relative;
+        top: -295px;
+        left: 20px;
+    }
+    
+    
+    
+    #py{
+        color: black;
+        position: relative;
+        top: -515px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        left: 20px;
+        
+       
+    }
+    
+    #node{
+        color: black;
+        position: relative;
+        top: -497px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        left: 20px;
+        ;
+       
+    
+    }
+    
+    
+    #sql{
+        color: black;
+        top: -479px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        left: 20px;
+        ;
+       
+    }
+    
+    #postgre{
+        color: black;
+        top: -461px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        left: 20px;
+        ;
+       
+    }
+
+
+    #crackend{
+        position: relative;
+        left: 20px;
+        bottom: 140px;
+    }
+
+
+
+#call{
+    color: white;
+    font-size: 16px;
+    position: relative;
+    left: 160px;
+    top:50px;
+    scroll-behavior: smooth;
+   
+}
+
+
+
+
+
+#code{
+    position: relative;
+    top: 15px;
+    left: -460px;
+    ;
+   
+}
+
+
+#encypt{
+    position: relative;
+    bottom: -3px;
+    left:-512px;
+    ;
+   
+}
+
+ 
+#gail{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 90px;
+    top:40px;
+    ;
+   
+
+}
+
+#yui{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 50px;
+    bottom:-25px;
+    ;
+   
+
+}
+
+
+
+#hub{
+    position: relative;
+    left: -515px;
+    bottom:10px;
+    font-size: 16px;
+    ;
+   
+}
+
+    
+}
+
+
+
+
+@media(max-width:707px) and (min-width:541px){
+
+    body{
+        max-width: 707px;
+        min-width: 541px;
+    }
+
+
+
+    #bhakti{
+        position: relative;
+        left: 210px;
+        top:300px;
+        font-size: 24px;
+    }
+    
+    
+    #content{
+        height: 890px;
+        width: 120%;
+        /* background-image: url("https://images.unsplash.com/photo-1472506558072-1fe530d75951?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTh8fHxlbnwwfHx8fHw%3D"); */
+        background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8), rgba(255, 255, 255, 0.8));
+    
+        box-shadow: 20px, 12px, 10px, 10px, rgb(43, 90, 200);
+        opacity: 50%;
+        backdrop-filter: blur(100px);
+        padding-top: 100px;
+        margin-left: -20px;
+        margin-top: 0px;
+        margin-right:0px;
+        /* overflow-x: hidden; */
+        /* overflow-y: hidden; */
+    }
+    
+    
+    
+    .interests{
+        position: relative;
+        bottom: 113px;
+        /* right: 70px; */
+        left: 10px;
+       
+    }
+
+    #myinfo{
+        height: 2800px;
+    }
+    
+    
+    .paragraph{
+        position: relative;
+        left: -340px;
+        bottom: 50px;
+        font-size: 11px;
+       
+    }
+    
+    
+    #ribbon {
+        height: 180px;
+        width: 100px;
+        border: 2px solid black;
+        position: relative;
+        bottom: 370px;
+        left: 10px;
+        
+       
+    }
+    
+    
+    #who{
+        color: black;
+        font-size: 30px;
+        border-radius: 50%;
+        background-color: white;
+        padding: 15px;
+        position: relative;
+        left: 310px;
+        cursor: pointer;
+       
+    
+    }
+    
+    
+    
+    
+    
+    #resume {
+        color:white;
+        background-color: black;
+        border: none;
+        font-size: 17px;
+        border: 1px solid orange;
+        padding: 45px;
+        padding-top: 13px;
+        padding-bottom: 13px;
+        padding-right: 13px;
+        border-radius: 30px;
+        cursor: pointer;
+        position: relative;
+        bottom: -330px;
+        left: 165px;
+        ;
+       
+    }
+    
+    
+    #contact{
+        color:white;
+        background-color: black;
+        border: none;
+        font-size: 17px;
+        border: 1px solid orange;
+        padding: 45px;
+        padding-top: 13px;
+        padding-bottom: 13px;
+        padding-right: 27px;
+        border-radius: 30px;
+        cursor: pointer;
+        position: relative;
+        bottom: -330px;
+        left: 110px;
+        ;
+       
+    
+    }
+    
+    
+    #crackend{
+        position: relative;
+        left: 20px;
+        bottom: 140px;
+    }
+    
+    
+    
+    
+    #footer {
+        width: 1430px;
+        height: 300px;
+        background-color: rgb(0, 0, 0);
+        padding-top: 10px;
+        border: 1px solid black;
+        min-width: 400px;
+       
+    }
+    
+    
+    
+    #github{
+        color: white;
+        font-size: 30px;
+        position: relative;
+        left: 350px;
+        top: 279px;
+        cursor: pointer;
+       
+    }
+    
+    
+    #linkedin{
+        color: white;
+        font-size: 30px;
+        position: relative;
+        top: 279px;
+        left: 280px;
+        cursor: pointer;
+       
+    }
+    
+    
+    #scroll{
+        color: black;
+        background-color: white;
+        font-size: 25px;
+        border: 2px solid white;
+        border-radius: 50%;
+        padding: 12px;
+        position: relative;
+        top: 773px;
+        left: 120px;
+        cursor: pointer;
+        /* overflow-y: hidden; */
+        ;
+       
+    }
+    
+    
+    
+    #fontgame {
+        color: white;
+        position: relative;
+        left: 140px; 
+        top: -33px;
+        font-size: 33px;
+       
+    }
+
+    #myinfo{
+        height: 2300px;
+    }
+    
+    
+    
+    
+    .interests{
+        position: relative;
+        bottom: 113px;
+        /* right: 70px; */
+        left: -295px;
+       
+    }
+    
+    
+    #hinter{
+        position: relative;
+        left: 190px;
+    }
+    
+    
+    #mandola{
+        position: relative;
+        left: -380px;
+    }
+    
+    
+    #react-fitness{
+        position: relative;
+        left: -260px;
+        font-size: 12px;
+        
+    }
+    
+    
+    #fullstack-tech{
+        position: relative;
+        left: -245px;
+        font-size: 12px;
+    }
+    
+    
+    
+    #konekt{
+        position: relative;
+        left: -8px;
+        ;
+       
+    }
+    
+    
+    
+    #develop{
+        color: black;
+        position: relative;
+        right: 307px;
+        bottom: 120px;
+        font-size: 12px;
+        text-align: left;
+        ;
+       
+    }
+    
+    
+    #feather{
+        position: relative;
+        right: 313px;
+        font-size: 12px;
+    }
+    
+    
+    
+    #cebas{
+        position: relative;
+        right: 303px;
+        font-size: 12px;
+    }
+    
+    
+    #hona{
+        font-size: 12px;
+    }
+    
+    
+    #rist{
+        font-size: 12px;
+    }
+    
+    
+    #wit{
+        width: 400px;
+    }
+    
+    #wit1{
+        width: 350px;
+    }
+    
+    
+    #bit{
+        width: 400px;
+    }
+    
+    #bit1{
+        width: 350px;
+    }
+    
+    #cit{
+        width: 400px;
+    }
+    
+    #cit1{
+        width: 330px;
+    }
+    
+    
+    #dit{
+        width: 400px;
+    }
+    
+    #dit1{
+        width: 320px;
+    }
+    
+
+
+    #ait1{
+        width: 350px;
+    
+    }
+    
+    
+    #ait{
+        width: 400px;
+        position: relative;
+        top: -130px;
+        left: 20px;
+    }
+    
+    
+    #ait2{
+        width: 400px;
+        position: relative;
+        top: -185px;
+        left: 20px;
+    }
+    
+    
+    #ait3{
+        width: 400px;
+        position: relative;
+        top:-240px;
+        left: 20px;
+    }
+    
+    
+    #ait4{
+        width: 400px;
+        position: relative;
+        top: -295px;
+        left: 20px;
+    }
+    
+    
+    
+    #py{
+        color: black;
+        position: relative;
+        top: -515px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        left: 20px;
+        
+       
+    }
+    
+    #node{
+        color: black;
+        position: relative;
+        top: -497px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        left: 20px;
+        ;
+       
+    
+    }
+    
+    
+    #sql{
+        color: black;
+        top: -479px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        left: 20px;
+        ;
+       
+    }
+    
+    #postgre{
+        color: black;
+        top: -461px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        left: 20px;
+        ;
+       
+    }
+    
+   
+    
+
+    #paragraph{
+        font-size: 0.9em;
+        position: relative;
+        left: -240px;
+    }
+
+    .college{
+        position: relative;
+        left: 73px;
+    }
+
+
+    #education{
+        position: relative;
+        left: 80px;
+    }
+
+    #border{
+        position: relative;
+        left: 80px;
+    }
+
+    #bachelors{
+        position: relative;
+        left: 250px;
+    }
+
+    #paragraph{
+        position: relative;
+        left: -385px;
+    }
+
+    #project{
+        position: relative;
+        left: -520px;
+    }
+
+    #border1{
+        position: relative;
+        left: 70px;
+    }
+
+    #Machine{
+        position: relative;
+        left: 75px;
+    }
+
+    #truproject{
+        position: relative;
+        left: -467px;
+    }
+
+    #hona{
+        position: relative;
+        left: 77px;
+
+    }
+
+    #rist{
+        position: relative;
+        left: 40px;
+
+
+    }
+
+    #reckon{
+        position: relative;
+        left: 75px;
+
+    }
+
+    #food{
+        position: relative;
+        left: 75px;
+
+    }
+
+    #develop{
+        position: relative;
+        left: -444px;
+
+    }
+
+    #t1{
+        position: relative;
+        left: 75px;
+
+
+    }
+
+    #weather{
+        position: relative;
+        left: 75px;
+
+    }
+
+    #feather{
+        position: relative;
+        left: -444px;
+
+    }
+
+    #t2{
+        position: relative;
+        left: 75px;
+
+
+    }
+
+    #currency{
+        position: relative;
+        left: 75px;
+
+    }
+
+    #cebas{
+        position: relative;
+        left: -434px;
+
+    }
+
+    #t6{
+        position: relative;
+        left: 75px;
+
+    }
+
+    #fitness{
+        position: relative;
+        left: 75px;
+
+    }
+
+    #react-fitness{
+        position: relative;
+        left: -394px;
+
+    }
+
+    #t3{
+        position: relative;
+        left: 75px;
+
+    }
+
+    #fullstack{
+        position: relative;
+        left: 75px;
+
+    }
+
+    #fullstack-tech{
+        position: relative;
+        left: -414px;
+
+
+    }
+
+    #t4{
+        position: relative;
+        left: 75px;
+
+    }
+
+
+#call{
+    color: white;
+    font-size: 16px;
+    position: relative;
+    left: 160px;
+    top:50px;
+    scroll-behavior: smooth;
+   
+}
+
+
+
+
+
+#code{
+    position: relative;
+    top: 15px;
+    left: -460px;
+    ;
+   
+}
+
+
+#encypt{
+    position: relative;
+    bottom: -3px;
+    left:-512px;
+    ;
+   
+}
+
+ 
+#gail{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 90px;
+    top:40px;
+    ;
+   
+
+}
+
+#yui{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 50px;
+    bottom:-25px;
+    ;
+   
+
+}
+
+
+
+#hub{
+    position: relative;
+    left: -515px;
+    bottom:10px;
+    font-size: 16px;
+    ;
+   
+}
+
+    
+    
+
+  
+    
+    
+    }
+
+
+    @media(max-width:650px) and (min-width:541px){
+
+        body{
+            max-width: 650px;
+            min-width: 541px;
+        }
+
+    #bhakti{
+        position: relative;
+        left: 200px;
+        top:300px;
+        font-size: 22px;
+    }
+
+
+    #github{
+        color: white;
+        font-size: 30px;
+        position: relative;
+        left: 340px;
+        top: 279px;
+        cursor: pointer;
+       
+    }
+    
+    
+    #linkedin{
+        color: white;
+        font-size: 30px;
+        position: relative;
+        top: 279px;
+        left: 270px;
+        cursor: pointer;
+       
+    }
+
+
+    #who{
+        color: black;
+        font-size: 30px;
+        border-radius: 50%;
+        background-color: white;
+        padding: 15px;
+        position: relative;
+        left: 270px;
+        cursor: pointer;
+       
+    
+    }
+    
+    
+    
+    
+    
+    #resume {
+        color:white;
+        background-color: black;
+        border: none;
+        font-size: 17px;
+        border: 1px solid orange;
+        padding: 45px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-right: 10px;
+        border-radius: 30px;
+        cursor: pointer;
+        position: relative;
+        bottom: -330px;
+        left: 137px;
+        ;
+       
+    }
+
+    .paragraph{
+        font-size: 10px;
+        position: relative;
+        left: -380px;
+    }
+    
+    
+    #contact{
+        color:white;
+        background-color: black;
+        border: none;
+        font-size: 17px;
+        border: 1px solid orange;
+        padding: 45px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-right: 20px;
+        border-radius: 30px;
+        cursor: pointer;
+        position: relative;
+        bottom: -330px;
+        left: 85px;
+        ;
+       
+    
+    }
+
+
+    #scroll{
+        color: black;
+        background-color: white;
+        font-size: 25px;
+        border: 2px solid white;
+        border-radius: 50%;
+        padding: 12px;
+        position: relative;
+        top: 782px;
+        left: 110px;
+        cursor: pointer;
+        /* overflow-y: hidden; */
+        ;
+       
+    }
+
+    #fontgame {
+        color: white;
+        position: relative;
+        left: 100px; 
+        top: -33px;
+        font-size: 33px;
+       
+    }
+
+    #myinfo{
+        height: 2300px;
+    }
+
+
+    #hinter{
+        position: relative;
+        left: 145px;
+    }
+
+
+    .interests{
+        position: relative;
+        bottom: 113px;
+        /* right: 70px; */
+        left: -345px;
+       
+    }
+
+    }
+
+
+    @media(max-width:610px) and (min-width:541px){
+
+        body{
+            max-width: 610px;
+            min-width: 541px;
+        }
+        #bhakti{
+            position: relative;
+            left: 180px;
+            top:300px;
+            font-size: 22px;
+        }
+
+
+    #github{
+        color: white;
+        font-size: 30px;
+        position: relative;
+        left: 320px;
+        top: 279px;
+        cursor: pointer;
+       
+    }
+    
+    
+    #linkedin{
+        color: white;
+        font-size: 30px;
+        position: relative;
+        top: 279px;
+        left: 250px;
+        cursor: pointer;
+       
+    }
+
+    #resume {
+        color:white;
+        background-color: black;
+        border: none;
+        font-size: 17px;
+        border: 1px solid orange;
+        padding: 45px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-right: 10px;
+        border-radius: 30px;
+        cursor: pointer;
+        position: relative;
+        bottom: -330px;
+        left: 127px;
+        ;
+       
+    }
+
+    #contact{
+        color:white;
+        background-color: black;
+        border: none;
+        font-size: 17px;
+        border: 1px solid orange;
+        padding: 45px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-right: 20px;
+        border-radius: 30px;
+        cursor: pointer;
+        position: relative;
+        bottom: -330px;
+        left: 75px;
+        ;
+       
+    
+    }
+
+
+#txt{
+    position: relative;
+    top: 50px;
+    background-color: rgb(80, 80, 80);
+    padding: 10px;
+    padding-right: 220px;
+    border-radius: 10px;
+    border: none;
+    
+   
+}
+
+
+
+#email{
+
+    position: relative;
+    top: 50px;
+    background-color: rgb(80, 80, 80);
+    padding: 10px;
+    padding-right: 220px;
+    border-radius: 10px;
+    border: none;
+    ;
+   
+
+}
+
+
+#textarea{
+    position: relative;
+    top: 50px;
+    padding: 70px;
+    padding-right: 140px;
+    background-color: rgb(80, 80, 80);
+    scroll-behavior: smooth;
+   
+}
+
+
+#scroll{
+    color: black;
+    background-color: white;
+    font-size: 25px;
+    border: 2px solid white;
+    border-radius: 50%;
+    padding: 12px;
+    position: relative;
+    top: 780px;
+    left: 80px;
+    cursor: pointer;
+    /* overflow-y: hidden; */
+    ;
+   
+}
+
+
+
+
+
+
+
+
+
+
+    
+
+    }
+
+    @media(max-width:562px) and (min-width:541px){
+
+        #content{
+            height: 905px;
+        }
+        #bhakti{
+            position: relative;
+            left: 145px;
+            top:330px;
+            font-size: 22px;
+        }
+
+        #github{
+            color: white;
+            font-size: 30px;
+            position: relative;
+            left: 280px;
+            top: 320px;
+            cursor: pointer;
+           
+        }
+        
+        
+        #linkedin{
+            color: white;
+            font-size: 30px;
+            position: relative;
+            top: 320px;
+            left: 210px;
+            cursor: pointer;
+           
+        }
+    
+        #resume {
+            color:white;
+            background-color: black;
+            border: none;
+            font-size: 17px;
+            border: 1px solid orange;
+            padding: 45px;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            padding-right: 10px;
+            border-radius: 30px;
+            cursor: pointer;
+            position: relative;
+            bottom: -360px;
+            left: 77px;
+            ;
+           
+        }
+    
+        #contact{
+            color:white;
+            background-color: black;
+            border: none;
+            font-size: 17px;
+            border: 1px solid orange;
+            padding: 45px;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            padding-right: 20px;
+            border-radius: 30px;
+            cursor: pointer;
+            position: relative;
+            bottom: -360px;
+            left: 35px;
+            ;
+           
+        
+        }
+
+
+#scroll{
+    color: black;
+    background-color: white;
+    font-size: 13px;
+    border: 2px solid white;
+    border-radius: 50%;
+    padding: 12px;
+    position: relative;
+    top: 803px;
+    left: 60px;
+    cursor: pointer;
+    /* overflow-y: hidden; */
+    ;
+   
+}
+
+
+.paragraph{
+    font-size: 9px;
+    position: relative;
+    left: -410px;
+}
+
+
+#mandola{
+    position: relative;
+    left: -460px;
+}
+
+#Machine{
+    position: relative;
+    left: 75px;
+    font-size: 17px;
+}
+
+#truproject{
+    position: relative;
+    left: -480px;
+    font-size: 15px;
+}
+
+#hona{
+    position: relative;
+    left: 77px;
+    font-size: 11px;
+
+}
+
+#rist{
+    position: relative;
+    left: 40px;
+    font-size: 11px;
+
+
+}
+
+#reckon{
+    position: relative;
+    left: 75px;
+    font-size: 15px;
+
+}
+
+#food{
+    position: relative;
+    left: 75px;
+    font-size: 17px;
+
+}
+
+#develop{
+    position: relative;
+    left: -456px;
+    font-size: 11px;
+
+}
+
+#t1{
+    position: relative;
+    left: 75px;
+    font-size: 15px;
+
+
+}
+
+#weather{
+    position: relative;
+    left: 75px;
+    font-size: 17px;
+
+}
+
+#feather{
+    position: relative;
+    left: -461px;
+    font-size: 11px;
+
+}
+
+#t2{
+    position: relative;
+    left: 75px;
+    font-size: 15px;
+
+
+}
+
+#currency{
+    position: relative;
+    left: 75px;
+    font-size: 17px;
+
+}
+
+#cebas{
+    position: relative;
+    left: -452px;
+    font-size: 11px;
+    
+
+}
+
+#t6{
+    position: relative;
+    left: 75px;
+    font-size: 15px;
+
+}
+
+#fitness{
+    position: relative;
+    left: 75px;
+    font-size: 17px;
+    
+
+}
+
+#react-fitness{
+    position: relative;
+    left: -414px;
+    font-size: 11px;
+
+}
+
+#t3{
+    position: relative;
+    left: 75px;
+    font-size: 15px;
+
+}
+
+#fullstack{
+    position: relative;
+    left: 75px;
+    font-size: 17px;
+
+}
+
+#fullstack-tech{
+    position: relative;
+    left: -434px;
+    font-size: 11px;
+
+
+}
+
+#t4{
+    position: relative;
+    left: 75px;
+    font-size: 15px;
+
+}
+
+.about{
+    height: 400px;
+}
+
+
+
+
+
+    
+
+    }
+    
+    
+
+
+
+
+
+
+
+
+@media(max-width:540px) and (max-height:4000px){
+    
+
+
+    #footer{
+        padding-top: 10px;
+        margin-top: 0;
+        position: relative;
+        bottom: 50px;
+        padding-bottom: 2px;
+        height: 170px;
+    }
+
+
+
+
+
+
+    #Machine{
+        font-size: 14px;
+    }
+
+    #truproject{
+        font-size: 13px;
+        position: relative;
+        left: -370px;
+    }
+
+    #weather{
+        font-size: 14px;
+    }
+        
+        
+
+    html, body {
+        /* overflow-x: hidden; */
+        /* overflow-y: scroll; */
+        padding-left: 0;
+        padding-right: 0;
+        /* -webkit-overflow-scrolling: touch; */
+        scroll-behavior: smooth;
+        touch-action: auto;
+        height: 100%;
+      }
+
+      #t1{
+        font-size: 13px;
+        scroll-behavior: smooth;
+        color: black;
+      }
+
+      #t2{
+        font-size: 13px;
+        scroll-behavior: smooth;
+        color: black;
+      }
+
+      #t6{
+        font-size: 13px;
+        scroll-behavior: smooth;
+        color: black;
+      }
+
+      #t3{
+        font-size: 13px;
+        scroll-behavior: smooth;
+        color: black;
+      }
+
+      #rathon{
+        position: relative;
+        bottom: 20px;
+      }
+
+   
+    #content {  
+        height: 928px;
+        width: 200%;
+        /* background-image: url("https://images.unsplash.com/photo-1472506558072-1fe530d75951?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTh8fHxlbnwwfHx8fHw%3D"); */
+        background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8), rgba(255, 255, 255, 0.8));
+        box-shadow: 20px, 12px, 10px, 10px, rgb(43, 90, 200);
+        opacity: 45%;
+        margin-top: -10px;
+        margin-left: -20px;
+        font-size: 15px;
+        padding-top: 110px;
+        margin-top: -30px;
+        padding-left: 0;
+        padding-right: 0;
+        scroll-behavior: smooth;
+
+      }
+
+      #atila{
+        position: relative;
+        left: -1px;
+        scroll-behavior: smooth;
+
+      }
+
+
+#gail{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 650px;
+    top:97px;
+    ;
+   
+
+}
+
+
+
+      body{
+        width:100%;
+        overflow-x: hidden;
+        margin: 0 auto; /* Centers the content if needed */
+        padding: 0; 
+        padding-left: 0;
+        padding-right: 0;
+        scroll-behavior: smooth;
+      }
+
+      
+    
+
+
+      #bhakti{
+        color: white;
+        font-size: 24px;
+        width: 100%;
+        font-weight: 90px;
+        position: relative;
+        top:340px;      
+        scroll-behavior: smooth;
+        left: 122px;  
+        /* oveflow: hidden;   */
+       
+    }
+
+    #github{
+        color: white;
+        font-size: 30px;
+        position: relative;
+        left: 270px;
+        top: 331px;
+        cursor: pointer;
+        scroll-behavior: smooth;
+        
+    }
+
+
+
+#konekt{
+    position: relative;
+    left: -2px;
+    ;
+   
+}
+    
+
+    #linkedin{
+        color: white;
+        font-size: 30px;
+        position: relative;
+        top: 331px;
+        left: 195px;
+        cursor: pointer;
+        scroll-behavior: smooth;
+        
+       
+    }
+
+
+#konekt{
+    position: relative;
+    left: -4px;
+    ;
+   
+}
+
+#rembutton{
+    position: relative;
+    right: 7px;
+    ;
+   
+}
+
+
+    #resume {
+        color:white;
+        background-color: black;
+        border: none;
+        font-size: 12px;
+        border: 1px solid orange;
+        padding: 31px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-right: 25px;
+        border-radius: 30px;
+        cursor: pointer;
+        position: relative;
+        bottom: -370px;
+        left: 90px;
+        scroll-behavior: smooth;
+       
+    }
+
+    #download {
+        font-size: 11px;
+        color: white;
+        position: relative;
+        right: 1px;
+        scroll-behavior: smooth;
+        
+    }
+
+
+#encypt{
+    position: relative;
+    bottom: -60px;
+    left:42px;
+    ;
+   
+}
+
+    #contact{
+        color:white;
+        background-color: black;
+        border: none;
+        font-size: 12px;
+        border: 1px solid orange;
+        padding: 31px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-right: 25px;
+        border-radius: 30px;
+        cursor: pointer;
+        position: relative;
+        bottom: -370px;
+        left: 50px;
+        scroll-behavior: smooth;
+    }
+
+    #scroll{
+        color: black;
+        background-color: white;
+        font-size: 10px;
+        border: 2px solid white;
+        border-radius: 50%;
+        padding: 12px;
+        position: relative;
+        top: 820px;
+        left: 68px;
+        cursor: pointer;
+        scroll-behavior: smooth;
+        
+       
+    }
+
+
+#hub{
+    position: relative;
+    left: 525px;
+    bottom:-5px;
+    ;
+   
+}
+
+
+    
+
+#yui{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 1100px;
+    bottom:-43px;
+    ;
+   
+
+}
+
+    .about {
+        position: relative;
+        left:-70px;
+        width: 900px;
+        /* overflow-x: hidden; */
+        font-family: 'Gill Sans', 'Gill Sans MT', "Calibri", 'Trebuchet MS', "sans-serif";
+        height: 550px;
+        background-color: rgb(30, 30, 30);
+        /* overflow-y: hidden; */
+        border: 1px solid black;
+        padding-right: hidden;
+        font-size: 11px;
+        scroll-behavior: smooth;
+        
+       
+        
+    }
+
+    #hinter{
+        position: relative;
+        top: 410px; 
+        font-size: 11px;
+        left: 158px;
+        scroll-behavior: smooth;
+    }
+    
+    #fontgame {
+        color: white;
+        position: relative;
+        left: 120px; 
+        top: 443px;
+        font-size: 23px;
+        scroll-behavior: smooth;
+        
+       
+    }
+
+    #rola{
+        position: relative;
+        bottom: 90px;
+        scroll-behavior: smooth;
+    }
+    
+    .interests{
+        position: relative;
+        bottom: -381px;
+        font-size: 11px;
+        /* right: 70px; */
+        left: -115px;
+        scroll-behavior: smooth;
+        /*  */
+       
+    }
+
+    .paragraph{
+        display: block;
+        flex-direction: column;
+        position: relative;
+        left: -108px;
+        font-size: 9px;
+        top: 200px;
+        /*  */
+        text-align: center;
+        scroll-behavior: smooth;
+       
+    }
+
+
+
+#myinfo{
+    height: 1900px;
+    width: 1430px;
+    background-color: rgb(250, 250, 250);
+    padding-top: 20px;
+    min-width: 400px;
+    margin-bottom: 0px;
+    padding-bottom: 650px;
+   
+}
+
+    #mandola{
+        position: relative;
+        left: -120px;
+        scroll-behavior: smooth;
+        /*  */
+    }
+
+
+#ribbon {
+    height: 210px;
+    width: 120px;
+    border: 2px solid black;
+    position: relative;
+    bottom: 280px;
+    left: 265px;
+    scroll-behavior: smooth;
+    /*  */
+    
+   
+}
+
+#rola{
+    position: relative;
+    bottom: 230px;
+    left: 30px;
+}
+
+
+
+#gail{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 650px;
+    top:97px;
+    ;
+   
+
+}
+
+#education{
+    font-weight: 400;
+    position: relative;
+    top: 20px;
+    left: 20px; 
+    scroll-behavior: smooth;
+    /*  */
+}
+
+
+#border{
+    width: 110px;
+    height:2px;
+    background-color: orangered;
+    position: relative;
+    left: 20px;
+    bottom: -85px;
+    top: 10px;
+    scroll-behavior: smooth;
+    
+   
+}
+
+#reduman{
+    position: relative;
+    left:-370px;
+    scroll-behavior: smooth;
+    
+}
+
+#gyatolan{
+    position: relative;
+    left: -180px;
+    scroll-behavior: smooth;
+    
+}
+
+
+
+#t4{
+    position: relative;
+    left: 210px;
+    bottom: 200px;
+    scroll-behavior: smooth;
+    font-size: 13px;
+    color: black;
+   
+}
+
+#yerula{
+    position: relative;
+    left: -300px;
+    font-size: 18px;
+    top: 50px;
+    scroll-behavior: smooth;
+    
+}
+
+#garula{
+    position: relative;
+    left: -880px;
+    top: 430px;
+    height: 500px;
+    font-size: 18px;
+    scroll-behavior: smooth;
+}
+
+#textarea{
+    position: relative;
+    top: 50px;
+    padding: 70px;
+    padding-right: 160px;
+    background-color: rgb(80, 80, 80);
+    scroll-behavior: smooth;
+   
+}
+
+#valio{
+    position: relative;
+    left: 20px;
+    scroll-behavior: smooth;
+}
+
+
+.getme {
+    width: 1430px;
+    height: 600px;
+    background-color: rgb(30, 30, 30);
+    position: relative;
+    right: 10px;
+    border: 1px solid black;
+    scroll-behavior: smooth;
+   
+}
+
+
+#tana{
+    position: relative;
+    bottom: 100px;
+    left: -137px;
+    scroll-behavior: smooth;
+}
+
+#barona{
+    position: relative;
+    left: -620px;
+    bottom: 50px;
+    scroll-behavior: smooth;
+}
+
+#kyunta{
+    position: relative;
+    left: -1070px;
+    scroll-behavior: smooth;
+}
+
+#reckon{
+    padding-top: 10px;
+    font-size: 13px;
+    scroll-behavior: smooth;
+    color: black;
+}
+
+
+
+
+
+#cebas{
+    font-size: 9px;
+    position: relative;
+    left: -345px;
+    color: black;
+    /* scroll-behavior: smooth; */
+}
+
+
+
+
+#hona{
+    position: relative;
+    left: 205px;
+    bottom:40px;
+    font-size: 9px;
+    scroll-behavior: smooth;
+    color: black;
+   
+}
+
+#rist{
+    font-size: 9px;
+    color: black;
+}
+
+#sola{
+    font-size: 11px;
+    padding-top: 10px;
+    scroll-behavior: smooth;
+}
+
+
+#fitness{
+    font-size: 14px;
+    scroll-behavior: smooth;
+}
+
+#develop{
+    font-size: 9px;
+    position: relative;
+    left:-350px;
+    scroll-behavior: smooth;
+}
+
+#food{
+    font-size: 14px;
+    scroll-behavior: smooth;
+    position: relative;
+}
+
+
+#react-fitness{
+    font-size: 9px;
+    position: relative;
+    left: -315px;
+    text-align: left;
+    scroll-behavior: smooth;
+}
+
+
+#feather{
+    font-size: 9px;
+    position: relative;
+    left: -354px;
+    scroll-behavior: smooth;
+}
+
+
+
+#fullstack-tech{
+    font-size: 9px;
+    position: relative;
+    left: -330px;
+    bottom: 180px;
+    scroll-behavior: smooth;
+}
+
+
+
+
+
+#fullstack{
+    font-size: 14px;
+    scroll-behavior: smooth;
+    position: relative;
+    bottom: 180px;
+}
+
+
+
+
+
+
+#email{
+
+    position: relative;
+    top: 50px;
+    background-color: rgb(80, 80, 80);
+    padding: 10px;
+    padding-right: 220px;
+    border-radius: 10px;
+    border: none;
+    ;
+   
+
+}
+
+
+
+#code{
+    position: relative;
+    top: 110px;
+    left: -460px;
+    ;
+   
+}
+
+
+
+#hyper{
+    color: black;
+    position: relative;
+    left: 190px;
+    top:13px;
+    /* font-size: 10px; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    ;
+}
+
+
+
+#styling{
+    color: black;
+    position: relative;
+    left: 190px;
+    /* font-size: 10px; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    ;
+   
+
+}
+
+
+#java{
+    color: black;
+    position: relative;
+    left: 190px;
+    /* font-size: 10px; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    ;
+   
+}
+
+#roct{
+    color: black;
+    position: relative;
+    left: 190px;
+    /* font-size: 10px; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    ;
+   
+
+
+}
+
+
+
+#postgre{
+    color: black;
+    top: -432px;
+    /* font-size: 16px; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 190px;
+    ;
+   
+}
+
+
+#py{
+    color: black;
+    position: relative;
+    top: -515px;
+    /* font-size: 16px; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 190px;
+    
+   
+}
+
+
+
+
+#node{
+    color: black;
+    position: relative;
+    top: -485px;
+    /* font-size: 16px; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 190px;
+    ;
+   
+
+}
+
+
+#sql{
+    color: black;
+    top: -464px;
+    /* font-size: 16px; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 190px;
+    ;
+   
+}
+
+
+
+#wit{
+    position: relative;
+    left: 180px;
+
+}
+
+#bit{
+    position: relative;
+    left: 180px;
+}
+
+#cit{
+    position: relative;
+    left: 180px;
+
+}
+
+#dit{
+    position: relative;
+    left: 180px;
+}
+
+
+#ait{
+    position: relative;
+    left: 180px;
+    bottom:125px;
+
+}
+
+#ait2{
+    position: relative;
+    left: 180px;
+    bottom: 171px;
+}
+
+#ait3{
+    position: relative;
+    bottom: 216px;
+    left: 180px;
+}
+
+
+#ait4{
+    position: relative;
+    left: 180px;
+    bottom:265px;
+}
+
+#txt{
+    position: relative;
+    top: 50px;
+    background-color: rgb(80, 80, 80);
+    padding: 10px;
+    padding-right: 220px;
+    border-radius: 10px;
+    border: none;
+    
+   
+}
+
+
+
+#currency{
+    font-size: 14px;
+}
+
+
+
+
+#frontend{
+    color: black;
+    position: relative;
+    left: 180px;
+    
+}
+
+
+#crackend{
+    position: relative;
+    left: 180px;
+    bottom: 150px;
+    color: black;
+}
+
+
+
+
+#who{
+    color: black;
+    background-color: white;
+    font-size: 10px;
+    border: 2px solid white;
+    border-radius: 50%;
+    padding: 12px;
+    position: relative;
+    bottom: 60px;
+    left: 217px;
+    cursor: pointer;
+    
+
+    
+    
+}
+
+#call{
+    position: relative;
+    top: 145px;
+}
+}
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width: 500px) and (max-height:1000px) {
+    html{
+        scroll-behavior: smooth;
+        color: white;
+        overflow-x: hidden;
+        -webkit-scroll-behavior: smooth;
+        will-change: transform;
+        touch-action: auto;
+        height: 100%;
+       
+    }
+
+
+
+    #footer{
+        padding-top: 10px;
+        margin-top: 0;
+        position: relative;
+        bottom: 50px;
+        padding-bottom: 2px;
+        height: 280px;
+    }
+
+
+
+
+
+
+    #Machine{
+        font-size: 14px;
+    }
+
+    #truproject{
+        font-size: 13px;
+        position: relative;
+        left: -370px;
+    }
+
+    #weather{
+        font-size: 14px;
+    }
+        
+        
+
+    html, body {
+        /* overflow-x: hidden; */
+        /* overflow-y: scroll; */
+        padding-left: 0;
+        padding-right: 0;
+        /* -webkit-overflow-scrolling: touch; */
+        scroll-behavior: smooth;
+        touch-action: auto;
+        height: 100%;
+      }
+
+      #t1{
+        font-size: 13px;
+        scroll-behavior: smooth;
+        color: black;
+      }
+
+      #t2{
+        font-size: 13px;
+        scroll-behavior: smooth;
+        color: black;
+      }
+
+      #t6{
+        font-size: 13px;
+        scroll-behavior: smooth;
+        color: black;
+      }
+
+      #t3{
+        font-size: 13px;
+        scroll-behavior: smooth;
+        color: black;
+      }
+
+      #rathon{
+        position: relative;
+        bottom: 20px;
+      }
+
+   
+    #content {  
+        height: 861px;
+        width: 200%;
+        /* background-image: url("https://images.unsplash.com/photo-1472506558072-1fe530d75951?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTh8fHxlbnwwfHx8fHw%3D"); */
+        background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8), rgba(255, 255, 255, 0.8));
+        box-shadow: 20px, 12px, 10px, 10px, rgb(43, 90, 200);
+        opacity: 45%;
+        margin-top: -10px;
+        margin-left: -20px;
+        font-size: 15px;
+        padding-top: 110px;
+        margin-top: -30px;
+        padding-left: 0;
+        padding-right: 0;
+        scroll-behavior: smooth;
+
+      }
+
+      #atila{
+        position: relative;
+        left: -1px;
+        scroll-behavior: smooth;
+
+      }
+
+
+#gail{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 650px;
+    top:97px;
+    ;
+   
+
+}
+
+
+
+      body{
+        width:100%;
+        overflow-x: hidden;
+        margin: 0 auto; /* Centers the content if needed */
+        padding: 0; 
+        padding-left: 0;
+        padding-right: 0;
+        scroll-behavior: smooth;
+      }
+
+
+#konekt{
+    position: relative;
+    left: -14px;
+    ;
+   
+}
+
+#rembutton{
+    position: relative;
+    right: 23px;
+    ;
+   
+}
+
+
+      
+    
+
+
+      #bhakti{
+        color: white;
+        font-size: 20px;
+        width: 100%;
+        font-weight: 90px;
+        position: relative;
+        top:340px;      
+        scroll-behavior: smooth;
+        left: 122px;  
+        /* oveflow: hidden;   */
+       
+    }
+
+    #github{
+        color: white;
+        font-size: 20px;
+        position: relative;
+        left: 250px;
+        top: 330px;
+        cursor: pointer;
+        scroll-behavior: smooth;
+        
+    }
+    
+
+
+
+#konekt{
+    position: relative;
+    left: -2px;
+    ;
+   
+}
+
+    #linkedin{
+        color: white;
+        font-size: 20px;
+        position: relative;
+        top: 330px;
+        left: 195px;
+        cursor: pointer;
+        scroll-behavior: smooth;
+        
+       
+    }
+
+    #resume {
+        color:white;
+        background-color: black;
+        border: none;
+        font-size: 9px;
+        border: 1px solid orange;
+        padding: 21px;
+        padding-top: 11px;
+        padding-bottom: 11px;
+        padding-right: 15px;
+        border-radius: 30px;
+        cursor: pointer;
+        position: relative;
+        bottom: -360px;
+        left: 120px;
+        scroll-behavior: smooth;
+       
+    }
+
+    #download {
+        font-size: 11px;
+        color: white;
+        position: relative;
+        right: 1px;
+        scroll-behavior: smooth;
+        
+    }
+
+
+#encypt{
+    position: relative;
+    bottom: -60px;
+    left:42px;
+    ;
+   
+}
+
+    #contact{
+        color:white;
+        background-color: black;
+        border: none;
+        font-size: 9px;
+        border: 1px solid orange;
+        padding: 21px;
+        padding-top: 11px;
+        padding-bottom: 11px;
+        padding-right: 15px;
+        border-radius: 30px;
+        cursor: pointer;
+        position: relative;
+        bottom: -360px;
+        left: 80px;
+        scroll-behavior: smooth;
+    }
+
+    #scroll{
+        color: black;
+        background-color: white;
+        font-size: 10px;
+        border: 2px solid white;
+        border-radius: 50%;
+        padding: 12px;
+        position: relative;
+        top: 770px;
+        left: 110px;
+        cursor: pointer;
+        scroll-behavior: smooth;
+        
+       
+    }
+
+
+#hub{
+    position: relative;
+    left: 525px;
+    bottom:-5px;
+    ;
+   
+}
+
+
+#konekt{
+    position: relative;
+    left: -5px;
+    ;
+   
+}
+
+#rembutton{
+    position: relative;
+    right: 10px;
+    ;
+   
+}
+
+
+#download {
+    font-size: 11px;
+    color: white;
+    position: relative;
+    right: 5px;
+    ;
+   
+    
+}
+
+
+
+
+    
+
+#yui{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 1100px;
+    bottom:-43px;
+    ;
+   
+
+}
+
+    .about {
+        position: relative;
+        left:-70px;
+        width: 900px;
+        /* overflow-x: hidden; */
+        font-family: 'Gill Sans', 'Gill Sans MT', "Calibri", 'Trebuchet MS', "sans-serif";
+        height: 550px;
+        background-color: rgb(30, 30, 30);
+        /* overflow-y: hidden; */
+        border: 1px solid black;
+        padding-right: hidden;
+        font-size: 11px;
+        scroll-behavior: smooth;
+        
+       
+        
+    }
+
+    #hinter{
+        position: relative;
+        top: 410px; 
+        font-size: 11px;
+        left: 158px;
+        scroll-behavior: smooth;
+    }
+    
+    #fontgame {
+        color: white;
+        position: relative;
+        left: 120px; 
+        top: 443px;
+        font-size: 23px;
+        scroll-behavior: smooth;
+        
+       
+    }
+
+    #rola{
+        position: relative;
+        bottom: 230px;
+        left: 10px;
+        scroll-behavior: smooth;
+    }
+    
+    .interests{
+        position: relative;
+        bottom: -381px;
+        font-size: 11px;
+        /* right: 70px; */
+        left: -115px;
+        scroll-behavior: smooth;
+        /*  */
+       
+    }
+
+    .paragraph{
+        display: block;
+        flex-direction: column;
+        position: relative;
+        left: -148px;
+        font-size: 9px;
+        top: 200px;
+        /*  */
+        text-align: center;
+        scroll-behavior: smooth;
+       
+    }
+
+
+
+#myinfo{
+    height: 1900px;
+    width: 1430px;
+    background-color: rgb(250, 250, 250);
+    padding-top: 20px;
+    min-width: 400px;
+    margin-bottom: 0px;
+    padding-bottom: 650px;
+   
+}
+
+    #mandola{
+        position: relative;
+        left: -150px;
+        scroll-behavior: smooth;
+        /*  */
+    }
+
+
+#ribbon {
+    height: 210px;
+    width: 120px;
+    border: 2px solid black;
+    position: relative;
+    bottom: 280px;
+    left: 235px;
+    scroll-behavior: smooth;
+    /*  */
+    
+   
+}
+
+
+
+#gail{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 650px;
+    top:97px;
+    ;
+   
+
+}
+
+#education{
+    font-weight: 400;
+    position: relative;
+    top: 20px;
+    left: 20px; 
+    scroll-behavior: smooth;
+    /*  */
+}
+
+
+#border{
+    width: 110px;
+    height:2px;
+    background-color: orangered;
+    position: relative;
+    left: 20px;
+    bottom: -85px;
+    top: 10px;
+    scroll-behavior: smooth;
+    
+   
+}
+
+#reduman{
+    position: relative;
+    left:-370px;
+    scroll-behavior: smooth;
+    
+}
+
+#gyatolan{
+    position: relative;
+    left: -180px;
+    scroll-behavior: smooth;
+    
+}
+
+
+
+#t4{
+    position: relative;
+    left: 210px;
+    bottom: 200px;
+    scroll-behavior: smooth;
+    font-size: 13px;
+    color: black;
+   
+}
+
+#yerula{
+    position: relative;
+    left: -300px;
+    font-size: 18px;
+    top: 50px;
+    scroll-behavior: smooth;
+    
+}
+
+#garula{
+    position: relative;
+    left: -880px;
+    top: 430px;
+    height: 500px;
+    font-size: 18px;
+    scroll-behavior: smooth;
+}
+
+#textarea{
+    position: relative;
+    top: 50px;
+    padding: 70px;
+    padding-right: 140px;
+    background-color: rgb(80, 80, 80);
+    scroll-behavior: smooth;
+   
+}
+
+#valio{
+    position: relative;
+    left: 20px;
+    scroll-behavior: smooth;
+}
+
+
+.getme {
+    width: 1430px;
+    height: 600px;
+    background-color: rgb(30, 30, 30);
+    position: relative;
+    right: 10px;
+    border: 1px solid black;
+    scroll-behavior: smooth;
+   
+}
+
+#call{
+    color: white;
+    font-size: 16px;
+    position: relative;
+    left: 160px;
+    top:150px;
+    scroll-behavior: smooth;
+   
+}
+
+#tana{
+    position: relative;
+    bottom: 100px;
+    left: -137px;
+    scroll-behavior: smooth;
+}
+
+#barona{
+    position: relative;
+    left: -620px;
+    bottom: 50px;
+    scroll-behavior: smooth;
+}
+
+#kyunta{
+    position: relative;
+    left: -1070px;
+    scroll-behavior: smooth;
+}
+
+#reckon{
+    padding-top: 10px;
+    font-size: 13px;
+    scroll-behavior: smooth;
+    color: black;
+}
+
+
+
+
+
+#cebas{
+    font-size: 9px;
+    position: relative;
+    left: -345px;
+    color: black;
+    /* scroll-behavior: smooth; */
+}
+
+
+
+
+#hona{
+    position: relative;
+    left: 205px;
+    bottom:40px;
+    font-size: 9px;
+    scroll-behavior: smooth;
+    color: black;
+   
+}
+
+#rist{
+    font-size: 9px;
+    color: black;
+}
+
+#sola{
+    font-size: 11px;
+    padding-top: 10px;
+    scroll-behavior: smooth;
+}
+
+
+#fitness{
+    font-size: 14px;
+    scroll-behavior: smooth;
+}
+
+#develop{
+    font-size: 9px;
+    position: relative;
+    left:-350px;
+    scroll-behavior: smooth;
+}
+
+#food{
+    font-size: 14px;
+    scroll-behavior: smooth;
+    position: relative;
+}
+
+
+#react-fitness{
+    font-size: 9px;
+    position: relative;
+    left: -315px;
+    text-align: left;
+    scroll-behavior: smooth;
+}
+
+
+#feather{
+    font-size: 9px;
+    position: relative;
+    left: -354px;
+    scroll-behavior: smooth;
+}
+
+
+
+#fullstack-tech{
+    font-size: 9px;
+    position: relative;
+    left: -330px;
+    bottom: 180px;
+    scroll-behavior: smooth;
+}
+
+
+
+
+
+#fullstack{
+    font-size: 14px;
+    scroll-behavior: smooth;
+    position: relative;
+    bottom: 180px;
+}
+
+
+
+
+
+
+#email{
+
+    position: relative;
+    top: 50px;
+    background-color: rgb(80, 80, 80);
+    padding: 10px;
+    padding-right: 220px;
+    border-radius: 10px;
+    border: none;
+    ;
+   
+
+}
+
+
+
+#code{
+    position: relative;
+    top: 110px;
+    left: -460px;
+    ;
+   
+}
+
+
+
+#hyper{
+    color: black;
+    position: relative;
+    left: 190px;
+    top:13px;
+    /* font-size: 10px; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    ;
+}
+
+
+
+#styling{
+    color: black;
+    position: relative;
+    left: 190px;
+    /* font-size: 10px; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    ;
+   
+
+}
+
+
+#java{
+    color: black;
+    position: relative;
+    left: 190px;
+    /* font-size: 10px; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    ;
+   
+}
+
+#roct{
+    color: black;
+    position: relative;
+    left: 190px;
+    /* font-size: 10px; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    ;
+   
+
+
+}
+
+
+
+#postgre{
+    color: black;
+    top: -432px;
+    /* font-size: 16px; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 190px;
+    ;
+   
+}
+
+
+#py{
+    color: black;
+    position: relative;
+    top: -515px;
+    /* font-size: 16px; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 190px;
+    
+   
+}
+
+
+
+
+#node{
+    color: black;
+    position: relative;
+    top: -485px;
+    /* font-size: 16px; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 190px;
+    ;
+   
+
+}
+
+
+#sql{
+    color: black;
+    top: -464px;
+    /* font-size: 16px; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 190px;
+    ;
+   
+}
+
+
+
+#wit{
+    position: relative;
+    left: 180px;
+
+}
+
+#bit{
+    position: relative;
+    left: 180px;
+}
+
+#cit{
+    position: relative;
+    left: 180px;
+
+}
+
+#dit{
+    position: relative;
+    left: 180px;
+}
+
+
+#ait{
+    position: relative;
+    left: 180px;
+    bottom:125px;
+
+}
+
+#ait2{
+    position: relative;
+    left: 180px;
+    bottom: 171px;
+}
+
+#ait3{
+    position: relative;
+    bottom: 216px;
+    left: 180px;
+}
+
+
+#ait4{
+    position: relative;
+    left: 180px;
+    bottom:265px;
+}
+
+#txt{
+    position: relative;
+    top: 50px;
+    background-color: rgb(80, 80, 80);
+    padding: 10px;
+    padding-right: 220px;
+    border-radius: 10px;
+    border: none;
+    
+   
+}
+
+
+
+#currency{
+    font-size: 14px;
+}
+
+
+
+
+#frontend{
+    color: black;
+    position: relative;
+    left: 180px;
+    
+}
+
+
+#crackend{
+    position: relative;
+    left: 180px;
+    bottom: 150px;
+    color: black;
+}
+
+
+
+
+#who{
+    color: black;
+    background-color: white;
+    font-size: 10px;
+    border: 2px solid white;
+    border-radius: 50%;
+    padding: 12px;
+    position: relative;
+    bottom: 60px;
+    left: 217px;
+    cursor: pointer;
+    
+
+}
+}
+
+
+
+
+
+
+
+@media(max-width:445px){
+    #bhakti{
+        position: relative;
+        left:105px;
+    }
+
+
+    #resume {
+        color:white;
+        background-color: black;
+        border: none;
+        font-size: 9px;
+        border: 1px solid orange;
+        padding: 21px;
+        padding-top: 11px;
+        padding-bottom: 11px;
+        padding-right: 15px;
+        border-radius: 30px;
+        cursor: pointer;
+        position: relative;
+        bottom: -360px;
+        left: 100px;
+        scroll-behavior: smooth;
+       
+    }
+
+
+
+    #contact{
+        color:white;
+        background-color: black;
+        border: none;
+        font-size: 9px;
+        border: 1px solid orange;
+        padding: 21px;
+        padding-top: 11px;
+        padding-bottom: 11px;
+        padding-right: 15px;
+        border-radius: 30px;
+        cursor: pointer;
+        position: relative;
+        bottom: -358px;
+        left: 60px;
+        scroll-behavior: smooth;
+    }
+
+
+    #github{
+        color: white;
+        font-size: 20px;
+        position: relative;
+        left: 240px;
+        top: 330px;
+        cursor: pointer;
+        scroll-behavior: smooth;
+        
+    }
+    
+
+    #linkedin{
+        color: white;
+        font-size: 20px;
+        position: relative;
+        top: 330px;
+        left: 185px;
+        cursor: pointer;
+        scroll-behavior: smooth;
+        
+       
+    }
+
+
+
+
+
+
+    #scroll{
+        color: black;
+        background-color: white;
+        font-size: 10px;
+        border: 2px solid white;
+        border-radius: 50%;
+        padding: 12px;
+        position: relative;
+        top: 770px;
+        left: 90px;
+        cursor: pointer;
+        scroll-behavior: smooth;
+        
+       
+    }
+
+
+
+#konekt{
+    position: relative;
+    left: -2px;
+    ;
+   
+}
+
+    #mandola{
+        position: relative;
+        left: -160px;
+    }
+
+    #ribbon{
+        position: relative;
+        left: 227px;
+    }
+
+}
+
+@media(max-width:439px){
+    .paragraph{
+        font-size: 8px;
+    }
+
+    #ribbon{
+        position: relative;
+        top: -264px;
+    }
+}
+
+
+
+
+
+@media(max-width:430px){
+    #bhakti{
+        position: relative;
+        left:100px;
+        top:330px;
+        font-size: 19px;
+    }
+
+    #mandola{
+        position: relative;
+        left: -140px;
+    }
+
+    #ribbon{
+        position: relative;
+        top: -264px;
+        left: 240px;
+    }
+
+
+
+#konekt{
+    position: relative;
+    left: -2px;
+    ;
+   
+}
+
+    #resume {
+        color:white;
+        background-color: black;
+        border: none;
+        font-size: 9px;
+        border: 1px solid orange;
+        padding: 21px;
+        padding-top: 11px;
+        padding-bottom: 11px;
+        padding-right: 15px;
+        border-radius: 30px;
+        cursor: pointer;
+        position: relative;
+        bottom: -352px;
+        left: 90px;
+        scroll-behavior: smooth;
+       
+    }
+    
+
+
+
+    #contact{
+        color:white;
+        background-color: black;
+        border: none;
+        font-size: 9px;
+        border: 1px solid orange;
+        padding: 21px;
+        padding-top: 11px;
+        padding-bottom: 11px;
+        padding-right: 15px;
+        border-radius: 30px;
+        cursor: pointer;
+        position: relative;
+        bottom: -352px;
+        left: 50px;
+        scroll-behavior: smooth;
+    }
+
+
+    #github{
+        color: white;
+        font-size: 20px;
+        position: relative;
+        left: 220px;
+        top: 320px;
+        cursor: pointer;
+        scroll-behavior: smooth;
+        
+    }
+    
+
+    #linkedin{
+        color: white;
+        font-size: 20px;
+        position: relative;
+        top: 320px;
+        left: 168px;
+        cursor: pointer;
+        scroll-behavior: smooth;
+        
+       
+    }
+
+
+
+
+
+
+    #scroll{
+        color: black;
+        background-color: white;
+        font-size: 10px;
+        border: 2px solid white;
+        border-radius: 50%;
+        padding: 12px;
+        position: relative;
+        top: 770px;
+        left: 60px;
+        cursor: pointer;
+        scroll-behavior: smooth;
+        
+       
+    }
+
+
+
+
+
+    #who{
+    color: black;
+    background-color: white;
+    font-size: 10px;
+    border: 2px solid white;
+    border-radius: 50%;
+    padding: 12px;
+    position: relative;
+    bottom: 50px;
+    left: 190px;
+    cursor: pointer;
+    scroll-behavior: smooth;
+    /* overflow-y: hidden; */
+   
+
+    }
+
+
+    .about {
+        position: relative;
+        left:-95px;
+        width: 900px;
+        /* overflow-x: hidden; */
+        font-family: 'Gill Sans', 'Gill Sans MT', "Calibri", 'Trebuchet MS', "sans-serif";
+        height: 550px;
+        background-color: rgb(30, 30, 30);
+        /* overflow-y: hidden; */
+        border: 1px solid black;
+        padding-right: hidden;
+        font-size: 11px;
+        scroll-behavior: smooth;
+        
+       
+        
+    }
+
+
+
+#who{
+    color: black;
+    background-color: white;
+    font-size: 10px;
+    border: 2px solid white;
+    border-radius: 50%;
+    padding: 12px;
+    position: relative;
+    bottom: 50px;
+    left: 180px;
+    cursor: pointer;
+    scroll-behavior: smooth;
+   
+
+}
+
+
+
+}
+
+
+
+
+
+
+
+@media(max-width: 412px){
+
+
+#myinfo{
+    width: 1430px;
+    height: 1400px;
+    background-color: rgb(250, 250, 250);
+    padding-top: 20px;
+    min-width: 400px;
+    margin-bottom:  0px;
+    padding-bottom: 900px;
+   
+}
+    #fitness{
+        font-size: 12px;
+    }
+
+
+    #currency{
+
+        font-size: 12px;
+        
+    }
+
+
+    #react-fitness{
+        position: relative;
+        left: 385px;
+    }
+
+    #weather{
+        font-size: 12px;
+    }
+
+    #food{
+        font-size: 12px;
+    }
+
+
+    .paragraph{
+        position: relative;
+        left: -150px;
+    }
+
+
+
+
+    #Machine{
+        font-size: 12px;
+    }
+
+    #fullstack{
+        font-size: 12px;
+    }
+
+    #truproject{
+        font-size: 12px;
+        position: relative;
+        left: -375px;
+    }
+
+    #t1,#t2,#t3,#t4,#t6,#reckon{
+        font-size: 10px;
+        color: black;
+    }
+
+    #t3{
+       position: relative;
+       top: -190px;
+    }
+
+    #t6{
+        position: relative;
+        top:-170px;
+    }
+
+
+
+#konekt{
+    position: relative;
+    left: -2px;
+    ;
+   
+}
+
+
+#who{
+    color: black;
+    background-color: white;
+    font-size: 10px;
+    border: 2px solid white;
+    border-radius: 50%;
+    padding: 12px;
+    position: relative;
+    bottom: 50px;
+    left: 180px;
+    cursor: pointer;
+    scroll-behavior: smooth;
+    /* overflow-y: hidden; */
+   
+
+}
+
+
+    #develop{
+        font-size: 7px;
+        position: relative;
+        left: -380px;
+    }
+
+    #feather{
+        font-size: 7px;
+        position: relative;
+        left: -380px;
+    }
+
+
+
+
+
+
+
+
+    #resume {
+        color:white;
+        background-color: black;
+        border: none;
+        font-size: 9px;
+        border: 1px solid orange;
+        padding: 21px;
+        padding-top: 11px;
+        padding-bottom: 11px;
+        padding-right: 15px;
+        border-radius: 30px;
+        cursor: pointer;
+        position: relative;
+        bottom: -250px;
+        left: 90px;
+        scroll-behavior: smooth;
+       
+    }
+
+
+
+    #contact{
+        color:white;
+        background-color: black;
+        border: none;
+        font-size: 9px;
+        border: 1px solid orange;
+        padding: 21px;
+        padding-top: 11px;
+        padding-bottom: 11px;
+        padding-right: 15px;
+        border-radius: 30px;
+        cursor: pointer;
+        position: relative;
+        bottom: -250px;
+        left: 60px;
+        scroll-behavior: smooth;
+    }
+
+
+    #github{
+        color: white;
+        font-size: 20px;
+        position: relative;
+        left: 220px;
+        top: 224px;
+        cursor: pointer;
+        scroll-behavior: smooth;
+        
+    }
+    
+
+    #linkedin{
+        color: white;
+        font-size: 20px;
+        position: relative;
+        top: 224px;
+        left: 165px;
+        cursor: pointer;
+        scroll-behavior: smooth;
+        
+       
+    }
+
+
+
+
+
+
+    #scroll{
+        color: black;
+        background-color: white;
+        font-size: 10px;
+        border: 2px solid white;
+        border-radius: 50%;
+        padding: 12px;
+        position: relative;
+        top: 533px;
+        left: 70px;
+        cursor: pointer;
+        scroll-behavior: smooth;
+        
+       
+    }
+
+    #cebas{
+        font-size: 7px;
+        position: relative;
+        left: -370px;
+    }
+
+    /* #react-fitness{
+        font-size: 7px;
+        position: relative;
+        left: -350px;
+    } */
+
+    #fullstack-tech{
+        font-size: 7px;
+        position: relative;
+        left: -360px;
+    }
+
+    #hona{
+        font-size: 7px;
+    }
+
+    #rist{
+        font-size: 7px;
+    }
+
+    #bhakti{
+        position: relative;
+        left:105px; 
+    }
+
+    #mandola{
+        position: relative;
+        left: -150px;
+    }
+
+    #ribbon{
+        position: relative;
+        left: 230px;
+        top:-265px;
+    }
+
+
+
+}
+
+
+
+
+@media(max-width: 416px) {
+    #fitness{
+        font-size: 13px;
+    }
+
+    #bhakti{
+        position: relative;
+        left:108px;
+        font-size: 17px;
+    }
+
+
+
+#myinfo{
+    height: 2070px;
+    width: 1430px;
+    background-color: rgb(250, 250, 250);
+    padding-top: 20px;
+    min-width: 400px;
+    margin-bottom:  0px;
+    padding-bottom: 400px;
+   
+}
+
+    #currency{
+        font-size: 13px;
+    }
+
+    #weather{
+        font-size: 13px;
+    }
+
+    #truproject{
+        font-size: 10px;
+        position: relative;
+        left: -395px;
+    }
+
+
+#who{
+    color: black;
+    background-color: white;
+    font-size: 10px;
+    border: 2px solid white;
+    border-radius: 50%;
+    padding: 12px;
+    position: relative;
+    bottom: 50px;
+    left: 180px;
+    cursor: pointer;
+    scroll-behavior: smooth;
+    /* overflow-y: hidden; */
+   
+
+    }
+
+
+
+
+
+    #food{
+        font-size: 13px;
+    }
+
+    #react-fitness{
+        position: relative;
+        left:-315px;
+    }
+
+    #Machine{
+        font-size: 13px;
+    }
+
+    #t4{
+        font-size: 12px;
+    }
+
+    #t3{
+        font-size: 12px;
+
+    }
+
+    #t6{
+        font-size: 12px;
+    }
+
+    #t2{
+        font-size: 12px;
+    }
+
+    #t1{
+        font-size: 12px;
+    }
+
+    #reckon{
+        font-size: 12px;
+    }
+
+
+    #resume {
+        color:white;
+        background-color: black;
+        border: none;
+        font-size: 9px;
+        border: 1px solid orange;
+        padding: 21px;
+        padding-top: 11px;
+        padding-bottom: 11px;
+        padding-right: 15px;
+        border-radius: 30px;
+        cursor: pointer;
+        position: relative;
+        bottom: -349px;
+        left: 90px;
+        scroll-behavior: smooth;
+       
+    }
+
+
+
+#konekt{
+    position: relative;
+    left: -2px;
+    ;
+   
+}
+
+
+
+    #contact{
+        color:white;
+        background-color: black;
+        border: none;
+        font-size: 9px;
+        border: 1px solid orange;
+        padding: 21px;
+        padding-top: 11px;
+        padding-bottom: 11px;
+        padding-right: 15px;
+        border-radius: 30px;
+        cursor: pointer;
+        position: relative;
+        bottom: -349px;
+        left: 50px;
+        scroll-behavior: smooth;
+    }
+
+
+    #github{
+        color: white;
+        font-size: 20px;
+        position: relative;
+        left: 220px;
+        top: 318px;
+        cursor: pointer;
+        scroll-behavior: smooth;
+        
+    }
+    
+
+    #linkedin{
+        color: white;
+        font-size: 20px;
+        position: relative;
+        top: 318px;
+        left: 165px;
+        cursor: pointer;
+        scroll-behavior: smooth;
+        
+       
+    }
+
+
+
+
+
+
+    #scroll{
+        color: black;
+        background-color: white;
+        font-size: 10px;
+        border: 2px solid white;
+        border-radius: 50%;
+        padding: 12px;
+        position: relative;
+        top: 780px;
+        left: 70px;
+        cursor: pointer;
+        scroll-behavior: smooth;
+        
+       
+    }
+
+
+
+}
+
+
+
+
+
+
+
+
+@media(max-width:406px){
+
+#wit{
+    height: 17px;
+    width: 300px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    ;
+   
+    
+}
+
+
+
+#konekt{
+    position: relative;
+    left: -2px;
+    ;
+   
+}
+
+#wit1{
+    height: 17px;
+    width: 250px;
+    background-color: orangered;
+    border-radius: 30px;
+    ;
+   
+}
+
+#ribbon{
+    position: relative;
+    top:-210px;
+    left:225px;
+}
+
+
+
+
+
+
+#bit{
+    height: 17px;
+    width: 300px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    ;
+   
+}
+
+#bit1{
+    height: 17px;
+    background-color: orangered;
+    width: 200px;
+    border-radius: 30px;
+    ;
+   
+}
+
+#cit{
+    height: 17px;
+    width: 300px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    ;
+   
+}
+
+#email{
+
+    position: relative;
+    top: 50px;
+    background-color: rgb(80, 80, 80);
+    padding: 10px;
+    padding-right: 140px;
+    border-radius: 10px;
+    border: none;
+    ;
+   
+
+}
+
+
+
+
+#txt{
+    position: relative;
+    top: 50px;
+    background-color: rgb(80, 80, 80);
+    padding: 10px;
+    padding-right: 140px;
+    border-radius: 10px;
+    border: none;
+   
+}
+
+
+#textarea{
+    padding-right: 60px;
+}
+
+#cit1{
+    height: 17px;
+    background-color: orangered;
+    width: 180px;
+    border-radius: 30px;
+    ;
+   
+
+}
+
+
+
+#dit{
+    height: 17px;
+    width: 300px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    ;
+   
+
+}
+
+#dit1{
+    height: 17px;
+    background-color: orangered;
+    width: 190px;
+    border-radius: 30px;
+    ;
+   
+
+}
+
+
+
+#ait{
+    height: 17px;
+    width: 300px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    position: relative;
+    /* left:1080px; */
+    bottom: 60px;
+    ;
+   
+}
+
+#ait2{
+    height: 17px;
+    width: 300px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    position: relative;
+    top: -233px;
+}
+
+#ait3{
+    height: 17px;
+    width: 300px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    position: relative;
+}
+
+#ait4{
+    height: 17px;
+    width: 300px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    position: relative;
+}
+
+
+#ait1{
+    height: 17px;
+    background-color: orangered;
+    width: 240px;
+    border-radius: 30px;
+    ;
+   
+
+}
+
+#mandola{
+    position: relative;
+    left: -160px;
+}
+
+#ribbon{
+    position: relative;
+    top:-265px;
+}
+
+#react-fitness{
+    font-size: 7px;
+    left: -349px;
+}
+
+
+
+}
+
+
+
+
+
+
+
+
+@media(max-width: 390px){
+
+
+    #bhakti{
+        position: relative;
+        left: 105px;
+        top:331px;
+        font-size: 16px;
+    }
+
+   
+
+    #Machine{
+        font-size: 11px;
+    }
+
+    #truproject{
+        font-size: 11px;
+        position: relative;
+        left: -389px;
+    }
+
+#who{
+    color: black;
+    background-color: white;
+    font-size: 10px;
+    border: 2px solid white;
+    border-radius: 50%;
+    padding: 12px;
+    position: relative;
+    bottom: 50px;
+    left: 160px;
+    cursor: pointer;
+    scroll-behavior: smooth;
+    /* overflow-y: hidden; */
+   
+
+}
+
+
+
+
+
+#email{
+
+    position: relative;
+    top: 50px;
+    background-color: rgb(80, 80, 80);
+    padding: 10px;
+    padding-right: 140px;
+    border-radius: 10px;
+    border: none;
+    ;
+   
+
+}
+
+
+
+
+#txt{
+    position: relative;
+    top: 50px;
+    background-color: rgb(80, 80, 80);
+    padding: 10px;
+    padding-right: 140px;
+    border-radius: 10px;
+    border: none;
+   
+}
+
+
+
+
+#konekt{
+    position: relative;
+    left: -2px;
+    ;
+   
+}
+    #food{
+        font-size: 11px;
+        position: relative;
+        left: 210px;
+    }
+
+    #textarea{
+        padding-right: 60px;
+    }
+
+    #fitness{
+        font-size: 11px;
+        position: relative;
+        
+    }
+
+    #fullstack{
+        font-size: 11px;
+    }
+
+
+
+
+    .about {
+        position: relative;
+        left:-115px;
+        width: 900px;
+        /* overflow-x: hidden; */
+        font-family: 'Gill Sans', 'Gill Sans MT', "Calibri", 'Trebuchet MS', "sans-serif";
+        height: 550px;
+        background-color: rgb(30, 30, 30);
+        /* overflow-y: hidden; */
+        border: 1px solid black;
+        padding-right: hidden;
+        font-size: 11px;
+        scroll-behavior: smooth;
+        
+       
+        
+    }
+
+    #resume {
+        color:white;
+        background-color: black;
+        border: none;
+        font-size: 9px;
+        border: 1px solid orange;
+        padding: 21px;
+        padding-top: 11px;
+        padding-bottom: 11px;
+        padding-right: 15px;
+        border-radius: 30px;
+        cursor: pointer;
+        position: relative;
+        bottom: -351px;
+        left: 80px;
+        scroll-behavior: smooth;
+       
+    }
+
+
+
+    #contact{
+        color:white;
+        background-color: black;
+        border: none;
+        font-size: 9px;
+        border: 1px solid orange;
+        padding: 21px;
+        padding-top: 11px;
+        padding-bottom: 11px;
+        padding-right: 15px;
+        border-radius: 30px;
+        cursor: pointer;
+        position: relative;
+        bottom: -351px;
+        left: 40px;
+        scroll-behavior: smooth;
+    }
+
+
+    #github{
+        color: white;
+        font-size: 20px;
+        position: relative;
+        left: 210px;
+        top: 320px;
+        cursor: pointer;
+        scroll-behavior: smooth;
+        
+    }
+    
+
+    #linkedin{
+        color: white;
+        font-size: 20px;
+        position: relative;
+        top: 320px;
+        left: 158px;
+        cursor: pointer;
+        scroll-behavior: smooth;
+        
+       
+    }
+
+
+
+
+
+
+    #scroll{
+        color: black;
+        background-color: white;
+        font-size: 10px;
+        border: 2px solid white;
+        border-radius: 50%;
+        padding: 12px;
+        position: relative;
+        top: 780px;
+        left: 50px;
+        cursor: pointer;
+        scroll-behavior: smooth;
+        
+       
+    }
+
+
+
+
+
+    #weather{
+        font-size: 10px;
+    }
+
+    #currency{
+        font-size: 10px;
+    }
+
+
+    #react-fitness{
+        font-size: 7px;
+        position: relative;
+        left: -350px;
+    }
+
+    #fullstack-tech{
+        position: relative;
+        font-size: 8px;
+        left: -350px;
+    }
+
+    #develop{
+        font-size: 8px;
+        position: relative;
+        left:-365px;
+    }
+
+    #hona{
+        font-size: 8px;
+    }
+
+    #rist{
+        font-size: 8px;
+    }
+
+    #feather{
+        font-size: 8px;
+        position: relative;
+        left: -368px;
+    }
+
+    #cebas{
+        font-size: 8px;
+        position: relative;
+        left: -359px;
+    }
+
+    #mandola{
+        position: relative;
+        left: -150px;
+    }
+
+    #ribbon{
+        position: relative;
+        left: 240px;
+        bottom: 80px;
+    }
+
+    #sola{
+        font-size: 8px;
+    }
+
+    #t1, #t2, #t3, #t4, #t6, #reckon{
+        font-size: 9px;
+    }
+
+    .paragraph{
+        position: relative;
+        left: -138px;
+    }
+
+
+}
+
+
+
+
+@media(max-width:381px){
+
+    .paragraph{
+        font-size: 7px;
+        position: relative;
+        left: -148px;
+    }
+
+    #ribbon{
+        position: relative;
+        left: 210px;
+        top: -245px;
+    }
+
+
+
+}
+
+
+@media(max-width:375px){
+    #bhakti{
+        
+            position: relative;
+            left: 95px;
+            top: 315px;
+            font-size: 16px;
+        
+
+    }
+
+
+    #resume {
+        color:white;
+        background-color: black;
+        border: none;
+        font-size: 9px;
+        border: 1px solid orange;
+        padding: 21px;
+        padding-top: 11px;
+        padding-bottom: 11px;
+        padding-right: 15px;
+        border-radius: 30px;
+        cursor: pointer;
+        position: relative;
+        bottom: -334px;
+        left: 70px;
+        scroll-behavior: smooth;
+       
+    }
+
+
+
+    #contact{
+        color:white;
+        background-color: black;
+        border: none;
+        font-size: 9px;
+        border: 1px solid orange;
+        padding: 21px;
+        padding-top: 11px;
+        padding-bottom: 11px;
+        padding-right: 15px;
+        border-radius: 30px;
+        cursor: pointer;
+        position: relative;
+        bottom: -334px;
+        left: 30px;
+        scroll-behavior: smooth;
+    }
+
+
+    #content {  
+        height: 821px;
+        width: 200%;
+        /* background-image: url("https://images.unsplash.com/photo-1472506558072-1fe530d75951?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTh8fHxlbnwwfHx8fHw%3D"); */
+        background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8), rgba(255, 255, 255, 0.8));
+        box-shadow: 20px, 12px, 10px, 10px, rgb(43, 90, 200);
+        opacity: 45%;
+        margin-top: -10px;
+        margin-left: -20px;
+        font-size: 15px;
+        padding-top: 110px;
+        margin-top: -30px;
+        padding-left: 0;
+        padding-right: 0;
+        scroll-behavior: smooth;
+
+      }
+
+
+
+#konekt{
+    position: relative;
+    left: -2px;
+    ;
+   
+}
+
+
+    #github{
+        color: white;
+        font-size: 20px;
+        position: relative;
+        left: 200px;
+        top: 305px;
+        cursor: pointer;
+        scroll-behavior: smooth;
+        
+    }
+
+
+
+#konekt{
+    position: relative;
+    left: -2px;
+    ;
+   
+}
+    
+
+    #linkedin{
+        color: white;
+        font-size: 20px;
+        position: relative;
+        top: 305px;
+        left: 145px;
+        cursor: pointer;
+        scroll-behavior: smooth;
+        
+       
+    }
+
+
+
+
+
+
+    #scroll{
+        color: black;
+        background-color: white;
+        font-size: 10px;
+        border: 2px solid white;
+        border-radius: 50%;
+        padding: 12px;
+        position: relative;
+        top: 740px;
+        left: 50px;
+        cursor: pointer;
+        scroll-behavior: smooth;
+        
+       
+    }
+
+#who{
+    color: black;
+    background-color: white;
+    font-size: 10px;
+    border: 2px solid white;
+    border-radius: 50%;
+    padding: 12px;
+    position: relative;
+    bottom: 50px;
+    left: 150px;
+    cursor: pointer;
+    scroll-behavior: smooth;
+    /* overflow-y: hidden; */
+   
+
+}
+
+#ribbon{
+    position: relative;
+    top: -244px;
+    left: 235px;
+}
+
+
+
+
+}
+
+
+
+@media(max-width:353px){
+    .paragraph{
+        font-size: 6px;
+        position: relative;
+        left: -160px;
+    }
+
+    #ribbon{
+        position: relative;
+        top:-230px;
+    }
+
+    #paragraph{
+        font-size: 13px;
+        position: relative;
+        left: -250px;
+    }
+
+
+
+#konekt{
+    position: relative;
+    left: -2px;
+    ;
+   
+}
+
+    .college{
+        position: relative;
+        left: 65px;
+    }
+
+    .Affiliated{
+        position: relative;
+        left: 25px;
+    }
+}
+
+
+
+
+
+
+
+@media(max-width:344px){
+    .paragraph{
+        position: relative;
+        left:-178px;
+    }
+
+
+    #bhakti{
+        position: relative;
+        top:331px;
+        left:89px;
+    }
+
+    #hinter{
+        position: relative;
+        left:153px;
+        top: 415px;
+        font-size: 9px;
+    }
+
+
+
+#konekt{
+    position: relative;
+    left: -2px;
+    ;
+   
+}
+
+    .interests{
+        position: relative;
+        left:-160px;
+        top:385px;
+        font-size: 8px;
+        margin-top: 20px;
+    }
+
+
+
+
+#who{
+    color: black;
+    background-color: white;
+    font-size: 10px;
+    border: 2px solid white;
+    border-radius: 50%;
+    padding: 12px;
+    position: relative;
+    bottom: 50px;
+    left: 150px;
+    cursor: pointer;
+    scroll-behavior: smooth;
+    /* overflow-y: hidden; */
+   
+
+}
+
+
+ #mandola{
+    position: relative;
+    left: -180px;
+}
+
+#ribbon{
+     position: relative;
+     top:-249px;
+    left:205px;
+     margin-top: 30px;
+}
+
+
+
+#myinfo{
+    height: 1600px;
+    width: 1430px;
+    background-color: rgb(250, 250, 250);
+    padding-top: 20px;
+    min-width: 400px;
+    margin-bottom:  0px;
+    padding-bottom: 650px;
+   
+}
+
+#resume {
+    color:white;
+    background-color: black;
+    border: none;
+    font-size: 9px;
+    border: 1px solid orange;
+    padding: 21px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-right: 15px;
+    border-radius: 30px;
+    cursor: pointer;
+    position: relative;
+    bottom: -350px;
+    left: 60px;
+    scroll-behavior: smooth;
+   
+}
+
+
+
+#contact{
+    color:white;
+    background-color: black;
+    border: none;
+    font-size: 9px;
+    border: 1px solid orange;
+    padding: 21px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-right: 15px;
+    border-radius: 30px;
+    cursor: pointer;
+    position: relative;
+    bottom: -350px;
+    left: 20px;
+    scroll-behavior: smooth;
+}
+
+
+#github{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 190px;
+    top: 320px;
+    cursor: pointer;
+    scroll-behavior: smooth;
+    
+}
+
+
+#linkedin{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    top: 320px;
+    left: 135px;
+    cursor: pointer;
+    scroll-behavior: smooth;
+    
+   
+}
+
+
+
+
+
+
+#scroll{
+    color: black;
+    background-color: white;
+    font-size: 10px;
+    border: 2px solid white;
+    border-radius: 50%;
+    padding: 12px;
+    position: relative;
+    bottom: 430px;
+    left: 40px;
+    cursor: pointer;
+    scroll-behavior: smooth;
+    
+   
+}
+            #reduman{
+                font-size: 11px;
+                position: relative;
+                left: -380px;
+                
+            }
+
+            .college{
+                position: relative;
+                left:56px;
+            }
+
+            .Affiliated{
+                position: relative;
+                left:23px;
+            }
+
+
+#paragraph{
+    color: black;
+    position: relative;
+    right: 257px;
+    top: 20px;
+    text-align: center;
+    ;
+   
+}
+
+.college{
+    position: relative;
+    left: 66px;
+}
+
+
+
+#truproject{
+    color: black;
+    position: relative;
+    left: -396px;
+    font-size: 10px;
+    
+   
+}
+
+#food{
+    font-size: 11px;
+    position: relative;
+    left: 210px;
+}
+
+#fitness{
+    font-size: 11px;
+}
+
+#fullstack{
+    font-size: 11px;
+}
+
+#Machine{
+    font-size: 11px;
+}
+
+#currency{
+    font-size: 11px;
+}
+
+#weather{
+    font-size: 11px;
+}
+
+#react-fitness{
+    font-size: 6px;
+    left:-370px;
+}
+
+#fullstack-tech{
+    font-size: 6px;
+    left: -380px;
+}
+
+#cebas{
+    font-size: 6px;
+    position: relative;
+    left:-390px;
+}
+
+#feather{
+    font-size: 6px;
+    position: relative;
+    left:-395px;
+}
+
+#develop{
+    font-size: 6px;
+    position: relative;
+    left: -390px;
+}
+
+#hona{
+    font-size: 6px;
+}
+
+
+#rist{
+    font-size: 6px;
+}
+
+#sola{
+    font-size: 6px;
+}
+
+#t3{
+    position: relative;
+    top:-180px;
+
+}
+
+#reckon, #t1, #t2, #t3, #t4, #t6{
+    font-size: 9px;
+}
+}
+
+
+
+
+
+
+
+
+@media(max-width:320px){
+
+
+
+
+    #bhakti{
+        position: relative;
+        top:331px;
+        left:72px;
+    }
+
+
+#email{
+
+    position: relative;
+    top: 50px;
+    background-color: rgb(80, 80, 80);
+    padding: 10px;
+    padding-right: 100px;
+    border-radius: 10px;
+    border: none;
+    ;
+   
+
+}
+
+
+#txt{
+    position: relative;
+    top: 50px;
+    background-color: rgb(80, 80, 80);
+    padding: 10px;
+    padding-right: 100px;
+    border-radius: 10px;
+    border: none;
+   
+}
+
+
+
+
+#textarea{
+    padding-right: 30px;
+}
+
+
+#wit{
+    height: 17px;
+    width: 220px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    ;
+   
+    
+}
+
+#wit1{
+    height: 17px;
+    width: 200px;
+    background-color: orangered;
+    border-radius: 30px;
+    ;
+   
+}
+
+
+#bit{
+    height: 17px;
+    width: 220px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    ;
+   
+}
+
+#bit1{
+    height: 17px;
+    background-color: orangered;
+    width: 190px;
+    border-radius: 30px;
+    ;
+   
+}
+
+
+#resume {
+    color:white;
+    background-color: black;
+    border: none;
+    font-size: 9px;
+    border: 1px solid orange;
+    padding: 21px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-right: 15px;
+    border-radius: 30px;
+    cursor: pointer;
+    position: relative;
+    bottom: -350px;
+    left: 40px;
+    scroll-behavior: smooth;
+   
+}
+
+
+
+#contact{
+    color:white;
+    background-color: black;
+    border: none;
+    font-size: 9px;
+    border: 1px solid orange;
+    padding: 21px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-right: 15px;
+    border-radius: 30px;
+    cursor: pointer;
+    position: relative;
+    bottom: -350px;
+    left: 3px;
+    scroll-behavior: smooth;
+}
+
+
+
+#github{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 170px;
+    top: 320px;
+    cursor: pointer;
+    scroll-behavior: smooth;
+    
+}
+
+
+#linkedin{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    top: 320px;
+    left: 120px;
+    cursor: pointer;
+    scroll-behavior: smooth;
+    
+   
+}
+
+
+
+
+#cit{
+    height: 17px;
+    width: 220px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    ;
+   
+}
+
+
+
+#konekt{
+    position: relative;
+    left: -2px;
+    ;
+   
+}
+
+#cit1{
+    height: 17px;
+    background-color: orangered;
+    width: 180px;
+    border-radius: 30px;
+    ;
+   
+
+}
+
+
+
+#dit{
+    height: 17px;
+    width: 220px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    ;
+   
+
+}
+
+#dit1{
+    height: 17px;
+    background-color: orangered;
+    width: 170px;
+    border-radius: 30px;
+    ;
+   
+
+}
+
+#textarea{
+    padding-right: 20px;
+}
+
+
+
+#ait{
+    height: 17px;
+    width: 220px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    position: relative;
+    /* left:1080px; */
+    bottom: 60px;
+    ;
+   
+}
+
+#ait2{
+    height: 17px;
+    width: 220px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+
+}
+
+#ait3{
+    height: 17px;
+    width: 220px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+}
+
+#ait4{
+    height: 17px;
+    width: 220px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+}
+
+
+#ait1{
+    height: 17px;
+    background-color: orangered;
+    width: 160px;
+    border-radius: 30px;
+    ;
+   
+
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:306px){
+
+
+
+    #bhakti{
+        position: relative;
+        left:73px;
+    }
+
+
+
+
+    #resume {
+        color:white;
+        background-color: black;
+        border: none;
+        font-size: 9px;
+        border: 1px solid orange;
+        padding: 21px;
+        padding-top: 11px;
+        padding-bottom: 11px;
+        padding-right: 15px;
+        border-radius: 30px;
+        cursor: pointer;
+        position: relative;
+        bottom: -350px;
+        left: 40px;
+        scroll-behavior: smooth;
+       
+    }
+
+
+
+    #contact{
+        color:white;
+        background-color: black;
+        border: none;
+        font-size: 9px;
+        border: 1px solid orange;
+        padding: 21px;
+        padding-top: 11px;
+        padding-bottom: 11px;
+        padding-right: 15px;
+        border-radius: 30px;
+        cursor: pointer;
+        position: relative;
+        bottom: -350px;
+        left:3px;
+        scroll-behavior: smooth;
+    }
+
+
+    #github{
+        color: white;
+        font-size: 20px;
+        position: relative;
+        left: 170px;
+        top: 320px;
+        cursor: pointer;
+        scroll-behavior: smooth;
+        
+    }
+    
+
+    #linkedin{
+        color: white;
+        font-size: 20px;
+        position: relative;
+        top: 320px;
+        left: 115px;
+        cursor: pointer;
+        scroll-behavior: smooth;
+        
+       
+    }
+
+
+
+
+
+
+    #scroll{
+        color: black;
+        background-color: white;
+        font-size: 10px;
+        border: 2px solid white;
+        border-radius: 50%;
+        padding: 12px;
+        position: relative;
+        top: 740px;
+        left: 20px;
+        cursor: pointer;
+        scroll-behavior: smooth;
+        
+       
+    }
+
+
+#email{
+
+    position: relative;
+    top: 50px;
+    background-color: rgb(80, 80, 80);
+    padding: 10px;
+    padding-right: 100px;
+    border-radius: 10px;
+    border: none;
+    ;
+   
+
+}
+
+
+
+#konekt{
+    position: relative;
+    left: -2px;
+    ;
+   
+}
+
+
+#txt{
+    position: relative;
+    top: 50px;
+    background-color: rgb(80, 80, 80);
+    padding: 10px;
+    padding-right: 100px;
+    border-radius: 10px;
+    border: none;
+   
+}
+
+
+
+
+#textarea{
+    padding-right: 30px;
+}
+
+
+#wit{
+    height: 17px;
+    width: 220px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    ;
+   
+    
+}
+
+#wit1{
+    height: 17px;
+    width: 200px;
+    background-color: orangered;
+    border-radius: 30px;
+    ;
+   
+}
+
+
+#bit{
+    height: 17px;
+    width: 220px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    ;
+   
+}
+
+#bit1{
+    height: 17px;
+    background-color: orangered;
+    width: 190px;
+    border-radius: 30px;
+    ;
+   
+}
+
+
+
+#cit{
+    height: 17px;
+    width: 220px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    ;
+   
+}
+
+#cit1{
+    height: 17px;
+    background-color: orangered;
+    width: 180px;
+    border-radius: 30px;
+    ;
+   
+
+}
+
+
+
+#dit{
+    height: 17px;
+    width: 220px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    ;
+   
+
+}
+
+#dit1{
+    height: 17px;
+    background-color: orangered;
+    width: 170px;
+    border-radius: 30px;
+    ;
+   
+
+}
+
+
+
+#ait{
+    height: 17px;
+    width: 220px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    position: relative;
+    /* left:1080px; */
+    bottom: 60px;
+    ;
+   
+}
+
+#ait2{
+    height: 17px;
+    width: 220px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+
+}
+
+#ait3{
+    height: 17px;
+    width: 220px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+}
+
+#ait4{
+    height: 17px;
+    width: 220px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+}
+
+
+#ait1{
+    height: 17px;
+    background-color: orangered;
+    width: 160px;
+    border-radius: 30px;
+    ;
+   
+
+}
+
+.paragraph{
+    font-size: 5px;
+    position: relative;
+    left: -190px;
+}
+
+
+#fitness{
+    font-size: 10px;
+}
+
+#currency{
+    font-size: 10px;
+}
+
+#fullstack{
+    font-size: 10px;
+}
+
+#weather{
+    font-size: 10px;
+}
+
+#food{
+    font-size: 10px;
+}
+
+#Machine{
+    font-size: 10px;
+}
+
+#truproject{
+    font-size: 9px;
+    position: relative;
+    left: -405px;
+}
+
+#msg{
+    padding: 7px;
+}
+
+#who{
+    left: 130px;
+}
+
+#textarea{
+    padding-right: 20px;
+}
+
+#ribbon{
+    position: relative;
+    top:-230px;
+}
+
+}
+}

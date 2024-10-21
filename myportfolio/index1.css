@@ -1,0 +1,725 @@
+:root{
+    --main-background-color:rgb(250,250,250);
+    --main-background-color2:rgb(0,0,0);
+    --main-background-color3:rgb(0,0,18 );
+    --main-background-color4:rgb(50,50,50);
+
+    --main-font-size:2em;
+}
+
+
+
+body, html{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-self: center;
+    width: 100%;
+    height: 330%;
+    margin: 0;
+    padding: 0;
+    background:  linear-gradient(95deg, rgb(23,0,0), rgb(0,0,0), rgb(250,250,225));
+    scroll-behavior: smooth;
+
+   
+}
+
+#mail{
+    font-size: 30px;
+}
+
+#git{
+    font-size: 30px;
+    position: relative;
+    left: 80px;
+}
+
+
+.calls{
+    position: relative;
+    left: -80px;
+}
+
+#call{
+    position: relative;
+    left: -70px;
+}
+
+.mails{
+    position: relative;
+    left: -10px;
+
+}
+
+.gits{
+    position: relative;
+    left: 70px;
+
+}
+#contact-us{
+    position: relative;
+    top:60px;
+    left: 90px;
+}
+
+
+#envelope{
+    font-size: 60px;
+    position: relative;
+    left: 10px;
+    bottom: -12px;
+
+
+}
+
+.touch{
+    font-size: 40px;
+    position: relative;
+    left: 100px;
+    bottom: 72px;
+}
+
+.txt{
+    position: relative;
+    top: -90px;
+    left: 5px;
+    background-color: rgb(80, 80, 80);
+    padding: 10px;
+    padding-right: 400px;
+    border-radius: 10px;
+    border: none;
+}
+
+.email{
+    position: relative;
+    top: -80px;
+    left: 5px;
+    background-color: rgb(80, 80, 80);
+    padding: 10px;
+    padding-right: 400px;
+    border-radius: 10px;
+    border: none;
+}
+
+#contacts{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: var(--main-background-color4);
+    color: var(--main-background-color);
+    height: 800px;
+    width: 100%;
+
+}
+
+.textarea{
+    position: relative;
+    top: -61px;
+    left: 5px;
+    padding: 90px;
+    padding-right: 300px;
+    background-color: rgb(80, 80, 80);
+    border-radius: 20px;
+}
+
+.msg{
+    position: relative;
+    top: -50px;
+    left: 5px;
+    font-size: 17px;
+    padding: 15px;
+    border-radius: 30px;
+    color: white;
+    background-color: black;
+    border: none;
+    border: 1px solid orangered;
+    cursor: pointer;
+}
+
+.contact-details{
+    background-color: var(--main-background-color2);
+    color: var(--main-background-color);
+    width: 100%;
+    height: 300px;
+    display: flex;
+    flex-wrap: 3;
+    flex-direction: row;
+    font-size: 1.3em;
+    justify-content: center;
+    gap:20px;
+    align-items: center;
+}
+
+.frontend{
+    position: relative;
+    top:100px;
+    left: -220px;
+}
+
+.backend{
+    position: relative;
+    top:-362px;
+    left: 920px;
+
+}
+
+.html{
+    position: relative;
+    top:120px;
+    left: -220px;
+
+}
+
+.css{
+    position: relative;
+    top:80px;
+    left: -220px;
+}
+
+.javascript{
+    position: relative;
+    top:70px;
+    left: -220px;
+}
+
+
+.reactjs{
+    position: relative;
+    top:30px;
+    left: -220px;
+
+}
+
+.python{
+    position: relative;
+    top:-380px;
+    left: 925px;
+
+}
+
+.nodejs{
+    position: relative;
+    top:10px;
+    left: 3px;
+
+}
+
+.mysql{
+    position: relative;
+    top:10px;
+    left: 3px;
+
+
+}
+
+.postgre{
+    position: relative;
+    top:10px;
+    left: 3px;
+
+
+}
+
+.ait4{
+    height: 17px;
+    width: 400px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+
+}
+
+.ait1{
+    height: 17px;
+    width: 250px;
+    background-color: orangered;
+    border-radius: 30px;
+
+}
+
+.ait3{
+    height: 17px;
+    width: 400px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    position: relative;
+    left:-1px;
+    top:-3px;
+
+}
+
+.ait1{
+    height: 17px;
+    width: 250px;
+    background-color: orangered;
+    border-radius: 30px;
+
+}
+.ait2{
+    height: 17px;
+    width: 400px;
+    position: relative;
+    left:-1px;
+    top:-4px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+
+
+}
+
+.ait1{
+    height: 17px;
+    width: 250px;
+    background-color: orangered;
+    border-radius: 30px;
+
+}
+
+.ait{
+    height: 17px;
+    width: 400px;
+    position: relative;
+    left: 920px;
+    top:-400px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+
+}
+
+.ait1{
+    height: 17px;
+    width: 250px;
+    background-color: orangered;
+    border-radius: 30px;
+
+}
+
+.dit{
+    height: 17px;
+    width: 400px;
+    position: relative;
+    left: -220px;
+    top:20px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+}
+
+.dit1{
+    height: 17px;
+    width: 250px;
+    background-color: orangered;
+    border-radius: 30px;
+
+
+}
+
+.cit{
+    height: 17px;
+    width: 400px;
+    position: relative;
+    left: -220px;
+    top:60px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+
+}
+
+.cit1{
+    height: 17px;
+    width: 300px;
+    background-color: orangered;
+    border-radius: 30px;
+
+}
+
+.wit{
+    height: 17px;
+    width: 400px;
+    position: relative;
+    left: -220px;
+    top:100px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+    ;
+   
+    
+}
+
+.wit1{
+    height: 17px;
+    width: 300px;
+    background-color: orangered;
+    border-radius: 30px;
+    ;
+   
+}
+
+.bit{
+    height: 17px;
+    width: 400px;
+    position: relative;
+    left: -220px;
+    top: 60px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 30px;
+
+}
+
+.bit1{
+    height: 17px;
+    width: 300px;
+    background-color: orangered;
+    border-radius: 30px;
+
+}
+
+
+.skill{
+    position: relative;
+    top:80px;
+    left: -220px;
+}
+
+#project{
+    font-weight: 400;
+    position: relative;
+    left: -500px;
+    bottom: -40px;
+    
+}
+
+.project123{
+    position: relative;
+    left: -220px;
+}
+
+.projects{
+    position: relative;
+    left: 400px;
+    bottom:100px;
+}
+
+.my-info{
+    height: 3000px;
+    width: 100%;
+    overflow: hidden;
+    background-color: var(--main-background-color);
+    color:var(--main-background-color2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    flex-shrink: 2;
+}
+
+.professionals{
+    position: relative;
+    top:100px;
+    left: -370px;
+}
+
+#priffesional{
+    position: relative;
+    left: -700px;
+}
+
+.education{
+    font-weight: 350;
+    position: relative;
+    bottom: 80px;
+    left: 110px;
+    margin-top: 150px;
+    margin-right: 900px;
+}
+
+#paragraph{
+    position: relative;
+    bottom:190px;
+    left: -60px;
+    line-height: 5px;
+}
+
+#paragraph1{
+    position: relative;
+    bottom:190px;
+    left: 10px;
+    line-height: 5px;
+
+}
+
+#paragraph2{
+    position: relative;
+    bottom:190px;
+    left: -30px;
+    line-height: 5px;
+
+}
+
+.educate{
+    position: relative;
+    bottom:150px;
+    left: -50px;
+    font-weight: 490;
+    line-height: 5px;
+
+}
+
+.bachelors{
+    font-weight: 340;
+    margin-top: 150px;
+    position: relative;
+    left: -850px;
+}
+
+.image{
+    height: 10em;
+    width: 8em;
+    position: relative;
+    left: -910px;
+    top:-90px;
+}
+
+.intro{
+    background-color: var(--main-background-color3);
+    color: var(--main-background-color);
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-shrink: 2;
+    overflow: hidden;
+
+
+}
+
+
+#mandola{
+    font-size: 2em;
+    position: relative;
+    top:-175px;
+    left: 470px;
+}
+
+#fontgame{
+    position: relative;
+    top:170px;
+    left: -300px;
+    font-size: 30px;
+}
+
+.interest{
+    position: relative;
+    top:170px;
+    left: -295px;
+
+}
+
+
+.interests{
+    position: relative;
+    top:170px;
+    left: -290px;
+    font-size: 1em;
+
+}
+
+.paragraph{
+    position: relative;
+    left: 310px;
+}
+
+
+
+
+/* 
+.image{
+    height: 11em;
+}
+.interest{
+    position: relative;
+    top:300px;
+    left: -720px;
+
+}
+
+
+.interests{
+    position: relative;
+    top:300px;
+    left: -710px;
+    font-size: 1em;
+
+}
+#fontgame{
+    position: relative;
+    top:300px;
+    left: -730px;
+    font-size: 30px;
+}
+
+#mandola{
+    font-size: 2em;
+    position: relative;
+    top:-175px;
+    left: 290px;
+}
+
+.paragraph{
+    font-size: 1.4em;
+    position: relative;
+    left: 120px;
+    top:30px;
+} */
+
+
+.title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    height: 100vh;
+    color: white;
+    flex-wrap: 5;
+    gap:20px;
+    position: relative;
+    top:50px;
+
+}
+
+#bhakti{
+    font-size: 3em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    top:50px;
+    
+}
+
+h1,h2,h3,h4,h5,h6,p,span,li {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+#rembutton, #konekt{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+#linkedin{
+    color: white;
+    font-size: 2em;
+    position: relative;
+    top:-29px;
+    left: -70px;
+}
+
+#github{
+    color: white;
+    font-size: 2em;
+    position: relative;
+    top: -83px;
+    left: -20px;
+
+}
+
+/* .logos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:20px;
+    position: relative;
+    bottom:260px;
+    left: -70px;
+} */
+
+
+
+#resume, #contact{
+    padding: 10px 25px;
+    border-radius: 50px;
+    background-color: black;
+    color: aliceblue;
+    border: 2px solid orange;
+    cursor: pointer;
+}  
+
+
+#resume{
+    position: relative;
+    bottom: 80px;
+    left: -100px;
+
+
+}
+
+#contact{
+    position: relative;
+    bottom: 143px;
+    left: 40px;
+
+}
+
+
+#linkedin:hover{
+    background-color: rgb(90,20,30);
+    transition: 2000ms;
+
+}
+
+
+#github:hover{
+    background-color: rgb(90,20,30);
+    transition: 2000ms;
+}
+
+
+ #contact:hover{
+    background-color: rgb(90,20,30);
+    transition: 1000ms;
+}
+
+
+#resume:hover{
+    background-color: rgb(90,20,30);
+    transition: 1000ms;
+}
+
+
+/* 
+#scroll{
+    background-color: var(--main-background-color);
+    color: var(--main-background-color2);
+    border-radius: 50%;
+    padding: 20px;
+
+}  */
+
+#scroll{
+    background-color: var(--main-background-color);
+    color: var(--main-background-color2);
+    border-radius: 50%;
+    cursor: pointer;
+    padding: 20px;
+    position: relative;
+    top:130px;
+    left: -40px;
+    
+} 
+
+
+#arrow-down{
+    background-color: var(--main-background-color);
+    color: var(--main-background-color2);
+    border-radius: 50%;
+    cursor: pointer;
+    padding: 20px;
+    position: relative;
+    top:-130px;
+    left: -450px;
+
+}
+
+
